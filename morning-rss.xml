@@ -4,10 +4,37 @@
 		<title>ChatGPT Morning RSS</title>
 		<link>http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=html</link>
 		<description>Read-only recent article feed for the morning summary.</description>
-		<pubDate>Sun, 16 Aug 2026 09:05:02 -0600</pubDate>
-		<lastBuildDate>Sun, 16 Aug 2026 15:05:02 GMT</lastBuildDate>
+		<pubDate>Sun, 16 Aug 2026 10:05:02 -0600</pubDate>
+		<lastBuildDate>Sun, 16 Aug 2026 16:05:02 GMT</lastBuildDate>
 		<atom:link href="http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>Open Source Massive Time Series Visualizations</title>
+			<link>https://www.reddit.com/r/gis/comments/1vq0bhi/open_source_massive_time_series_visualizations/</link>
+						<originalLink>https://www.reddit.com/r/gis/comments/1vq0bhi/open_source_massive_time_series_visualizations/</originalLink><dc:creator>/u/tradeutters</dc:creator>
+			<category>r/gis</category>
+			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;My team just open sourced our battle tested big data time series visualization client with Apache 2.0 license.&lt;/p&gt; &lt;p&gt;GPU‑accelerated 4D globe engine purpose‑built for massive geospatial time series visualization.&lt;/p&gt; &lt;p&gt;Blogpost: &lt;a href="https://flexmon.github.io/globe-trotter/blog/"&gt;https://flexmon.github.io/globe-trotter/blog/&lt;/a&gt;&lt;br&gt; Repo: &lt;a href="https://github.com/flexmon/globe-trotter"&gt;https://github.com/flexmon/globe-trotter&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/tradeutters"&gt; /u/tradeutters &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/gis/"&gt; r/gis &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vq0bhi/open_source_massive_time_series_visualizations/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vq0bhi/open_source_massive_time_series_visualizations/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+			<excerpt>My team just open sourced our battle tested big data time series visualization client with Apache 2.0 license. GPU‑accelerated 4D globe engine purpose‑built for massive geospatial time series visualization. Blogpost: https://flexmon.github.io/globe-trotter/blog/ Repo: https://github.com/flexmon/globe-trotter</excerpt><pubDate>Sun, 16 Aug 2026 09:41:58 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 10:05:02 -0600</firstSeen><guid isPermaLink="false">1786896182467258</guid>
+		</item>
+		<item>
+			<title>GIS vs Data Engineering: Which Is Better Long Term?</title>
+			<link>https://www.reddit.com/r/gis/comments/1vpzz09/gis_vs_data_engineering_which_is_better_long_term/</link>
+						<originalLink>https://www.reddit.com/r/developersIndia/comments/1vpzwop/gis_vs_data_engineering_which_is_better_long_term/</originalLink><dc:creator>/u/KARNA5000</dc:creator>
+			<category>r/gis</category>
+			<description>  submitted by   &lt;a href="https://www.reddit.com/user/KARNA5000"&gt; /u/KARNA5000 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/gis/"&gt; r/gis &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/developersIndia/comments/1vpzwop/gis_vs_data_engineering_which_is_better_long_term/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vpzz09/gis_vs_data_engineering_which_is_better_long_term/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+			<excerpt>GIS vs Data Engineering: Which Is Better Long Term?</excerpt><pubDate>Sun, 16 Aug 2026 09:28:07 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 10:05:02 -0600</firstSeen><guid isPermaLink="false">1786896182467257</guid>
+		</item>
+		<item>
+			<title>Counting Weights of Each Lego Piece in a Lego Set</title>
+			<link>https://www.reddit.com/r/learnpython/comments/1vpyxft/counting_weights_of_each_lego_piece_in_a_lego_set/</link>
+						<originalLink>https://www.reddit.com/r/learnpython/comments/1vpyxft/counting_weights_of_each_lego_piece_in_a_lego_set/</originalLink><dc:creator>/u/GandhiLord</dc:creator>
+			<category>r/learnpython</category>
+			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I am trying to generate a code that web scraps the internet to find each weight of the Lego piece of a Lego set. Im doing this for one of my statistical mechanics class. Any code online that already does this or is there a data set that has it already except for BrickLink?&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/GandhiLord"&gt; /u/GandhiLord &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpyxft/counting_weights_of_each_lego_piece_in_a_lego_set/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpyxft/counting_weights_of_each_lego_piece_in_a_lego_set/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+			<excerpt>I am trying to generate a code that web scraps the internet to find each weight of the Lego piece of a Lego set. Im doing this for one of my statistical mechanics class. Any code online that already does this or is there a data set that has it already except for BrickLink?</excerpt><pubDate>Sun, 16 Aug 2026 08:46:44 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 10:05:02 -0600</firstSeen><guid isPermaLink="false">1786896182467256</guid>
+		</item>
+		<item>
 			<title>Marvel Tōkon's simple but effective combo trials are an elegant tutorial solution that I wish more fighting games had</title>
 			<link>https://www.pcgamer.com/games/fighting/marvel-tokons-simple-but-effective-combo-trials-are-an-elegant-tutorial-solution-that-i-wish-more-fighting-games-had/</link>
 						<originalLink>https://www.pcgamer.com/games/fighting/marvel-tokons-simple-but-effective-combo-trials-are-an-elegant-tutorial-solution-that-i-wish-more-fighting-games-had/</originalLink><category>Fighting</category>
@@ -938,7 +965,8 @@ broader fire-weather concerns are unlikely due to the modest winds.
 		<item>
 			<title>Cannon, Navarro score in second half to back Hansen as Rapids top Sporting KC 2-0</title>
 			<link>https://www.denver7.com/sports/cannon-navarro-score-in-second-half-to-back-hansen-as-rapids-top-sporting-kc-2-0</link>
-						<originalLink>https://www.denver7.com/sports/cannon-navarro-score-in-second-half-to-back-hansen-as-rapids-top-sporting-kc-2-0</originalLink><description>                                                                        &lt;p&gt;COMMERCE CITY, Colo. (AP)  Defender Reggie Cannon scored midway through the second half with an assist from Youssef Maziz in his MLS debut, and Nico Hansen was stellar in goal as the Colorado Rapids beat Sporting Kansas City 2-0 on Saturday night.&lt;/p&gt;&lt;p&gt;Colorado (8-10-1) played with a man advantage after a red card on Sporting KC midfielder Kwaku Agyabeng in the 38th minute.&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/MLS/status/2088825070776971409?s=20"&gt;Cannon took a pass&lt;/a&gt; from Maziz in the 65th minute to score his first goal this season with a header and give Colorado a 1-0 lead. Cannon's netter was his fourth in 111 appearances. Maziz entered in the 56th minute before providing the spark.&lt;/p&gt;&lt;p&gt;Hansen turned away three shots on goal for Colorado (8-10-1). Hansen has four clean sheets in 10 starts this season and seven in 20 career starts.&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/MLS/status/2088832643831923157?s=20"&gt;Rafael Navarro capped&lt;/a&gt; the scoring in the fifth minute of stoppage time after Sporting KC defender Moiss Mosquera exited with a red card three minutes earlier. Navarro's 10th goal of the campaign came with an assist from Paxten Aaronson. All six of Aaronson's career assists have come this season after making 44 appearances without one. Mosquera was hit with two yellow cards in a four-minute span.&lt;/p&gt;&lt;p&gt;Navarro scored on a penalty kick in second-half stoppage time last time out to lead Colorado to a 1-0 victory over visiting Austin FC.&lt;/p&gt;&lt;p&gt;Aaronson scored two goals in the Rapids' 4-1 road win over Sporting KC in March.&lt;/p&gt;&lt;p&gt;Stefan Cleveland had two saves in his 10th start for Sporting KC (4-13-2).&lt;/p&gt;&lt;p&gt;Sporting KC has been outscored by seven goals in losing five of its last six matches. The club beat the Rapids twice last year.&lt;/p&gt; Up next&lt;p&gt;Kansas City: Hosts St. Louis City on Wednesday.&lt;/p&gt;&lt;p&gt;Colorado: Hosts Los Angeles FC on Wednesday.&lt;/p&gt;&lt;p&gt;___&lt;/p&gt;&lt;p&gt;&lt;a href="https://apnews.com/hub/soccer"&gt;See APs full soccer coverage here&lt;/a&gt;&lt;/p&gt;    </description>
+						<originalLink>https://www.denver7.com/sports/cannon-navarro-score-in-second-half-to-back-hansen-as-rapids-top-sporting-kc-2-0</originalLink><dc:creator>The Associated Press</dc:creator>
+			<description>                                                                        &lt;p&gt;COMMERCE CITY, Colo. (AP)  Defender Reggie Cannon scored midway through the second half with an assist from Youssef Maziz in his MLS debut, and Nico Hansen was stellar in goal as the Colorado Rapids beat Sporting Kansas City 2-0 on Saturday night.&lt;/p&gt;&lt;p&gt;Colorado (8-10-1) played with a man advantage after a red card on Sporting KC midfielder Kwaku Agyabeng in the 38th minute.&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/MLS/status/2088825070776971409?s=20"&gt;Cannon took a pass&lt;/a&gt; from Maziz in the 65th minute to score his first goal this season with a header and give Colorado a 1-0 lead. Cannon's netter was his fourth in 111 appearances. Maziz entered in the 56th minute before providing the spark.&lt;/p&gt;&lt;p&gt;Hansen turned away three shots on goal for Colorado (8-10-1). Hansen has four clean sheets in 10 starts this season and seven in 20 career starts.&lt;/p&gt;&lt;p&gt;&lt;a href="https://x.com/MLS/status/2088832643831923157?s=20"&gt;Rafael Navarro capped&lt;/a&gt; the scoring in the fifth minute of stoppage time after Sporting KC defender Moiss Mosquera exited with a red card three minutes earlier. Navarro's 10th goal of the campaign came with an assist from Paxten Aaronson. All six of Aaronson's career assists have come this season after making 44 appearances without one. Mosquera was hit with two yellow cards in a four-minute span.&lt;/p&gt;&lt;p&gt;Navarro scored on a penalty kick in second-half stoppage time last time out to lead Colorado to a 1-0 victory over visiting Austin FC.&lt;/p&gt;&lt;p&gt;Aaronson scored two goals in the Rapids' 4-1 road win over Sporting KC in March.&lt;/p&gt;&lt;p&gt;Stefan Cleveland had two saves in his 10th start for Sporting KC (4-13-2).&lt;/p&gt;&lt;p&gt;Sporting KC has been outscored by seven goals in losing five of its last six matches. The club beat the Rapids twice last year.&lt;/p&gt; Up next&lt;p&gt;Kansas City: Hosts St. Louis City on Wednesday.&lt;/p&gt;&lt;p&gt;Colorado: Hosts Los Angeles FC on Wednesday.&lt;/p&gt;&lt;p&gt;___&lt;/p&gt;&lt;p&gt;&lt;a href="https://apnews.com/hub/soccer"&gt;See APs full soccer coverage here&lt;/a&gt;&lt;/p&gt;    </description>
 			<excerpt>COMMERCE CITY, Colo. (AP) Defender Reggie Cannon scored midway through the second half with an assist from Youssef Maziz in his MLS debut, and Nico Hansen was stellar in goal as the Colorado Rapids beat Sporting Kansas City 2-0 on Saturday night. Colorado (8-10-1) played with a man advantage after a red card on Sporting KC midfielder Kwaku Agyabeng in the 38th minute. Cannon took a pass from Maziz in the 65th minute to score his first goal this season with a header and give Colorado a 1-0 lead. Cannon's netter was his fourth in 111 appearances. Maziz entered in the 56th minute before providing the spark. Hansen turned away three shots on goal for Colorado (8-10-1). Hansen has four clean…</excerpt><pubDate>Sat, 15 Aug 2026 21:58:14 -0600</pubDate>
 			<firstSeen>Sun, 16 Aug 2026 08:05:02 -0600</firstSeen><guid isPermaLink="false">1786887193366186</guid>
 		</item>
@@ -998,148 +1026,6 @@ broader fire-weather concerns are unlikely due to the modest winds.
 			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/Colorado/comments/1vpmkpz/does_your_dog_make_you_safer_in_bear_country/"&gt; &lt;img src="https://external-preview.redd.it/-NFeV_LJU2UHUhgP6ru51TATOg3BRc9wtsG9WfQDA48.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=08deb493e39399f6de201f9f6067f32f7bb855dd" alt="Does your dog make you safer in bear country?" title="Does your dog make you safer in bear country?"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;   submitted by   &lt;a href="https://www.reddit.com/user/lukepatrick"&gt; /u/lukepatrick &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Colorado/"&gt; r/Colorado &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.hcn.org/articles/does-your-dog-makes-you-safer-in-bear-country/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Colorado/comments/1vpmkpz/does_your_dog_make_you_safer_in_bear_country/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
 			<excerpt>Does your dog make you safer in bear country?</excerpt><pubDate>Sat, 15 Aug 2026 21:47:37 -0600</pubDate>
 			<firstSeen>Sun, 16 Aug 2026 08:05:02 -0600</firstSeen><guid isPermaLink="false">1786858382054390</guid>
-		</item>
-		<item>
-			<title>Poll: Do you turn your PC off at night?</title>
-			<link>https://www.pcgamer.com/hardware/poll-do-you-turn-your-pc-off-at-night/</link>
-						<originalLink>https://www.pcgamer.com/hardware/poll-do-you-turn-your-pc-off-at-night/</originalLink><category>Hardware</category>
-			<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/y7csya4ixYq9L3MqiNFXY-1280-80.jpg" />
-			<media:content url="https://cdn.mos.cms.futurecdn.net/y7csya4ixYq9L3MqiNFXY-1280-80.jpg" medium="image" />
-			<description>&lt;article&gt;
-                                &lt;p&gt;An electrician once told me that turning your computer off and then on again uses more electricity than just leaving it on for hours, an oversimplification if not an outright lie that I believed for years. While it is true that turning your PC off and on puts wear and tear on the components, so does leaving it on for hours and hours.&lt;/p&gt;&lt;p&gt;Now that turning a PC on takes an amount of time so miniscule you don't even have a chance to get a drink before it's ready to go, there's no good excuse for adding to your power bill by leaving it on. Of course, we do things we have no good excuse for all the time, like starting another campaign as Karl Franz in Total War: Warhammer despite all the other campaigns we haven't even tried yet.&lt;/p&gt;&lt;p&gt;Where do you stand on this, the most divisive issue in PC gaming this side of Dragon Age 2's relative position in the series tier list? Our strategic director Evan Lahti is team turn if off, because any more hours his PC is on are hours dust is being sucked into the system. Meanwhile, our US news lead Andy Chalk got into the habit of leaving his on back when he ran a BBS and still does. Our former hardware editor Jarred Walton used to turn his desktop PC off because its RGB lights were too bright, but would leave his laptop on, necessitating the addition of a third option to my otherwise neat poll.&lt;/p&gt;&lt;div&gt;                                &lt;div data-sanitized-class="kwizly-quiz kwizly-OdRAAe"&gt;&lt;/div&gt;                            &lt;/div&gt;                            
-                                                            &lt;/article&gt;</description>
-			<excerpt>An electrician once told me that turning your computer off and then on again uses more electricity than just leaving it on for hours, an oversimplification if not an outright lie that I believed for years. While it is true that turning your PC off and on puts wear and tear on the components, so does leaving it on for hours and hours. Now that turning a PC on takes an amount of time so miniscule you don't even have a chance to get a drink before it's ready to go, there's no good excuse for adding to your power bill by leaving it on. Of course, we do things we have no good excuse for all the time, like starting another campaign as Karl Franz in Total War: Warhammer despite all the other…</excerpt><pubDate>Sat, 15 Aug 2026 22:53:38 -0600</pubDate>
-			<firstSeen>Sat, 15 Aug 2026 23:05:02 -0600</firstSeen><guid isPermaLink="false">1786856585679100</guid>
-		</item>
-		<item>
-			<title>The quirky personal homepages of programming language creators</title>
-			<link>https://breck.lol/plMakers.html</link>
-						<originalLink>https://breck.lol/plMakers.html</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49316888"&gt;Comments&lt;/a&gt;</description>
-			<excerpt>The quirky personal homepages of programming language creators</excerpt><pubDate>Sat, 15 Aug 2026 22:24:00 -0600</pubDate>
-			<firstSeen>Sat, 15 Aug 2026 23:05:02 -0600</firstSeen><guid isPermaLink="false">1786856585679099</guid>
-		</item>
-		<item>
-			<title>APOD: 2026 August 16 – Milky Way over Yellowstone</title>
-			<link>https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/</link>
-						<originalLink>https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/</originalLink><category>APOD</category>
-			<description>&lt;div data-sanitized-id="" data-sanitized-class="hds-module hds-module-full alignfull wp-block-nasa-blocks-secondary-navigation"&gt;
-&lt;div data-sanitized-class="hds-secondary-navigation-wrapper z-top width-100 padding-0"&gt;
-&lt;div data-sanitized-id="" data-sanitized-class="hds-secondary-navigation width-full border-bottom-1px text-center hds-color-mode-dark hds-module hds-module-full alignfull wp-block-nasa-blocks-hdsnav"&gt;&lt;button aria-expanded="false" aria-controls="hds-secondary-nav-track" data-sanitized-class="hds-secondary-nav-mobile-button display-flex tablet:display-flex desktop:display-none width-full flex-align-center bg-carbon-90 border-color-carbon-80 color-spacesuit-white"&gt;&lt;span&gt;APOD&lt;/span&gt;&lt;/button&gt;
-&lt;div data-sanitized-class="hds-secondary-nav-track grid-container grid-container-extrawide padding-0 tablet:padding-x-3 desktop:padding-x-2 hds-secondary-navigation-has-breadcrumbs"&gt;
-&lt;div data-sanitized-class="hds-secondary-navigation-breadcrumbs display-none tablet:display-none desktop:display-flex flex-align-center"&gt;
-&lt;nav aria-label="Breadcrumbs" data-sanitized-class="usa-breadcrumb"&gt;
-&lt;ol data-sanitized-class="usa-breadcrumb__list"&gt;
-&lt;li data-sanitized-class="usa-breadcrumb__list-item"&gt;&lt;a href="https://science.nasa.gov/" data-sanitized-class="usa-breadcrumb__link"&gt;&lt;span&gt;Science&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sanitized-class="usa-breadcrumb__list-item"&gt;&lt;a href="https://science.nasa.gov/apod/apod-index/" data-sanitized-class="usa-breadcrumb__link"&gt;&lt;span&gt;APOD&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li aria-current="page" data-sanitized-class="usa-breadcrumb__list-item usa-current"&gt;&lt;span&gt;APOD: 2026 August 16 – Milky…&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/nav&gt;
-&lt;/div&gt;
-&lt;div data-sanitized-class="hds-secondary-navigation-menu-items"&gt;
-&lt;nav&gt;
-&lt;ul data-sanitized-class="usa-nav__primary usa-accordion flex-justify-center margin-0"&gt;
-&lt;li data-sanitized-class="usa-nav__primary-item "&gt;&lt;a href="https://science.nasa.gov/apod/" data-sanitized-class="usa-nav__link"&gt;Today’s APOD&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sanitized-class="usa-nav__primary-item "&gt;&lt;a href="https://science.nasa.gov/apod/archive/" data-sanitized-class="usa-nav__link"&gt;Archive&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sanitized-class="usa-nav__primary-item "&gt;&lt;a href="https://science.nasa.gov/apod/submit/" data-sanitized-class="usa-nav__link"&gt;Submissions&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sanitized-class="usa-nav__primary-item "&gt;&lt;a href="https://science.nasa.gov/apod/apod-index/" data-sanitized-class="usa-nav__link"&gt;Index&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sanitized-class="usa-nav__primary-item "&gt;&lt;a href="https://science.nasa.gov/apod/apod-search/" data-sanitized-class="usa-nav__link"&gt;Search&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sanitized-class="usa-nav__primary-item "&gt;&lt;a href="https://science.nasa.gov/apod/apod-calendar/" data-sanitized-class="usa-nav__link"&gt;Calendar&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sanitized-class="usa-nav__primary-item "&gt;&lt;a href="https://science.nasa.gov/feed/apod-basic/" data-sanitized-class="usa-nav__link"&gt;RSS&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sanitized-class="usa-nav__primary-item "&gt;&lt;a href="https://science.nasa.gov/apod/apod-education/" data-sanitized-class="usa-nav__link"&gt;Education&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sanitized-class="usa-nav__primary-item "&gt;&lt;a href="https://science.nasa.gov/apod/apod-about/" data-sanitized-class="usa-nav__link"&gt;About&lt;/a&gt;&lt;/li&gt;
-&lt;li data-sanitized-class="usa-nav__primary-item "&gt;&lt;a href="https://asterisk.apod.com/discuss_apod.php?date=260816" data-sanitized-class="usa-nav__link"&gt;Discuss&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/nav&gt;
-&lt;/div&gt;
-&lt;div data-sanitized-class="hds-secondary-navigation-menu-spacer"&gt; &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-sanitized-id="" data-sanitized-class="hds-media-detail-hero nasa-gb-align-wide width-full maxw-full margin-y-5 desktop:margin-y-7 padding-x-3 media-detail-hero--suppress-inner-media-caption hds-module alignwide wp-block-nasa-blocks-media-detail-hero"&gt;
-&lt;div data-sanitized-class="grid-container grid-container-block padding-x-0"&gt;
-&lt;p data-sanitized-class="label margin-bottom-1"&gt;APOD&lt;/p&gt;
-&lt;p data-sanitized-class="heading-22 margin-top-0 margin-bottom-2"&gt;Astronomy Picture of the Day&lt;/p&gt;
-&lt;p data-sanitized-class="p-md margin-top-0 margin-bottom-3 media-detail-hero__subtext"&gt;
-				&lt;a href="https://science.nasa.gov/apod/archive/"&gt;Discover the cosmos!&lt;/a&gt; Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.			&lt;/p&gt;
-&lt;div data-sanitized-class="media-detail-hero__media margin-bottom-6"&gt;
-&lt;div data-sanitized-id="" data-sanitized-class="hds-media hds-module wp-block-image"&gt;
-&lt;div data-sanitized-class="margin-left-auto margin-right-auto nasa-block-align-full"&gt;
-&lt;div data-sanitized-class="hds-media-wrapper margin-left-auto margin-right-auto"&gt;
-&lt;figure data-sanitized-class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit "&gt;&lt;a href="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/mwyellowstone_lane_1800.jpg?w=1800&amp;amp;h=1200&amp;amp;fit=clip&amp;amp;crop=faces%2Cfocalpoint"&gt;&lt;img width="1800" height="1200" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/august/mwyellowstone_lane_1800.jpg?w=1800&amp;amp;h=1200&amp;amp;fit=clip&amp;amp;crop=faces%2Cfocalpoint" alt="A composite image of the night sky above the old faithful guyser in Yelowstone National Park." data-sanitized-class="attachment-2048x2048 size-2048x2048"&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;
-&lt;h1 data-sanitized-class="display-48 margin-top-0 margin-bottom-3"&gt;&lt;strong&gt;Milky Way over Yellowstone&lt;/strong&gt;&lt;/h1&gt;
-&lt;div data-sanitized-class="grid-row media-detail-hero__content-row"&gt;
-&lt;div data-sanitized-class="grid-col-12 desktop:grid-col-6"&gt;
-&lt;p data-sanitized-class="p-md margin-0 media-detail-hero__description"&gt;
-							&lt;strong&gt;Explanation:&lt;/strong&gt; The Milky Way was not created by an evaporating lake. The colorful pool of water, about 10 meters across, is known as &lt;a href="https://www.nps.gov/features/yell/tours/fountainpaint/silexspring.htm"&gt;Silex Spring&lt;/a&gt; and is located in &lt;a href="http://www.yellowstone.co/pdfs/ytsummer2011.pdf"&gt;Yellowstone National Park&lt;/a&gt; in &lt;a href="https://en.wikipedia.org/wiki/Wyoming"&gt;Wyoming&lt;/a&gt;, &lt;a href="https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States"&gt;USA&lt;/a&gt;. Illuminated artificially, the colors are caused by layers of &lt;a href="https://oceanservice.noaa.gov/facts/extremophile.html"&gt;bacteria&lt;/a&gt; that grow in the &lt;a href="https://goo.gl/maps/ZcydY"&gt;hot spring&lt;/a&gt;. Steam rises off &lt;a href="https://youtu.be/9jQNg_q-KzY"&gt;the spring&lt;/a&gt;, heated by underground &lt;a href="https://astrobiology.nasa.gov/news/the-magma-ocean-and-us/"&gt;magma&lt;/a&gt; associated with the &lt;a href="https://en.wikipedia.org/wiki/Yellowstone_hotspot"&gt;Yellowstone Hotspot&lt;/a&gt;. Unrelated and far in the distance, the &lt;a href="https://apod.nasa.gov/apod/ap110710.html"&gt;central band&lt;/a&gt; of our &lt;a href="https://science.nasa.gov/resource/the-milky-way-galaxy/"&gt;Milky Way Galaxy&lt;/a&gt; arches high overhead, a band lit by billions of stars. The picture features a 16-image panorama taken in 2014. If the &lt;a href="https://www.usgs.gov/observatories/yvo/news/just-how-long-has-yellowstone-hotspot-been-around"&gt;Yellowstone Hotspot&lt;/a&gt; causes &lt;a href="https://imgur.com/EzwC34o"&gt;another supervolcanic eruption&lt;/a&gt; as it did about &lt;a href="https://en.wikipedia.org/wiki/Lava_Creek_Tuff"&gt;640,000 years ago&lt;/a&gt;, a &lt;a href="https://www.usgs.gov/faqs/what-would-happen-if-a-supervolcano-eruption-occurred-again-yellowstone"&gt;large part of North America&lt;/a&gt; would be affected.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Growing Gallery: &lt;/strong&gt;&lt;a href="https://www.facebook.com/media/set/?set=a.1048378671224043&amp;amp;type=3"&gt;Solar Eclipse of 2026 August 12&lt;/a&gt;&lt;br&gt;&lt;strong&gt;Tomorrow’s picture: &lt;/strong&gt;eclipse shower						&lt;/p&gt;
-&lt;/div&gt;
-&lt;div aria-hidden="true" data-sanitized-class="display-none desktop:display-block desktop:grid-col-1"&gt;&lt;/div&gt;
-&lt;div data-sanitized-class="grid-col-12 desktop:grid-col-5 margin-top-3 desktop:margin-top-0"&gt;
-&lt;table data-sanitized-class="media-detail-hero__meta-table width-full"&gt;
-&lt;tbody&gt;
-&lt;tr data-sanitized-class="media-detail-hero__meta-row"&gt;
-&lt;th scope="row" data-sanitized-class="label padding-y-1"&gt;Date&lt;/th&gt;
-&lt;td data-sanitized-class="p-sm padding-y-1"&gt;
-												August 16, 2026											&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr data-sanitized-class="media-detail-hero__meta-row"&gt;
-&lt;th scope="row" data-sanitized-class="label padding-y-1"&gt;Credit &amp;amp; Copyright:&lt;/th&gt;
-&lt;td data-sanitized-class="p-sm padding-y-1"&gt;
-												&lt;a href="https://www.davelaneastrophotography.com/about/"&gt;Dave Lane&lt;/a&gt;											&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr data-sanitized-class="media-detail-hero__meta-row"&gt;
-&lt;th scope="row" data-sanitized-class="label padding-y-1"&gt;Authors &amp;amp; editors:&lt;/th&gt;
-&lt;td data-sanitized-class="p-sm padding-y-1"&gt;
-												Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe											&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr data-sanitized-class="media-detail-hero__meta-row"&gt;
-&lt;th scope="row" data-sanitized-class="label padding-y-1"&gt;A service of:&lt;/th&gt;
-&lt;td data-sanitized-class="p-sm padding-y-1"&gt;
-												&lt;a href="https://science.gsfc.nasa.gov/astrophysics/"&gt;ASD&lt;/a&gt; at &lt;a href="https://www.nasa.gov/"&gt;NASA&lt;/a&gt; / &lt;a href="https://www.nasa.gov/centers/goddard/"&gt;GSFC&lt;/a&gt;,&lt;br&gt;&lt;a href="https://science.nasa.gov/learn/about-science-activation/"&gt;NASA Science Activation&lt;/a&gt; &amp;amp; &lt;a href="https://www.mtu.edu/"&gt;Michigan Tech. U.&lt;/a&gt;											&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-sanitized-id="" data-sanitized-class="nasa-gb-align-wide nasa-button-link padding-y-1 padding-x-0 hds-module alignwide wp-block-nasa-blocks-related-link"&gt;
-			&lt;a href="https://science.nasa.gov/apod/random-apod/" aria-label="Random APOD Generator" data-sanitized-class="button-primary button-primary-md link-external-false"&gt;&lt;br&gt;
-			&lt;span data-sanitized-class="line-height-alt-1"&gt;Random APOD Generator&lt;/span&gt;&lt;br&gt;
-			&lt;br&gt;
-		&lt;/a&gt;&lt;/div&gt;
-&lt;div aria-hidden="true" data-sanitized-class="wp-block-spacer"&gt;&lt;/div&gt;
-&lt;div data-sanitized-id="" data-sanitized-class="hds-module alignwide wp-block-smd-block-next-prev"&gt;
-&lt;div data-sanitized-class="smd-next-prev-buttons-titles"&gt;
-            &lt;a href="https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/" data-sanitized-class="smd-next-prev__prev"&gt;
-&lt;div data-sanitized-class="hds-next-prev-nav-arrow hds-next-prev-arrow-prev"&gt;
-                    
-                &lt;/div&gt;
-&lt;div data-sanitized-class="smd-next-prev-buttons-titles__content"&gt;
-&lt;div data-sanitized-class="smd-next-prev-buttons-titles__prev-label"&gt;
-                        Yesterday’s Image                    &lt;/div&gt;
-&lt;div data-sanitized-class="smd-next-prev-buttons-titles__prev"&gt;
-                        APOD: 2026 August 15 – Bright Perseids from Sweden                    &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;            &lt;/p&gt;&lt;/a&gt;&lt;br&gt;
-            &lt;a href="https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/#" data-sanitized-class="smd-next-prev__next smd-next-prev__disabled"&gt;
-&lt;div data-sanitized-class="smd-next-prev-buttons-titles__content"&gt;
-&lt;div data-sanitized-class="smd-next-prev-buttons-titles__next-label"&gt;
-                        Tomorrow’s Image                    &lt;/div&gt;
-&lt;div data-sanitized-class="smd-next-prev-buttons-titles__next"&gt;
-                                            &lt;/div&gt;
-&lt;/div&gt;
-&lt;div data-sanitized-class="hds-next-prev-nav-arrow hds-next-prev-arrow-next"&gt;
-                    
-                &lt;/div&gt;
-&lt;p&gt;            &lt;/p&gt;&lt;/a&gt;
-        &lt;/div&gt;
-&lt;/div&gt;</description>
-			<excerpt>APOD Science APOD APOD: 2026 August 16 – Milky… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Milky Way over Yellowstone Explanation: The Milky Way was not created by an evaporating lake. The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA. Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring. Steam rises off the spring…</excerpt><pubDate>Sat, 15 Aug 2026 22:05:00 -0600</pubDate>
-			<firstSeen>Sat, 15 Aug 2026 23:05:02 -0600</firstSeen><guid isPermaLink="false">1786856585679098</guid>
 		</item>
 
 	</channel>
