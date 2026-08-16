@@ -4,10 +4,247 @@
 		<title>ChatGPT Morning RSS</title>
 		<link>http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=html</link>
 		<description>Read-only recent article feed for the morning summary.</description>
-		<pubDate>Sun, 16 Aug 2026 15:05:02 -0600</pubDate>
-		<lastBuildDate>Sun, 16 Aug 2026 21:05:02 GMT</lastBuildDate>
+		<pubDate>Sun, 16 Aug 2026 16:05:02 -0600</pubDate>
+		<lastBuildDate>Sun, 16 Aug 2026 22:05:02 GMT</lastBuildDate>
 		<atom:link href="http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>SPC Day 3-8 Fire Weather Outlook</title>
+			<link>https://www.spc.noaa.gov/products/exper/fire_wx/</link>
+						<originalLink>https://www.spc.noaa.gov/products/exper/fire_wx/</originalLink><description>SPC Day 3-8 Fire Weather Outlook
+          &lt;br&gt;&lt;a href="https://www.spc.noaa.gov/products/exper/fire_wx/"&gt;&lt;img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center"&gt;&lt;/a&gt;&lt;pre&gt;
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0441 PM CDT Sun Aug 16 2026
+
+Valid 181200Z - 241200Z
+
+...Synopsis...
+Mid/upper troughing near the West Coast will wane as the upper ridge
+across the central US retrogrades westward, allowing drier
+conditions to infiltrate much of the northwestern CONUS. Embedded
+mid-level shortwaves riding along the expanding upper ridge could
+bring isolated thunderstorms to portions of the Northern Rockies,
+while also promoting dry and breezy conditions east of the Cascades
+into the northern Great Basin. Extended guidance indicates a pattern
+shift late week as eastern Pacific troughing impinges upon the
+Northwest, bringing additional fire weather concerns.
+
+...Day 3/Tuesday...
+...Southern Plains...
+Expanding drought and continued above normal 100+ F temperatures
+will likely stay in place this week across portions of the Southern
+Plains. Increasing southerly winds are expected to evolve south of a
+nascent Central Plains surface low/trough over portions of northwest
+TX and western OK. South winds of 15-20 mph collocated with low
+afternoon RH will bring enhanced fire weather concerns to the area
+on Day 3/Tuesday. Day 2/Monday rainfall potential may lead to
+adjustments of the outlined region, though widespread accumulating
+precipitation is not forecast.
+
+...Portions of the Columbia Basin...
+A split-flow regime consisting of west-northwesterly flow over
+northern WA and southwesterly flow over Oregon will increase winds
+in gap flow and terrain favored areas east of the Cascades on Day
+3/Tuesday. RH values should decrease to 25% or less amid enhanced
+wind gusts of 25-30 mph within an environment that did not receive
+accumulating rainfall, despite preceding days of thunderstorm
+activity. 40% Critical probabilities were maintained to account for
+this threat.
+
+...Days 5-7/Thursday-Saturday...
+...Northwest CONUS...
+As upper ridging expands into the Great Basin late week, an upper
+low will progress towards the West Coast and introduce stronger
+south-southwesterly flow over the Pacific Northwest. Despite some
+differences in extended guidance, the evolution of upper troughing
+depicts a favorable pattern for dry and breezy conditions to overlap
+very dry fuels across northeastern CA, southern OR, and northwestern
+NV; thus, 40% Critical probabilities were maintained on Days
+5-6/Thursday-Friday. 
+
+Ensemble clusters show agreement for troughing to persist over the
+Pacific Northwest through Day 7/Saturday, with enhanced southerly
+flow aloft and a tightening surface pressure gradient compelling a
+favorable setup for expansive critical fire weather conditions. 40%
+Critical probabilities were introduced across the region, though
+they may need to be confined in future outlook cycles as
+moisture/thunderstorm chances are better resolved. In addition,
+embedded disturbances within the troughing pattern may increase
+thunderstorm potential as monsoonal moisture advects northward;
+however, too much ambiguity in the overlap of sufficient moisture,
+instability, and large-scale ascent precludes dry thunderstorm
+probabilities at this time.
+
+..Elizalde-Garcia.. 08/16/2026
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+&lt;/pre&gt;
+&lt;a href="https://www.spc.noaa.gov/products/exper/fire_wx/"&gt;Read more&lt;/a&gt;</description>
+			<excerpt>SPC Day 3-8 Fire Weather Outlook Day 3-8 Fire Weather Outlook NWS Storm Prediction Center Norman OK 0441 PM CDT Sun Aug 16 2026 Valid 181200Z - 241200Z ...Synopsis... Mid/upper troughing near the West Coast will wane as the upper ridge across the central US retrogrades westward, allowing drier conditions to infiltrate much of the northwestern CONUS. Embedded mid-level shortwaves riding along the expanding upper ridge could bring isolated thunderstorms to portions of the Northern Rockies, while also promoting dry and breezy conditions east of the Cascades into the northern Great Basin. Extended guidance indicates a pattern shift late week as eastern Pacific troughing impinges upon the…</excerpt><pubDate>Sun, 16 Aug 2026 15:46:15 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786917784418922</guid>
+		</item>
+		<item>
+			<title>App using kivy/bulldozer crashes immediately upon loading.</title>
+			<link>https://www.reddit.com/r/learnpython/comments/1vq8fyo/app_using_kivybulldozer_crashes_immediately_upon/</link>
+						<originalLink>https://www.reddit.com/r/learnpython/comments/1vq8fyo/app_using_kivybulldozer_crashes_immediately_upon/</originalLink><dc:creator>/u/Ok-Okra8478</dc:creator>
+			<category>r/learnpython</category>
+			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I posted this in androiddev previously and someone was being very unprofessional, then it got taken down, I would hope that a subreddit focused at learners would show less of this behaviour. Just to start this post off, I am not entirely new to python. I have just never used buildozer. Also the kivy subreddit seems dead.&lt;/p&gt; &lt;p&gt;Since this app is made with python, I thought maybe the people here may be able to help? It got compiled into the APK, but when I try to run it, I get this:&lt;/p&gt; &lt;p&gt;&lt;a href="https://pastebin.com/uteXNWDF"&gt;https://pastebin.com/uteXNWDF&lt;/a&gt;&lt;/p&gt; &lt;p&gt;if this is the wrong subreddit for this, please redirect me!&lt;/p&gt; &lt;p&gt;just ask if you want more info&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Ok-Okra8478"&gt; /u/Ok-Okra8478 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vq8fyo/app_using_kivybulldozer_crashes_immediately_upon/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vq8fyo/app_using_kivybulldozer_crashes_immediately_upon/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+			<excerpt>I posted this in androiddev previously and someone was being very unprofessional, then it got taken down, I would hope that a subreddit focused at learners would show less of this behaviour. Just to start this post off, I am not entirely new to python. I have just never used buildozer. Also the kivy subreddit seems dead. Since this app is made with python, I thought maybe the people here may be able to help? It got compiled into the APK, but when I try to run it, I get this: https://pastebin.com/uteXNWDF if this is the wrong subreddit for this, please redirect me! just ask if you want more info</excerpt><pubDate>Sun, 16 Aug 2026 14:57:50 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786917784418921</guid>
+		</item>
+		<item>
+			<title>TERRA release v3 Ember</title>
+			<link>https://www.reddit.com/r/remotesensing/comments/1vq7whv/terra_release_v3_ember/</link>
+						<originalLink>https://v.redd.it/oa02mmwwrsjh1</originalLink><dc:creator>/u/Beginning-Claim5655</dc:creator>
+			<category>r/remotesensing</category>
+			<media:thumbnail url="https://external-preview.redd.it/N3o5M2t0d3dyc2poMcljrbtHyTIRQvppVVosDTw5-WDAq-u-RUBxnoPS9Hbe.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f94fea9cde8157935e6633c172fc14cef6489938" />
+			<media:content url="https://external-preview.redd.it/N3o5M2t0d3dyc2poMcljrbtHyTIRQvppVVosDTw5-WDAq-u-RUBxnoPS9Hbe.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f94fea9cde8157935e6633c172fc14cef6489938" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/remotesensing/comments/1vq7whv/terra_release_v3_ember/"&gt; &lt;img src="https://external-preview.redd.it/N3o5M2t0d3dyc2poMcljrbtHyTIRQvppVVosDTw5-WDAq-u-RUBxnoPS9Hbe.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f94fea9cde8157935e6633c172fc14cef6489938" alt="TERRA release v3 Ember" title="TERRA release v3 Ember"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;div data-sanitized-class="md"&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=6Fj-O6D0hd4"&gt;00:00&lt;/a&gt; &lt;strong&gt;TERRA&lt;/strong&gt; &lt;em&gt;for&lt;/em&gt; &lt;em&gt;Explorers&lt;/em&gt;&lt;br&gt; &lt;a href="https://www.youtube.com/watch?v=6Fj-O6D0hd4&amp;amp;t=46s"&gt;00:46&lt;/a&gt; &lt;strong&gt;TERRA&lt;/strong&gt; &lt;em&gt;Studio&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Beginning-Claim5655"&gt; /u/Beginning-Claim5655 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/remotesensing/"&gt; r/remotesensing &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://v.redd.it/oa02mmwwrsjh1"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/remotesensing/comments/1vq7whv/terra_release_v3_ember/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>00:00 TERRA for Explorers 00:46 TERRA Studio</excerpt><pubDate>Sun, 16 Aug 2026 14:36:13 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786917784418920</guid>
+		</item>
+		<item>
+			<title>SPC Day 2 Fire Weather Outlook</title>
+			<link>https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</link>
+						<originalLink>https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</originalLink><description>SPC Day 2 Fire Weather Outlook
+          &lt;br&gt;&lt;a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"&gt;&lt;img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center"&gt;&lt;/a&gt;&lt;pre&gt;
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0238 PM CDT Sun Aug 16 2026
+
+Valid 171200Z - 181200Z
+
+On Day 2/Monday, forecast 80-90th percentile ERCs will expand across
+northern California, the Pacific Northwest, portions of Idaho into
+far northwestern Montana. On a broader scale, 72-hr cumulative
+observed rainfall has been minimal (up to 0.2") in southern Idaho
+and the Panhandle, with only the central Idaho higher-terrain
+receiving 0.5-0.9". A receptive fuelscape remains, proven by several
+new starts across southwestern ID and eastern OR. Depending on the
+timing and location of the approaching shortwave trough, an isolated
+thunderstorm over dry fuels is possible, albeit low (5-10% chance).
+Dry thunderstorm highlights were not introduced in this update,
+though may be needed in the next outlook cycle if high resolution
+guidance indicates increased probabilities of isolated dry
+thunderstorms over dry fuels. The rest of the forecast remains on
+track; please see the previous discussion for more information.
+
+..Elizalde-Garcia.. 08/16/2026
+
+.PREV DISCUSSION... /ISSUED 0152 AM CDT Sun Aug 16 2026/
+
+...Synopsis...
+The upper ridge over the central and western US is forecast to
+continue weakening as the upper trough deepens over the northern US
+and another moves onshore over the West Coast. The increase in
+westerly flow aloft will bolster surface winds over parts of
+northern CA and the Great Basin with dry and breezy conditions
+possible. Additionally, scattered thunderstorms are expected over
+much of the Rockies, though likely with wetting rainfall.
+
+...Northern Great Basin and northeast CA...
+As the shortwave moves onshore over the West, dry and breezy
+conditions are expected over parts of the northern Great Basin into
+northeastern CA on Day 2/Monday. Largely devoid of recent rainfall
+over the last several days, fuels remain quite dry. Warm afternoon
+temperatures and dry westerly flow of 15-20 mph are expected ahead
+of the upper trough. Afternoon RH minimums of 12-20% are also
+likely. This will support several hours of elevated fire-weather
+conditions from northeastern CA into parts of NV and southern OR.
+
+...Northern Rockies...
+Ascent from the approaching upper trough will support another round
+of showers and thunderstorms over parts of ID, MT and northern WY.
+Despite more limited monsoon moisture (PWATS 0.6-0.9 inches) several
+days of wetting rainfall have tempered fuels such that dry storms
+and lightning ignitions are expected to be sporadic.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+&lt;/pre&gt;
+&lt;a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"&gt;Read more&lt;/a&gt;</description>
+			<excerpt>SPC Day 2 Fire Weather Outlook Day 2 Fire Weather Outlook NWS Storm Prediction Center Norman OK 0238 PM CDT Sun Aug 16 2026 Valid 171200Z - 181200Z On Day 2/Monday, forecast 80-90th percentile ERCs will expand across northern California, the Pacific Northwest, portions of Idaho into far northwestern Montana. On a broader scale, 72-hr cumulative observed rainfall has been minimal (up to 0.2") in southern Idaho and the Panhandle, with only the central Idaho higher-terrain receiving 0.5-0.9". A receptive fuelscape remains, proven by several new starts across southwestern ID and eastern OR. Depending on the timing and location of the approaching shortwave trough, an isolated thunderstorm over…</excerpt><pubDate>Sun, 16 Aug 2026 13:39:22 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786917784418919</guid>
+		</item>
+		<item>
+			<title>Lost dog in GVR, this little guy or gal is running around near the road</title>
+			<link>https://www.reddit.com/r/Denver/comments/1vq91yi/lost_dog_in_gvr_this_little_guy_or_gal_is_running/</link>
+						<originalLink>https://www.reddit.com/gallery/1vq91yi</originalLink><dc:creator>/u/Old-Butterscotch4728</dc:creator>
+			<category>r/Denver</category>
+			<media:thumbnail url="https://preview.redd.it/ohenvhdr0tjh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=737a2725e02989d4d776802eabaf3058d6c51c29" />
+			<media:content url="https://preview.redd.it/ohenvhdr0tjh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=737a2725e02989d4d776802eabaf3058d6c51c29" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/Denver/comments/1vq91yi/lost_dog_in_gvr_this_little_guy_or_gal_is_running/"&gt; &lt;img src="https://preview.redd.it/ohenvhdr0tjh1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=737a2725e02989d4d776802eabaf3058d6c51c29" alt="Lost dog in GVR, this little guy or gal is running around near the road" title="Lost dog in GVR, this little guy or gal is running around near the road"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;div data-sanitized-class="md"&gt;&lt;p&gt;This little guy or gal is running around near Green Valley Ranch blvd&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Old-Butterscotch4728"&gt; /u/Old-Butterscotch4728 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Denver/"&gt; r/Denver &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1vq91yi"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Denver/comments/1vq91yi/lost_dog_in_gvr_this_little_guy_or_gal_is_running/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>This little guy or gal is running around near Green Valley Ranch blvd</excerpt><pubDate>Sun, 16 Aug 2026 15:22:33 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786915982059938</guid>
+		</item>
+		<item>
+			<title>Score me some Olathe Sweet corn today</title>
+			<link>https://www.reddit.com/r/denverfood/comments/1vq8yx6/score_me_some_olathe_sweet_corn_today/</link>
+						<originalLink>https://www.reddit.com/gallery/1vq8yx6</originalLink><dc:creator>/u/fullcaf</dc:creator>
+			<category>r/denverfood</category>
+			<media:thumbnail url="https://preview.redd.it/i6ijzw850tjh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=65f3ce1b4cceea1a92da5518508b2bf27cacfb0a" />
+			<media:content url="https://preview.redd.it/i6ijzw850tjh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=65f3ce1b4cceea1a92da5518508b2bf27cacfb0a" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/denverfood/comments/1vq8yx6/score_me_some_olathe_sweet_corn_today/"&gt; &lt;img src="https://preview.redd.it/i6ijzw850tjh1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=65f3ce1b4cceea1a92da5518508b2bf27cacfb0a" alt="Score me some Olathe Sweet corn today" title="Score me some Olathe Sweet corn today"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;div data-sanitized-class="md"&gt;&lt;p&gt;Got to go online at tuxedofarm.com and order a case. Feels real good to support local so directly. My pickup spot has Harbor freight on Hampton. &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/fullcaf"&gt; /u/fullcaf &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/denverfood/"&gt; r/denverfood &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1vq8yx6"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/denverfood/comments/1vq8yx6/score_me_some_olathe_sweet_corn_today/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>Got to go online at tuxedofarm.com and order a case. Feels real good to support local so directly. My pickup spot has Harbor freight on Hampton.</excerpt><pubDate>Sun, 16 Aug 2026 15:19:03 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786915982059937</guid>
+		</item>
+		<item>
+			<title>RTD launches paid Community Ambassador Program to help shape future of transit</title>
+			<link>https://www.reddit.com/r/Denver/comments/1vq8kv1/rtd_launches_paid_community_ambassador_program_to/</link>
+						<originalLink>https://www.rtd-denver.com/community/news/2026/rtd-launches-community-ambassador-program-to-help-shape-future-of-transit-in-metro-area</originalLink><dc:creator>/u/chrisfnicholson</dc:creator>
+			<category>r/Denver</category>
+			<media:thumbnail url="https://external-preview.redd.it/vVMPJdCFgaulTIg-cu6n-nPI1TvHiZt8gzAByBOWlSc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76856c5382707b85952992adac6838e3c76e3fe8" />
+			<media:content url="https://external-preview.redd.it/vVMPJdCFgaulTIg-cu6n-nPI1TvHiZt8gzAByBOWlSc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76856c5382707b85952992adac6838e3c76e3fe8" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/Denver/comments/1vq8kv1/rtd_launches_paid_community_ambassador_program_to/"&gt; &lt;img src="https://external-preview.redd.it/vVMPJdCFgaulTIg-cu6n-nPI1TvHiZt8gzAByBOWlSc.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=76856c5382707b85952992adac6838e3c76e3fe8" alt="RTD launches paid Community Ambassador Program to help shape future of transit" title="RTD launches paid Community Ambassador Program to help shape future of transit"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;   submitted by   &lt;a href="https://www.reddit.com/user/chrisfnicholson"&gt; /u/chrisfnicholson &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Denver/"&gt; r/Denver &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.rtd-denver.com/community/news/2026/rtd-launches-community-ambassador-program-to-help-shape-future-of-transit-in-metro-area"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Denver/comments/1vq8kv1/rtd_launches_paid_community_ambassador_program_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>RTD launches paid Community Ambassador Program to help shape future of transit</excerpt><pubDate>Sun, 16 Aug 2026 15:03:08 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786915982059936</guid>
+		</item>
+		<item>
+			<title>Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast</title>
+			<link>https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/</link>
+						<originalLink>https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49323620"&gt;Comments&lt;/a&gt;</description>
+			<excerpt>Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast</excerpt><pubDate>Sun, 16 Aug 2026 15:00:25 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786915982059935</guid>
+		</item>
+		<item>
+			<title>The Case Against Formal Verification, 50 Years Later</title>
+			<link>https://ivan-gavran.github.io/0-social-processes-paper</link>
+						<originalLink>https://ivan-gavran.github.io/0-social-processes-paper</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49323459"&gt;Comments&lt;/a&gt;</description>
+			<excerpt>The Case Against Formal Verification, 50 Years Later</excerpt><pubDate>Sun, 16 Aug 2026 14:38:58 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786915982059934</guid>
+		</item>
+		<item>
+			<title>Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter</title>
+			<link>https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion</link>
+						<originalLink>https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49323381"&gt;Comments&lt;/a&gt;</description>
+			<excerpt>Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter</excerpt><pubDate>Sun, 16 Aug 2026 14:31:16 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786915982059933</guid>
+		</item>
+		<item>
+			<title>Rougarou - 6:15 PM - reservation for 2 tonight - anyone want it?</title>
+			<link>https://www.reddit.com/r/Denver/comments/1vq787h/rougarou_615_pm_reservation_for_2_tonight_anyone/</link>
+						<originalLink>https://www.reddit.com/r/Denver/comments/1vq787h/rougarou_615_pm_reservation_for_2_tonight_anyone/</originalLink><dc:creator>/u/ManufacturerLow3161</dc:creator>
+			<category>r/Denver</category>
+			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;Unfortunately can’t make it tonight. Dad traveled from out of town but likely too much for him to take on today. If you’d like it, dm me and I’ll provide you with the details (my name for the reservation). &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/ManufacturerLow3161"&gt; /u/ManufacturerLow3161 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Denver/"&gt; r/Denver &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/Denver/comments/1vq787h/rougarou_615_pm_reservation_for_2_tonight_anyone/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Denver/comments/1vq787h/rougarou_615_pm_reservation_for_2_tonight_anyone/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+			<excerpt>Unfortunately can’t make it tonight. Dad traveled from out of town but likely too much for him to take on today. If you’d like it, dm me and I’ll provide you with the details (my name for the reservation).</excerpt><pubDate>Sun, 16 Aug 2026 14:09:17 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786915982059932</guid>
+		</item>
+		<item>
+			<title>SIMD in the 90s: Programming Intel's Pentium MMX</title>
+			<link>https://pikuma.com/blog/programming-intel-pentium-mmx-simd</link>
+						<originalLink>https://pikuma.com/blog/programming-intel-pentium-mmx-simd</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49285096"&gt;Comments&lt;/a&gt;</description>
+			<excerpt>SIMD in the 90s: Programming Intel's Pentium MMX</excerpt><pubDate>Thu, 13 Aug 2026 06:44:05 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786915982059931</guid>
+		</item>
+		<item>
+			<title>In the Shadow of the (Berlin) Wall</title>
+			<link>https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/</link>
+						<originalLink>https://www.slowtravelberlin.com/in-the-shadow-of-the-berlin-wall/</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49282652"&gt;Comments&lt;/a&gt;</description>
+			<excerpt>In the Shadow of the (Berlin) Wall</excerpt><pubDate>Thu, 13 Aug 2026 01:10:41 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 16:05:02 -0600</firstSeen><guid isPermaLink="false">1786915982059930</guid>
+		</item>
+		<item>
 			<title>Really good hillshade or beach erosion at Lake McConaughy?</title>
 			<link>https://www.reddit.com/r/gis/comments/1vq7rk4/really_good_hillshade_or_beach_erosion_at_lake/</link>
 						<originalLink>https://i.redd.it/0a5m2e6irsjh1.jpeg</originalLink><dc:creator>/u/AtlantisAI</dc:creator>
@@ -664,7 +901,7 @@ broader fire-weather concerns are unlikely due to the modest winds.
 			<title>Torrential rain floods roads, strands drivers across south metro Denver</title>
 			<link>https://www.denver7.com/weather/weather-news/torrential-rain-floods-roads-strands-drivers-across-south-metro-denver</link>
 						<originalLink>https://www.denver7.com/weather/weather-news/torrential-rain-floods-roads-strands-drivers-across-south-metro-denver</originalLink><dc:creator>Robert Garrison</dc:creator>
-			<description>                                                                        &lt;p&gt;DENVER  Torrential rainfall caused widespread flooding in parts of the southern metro Denver area Saturday, prompting emergency responses and disrupting travel.&lt;/p&gt;&lt;p&gt;South Metro Fire Rescue and the Douglas County Sheriff's Office responded to stranded motorists at multiple flooded intersections in Meridian Village, where rainfall gauges recorded up to 2 inches of rain in a short period.&lt;/p&gt;&lt;p&gt;Elsewhere in the metro area, the parking lot at an Aurora Costco, located at 1471 S. Havana Street, was flooded, submerging at least one vehicle.&lt;/p&gt;&lt;figure&gt; &lt;img src="https://ewscripps.brightspotcdn.com/a7/07/9b5c181f4dfba6daef39c6dc9d9d/floodpic1.png"&gt;&lt;/figure&gt;&lt;p&gt;The heavy rain also caused problems in the foothills, as several businesses in Evergreen reported flooding.&lt;/p&gt;&lt;p&gt;Meanwhile, crews in Douglas County used snowplows to clear hail and floodwaters from roadways.&lt;/p&gt;&lt;p&gt;Denver International Airport temporarily halted departures due to thunderstorms, contributing to more than 550 delays and 60 cancellations.&lt;/p&gt;&lt;p&gt;Despite the widespread disruptions, no major injuries were reported in Saturday's flooding event. The extent of the damage is unknown.&lt;/p&gt;&lt;p&gt;Conditions were drying out early Sunday morning. However, scattered showers and &lt;a href="https://www.denver7.com/weather/denver-weather/more-heavy-rain-and-localized-flooding-possible-today"&gt;thunderstorms are expected&lt;/a&gt; to redevelop later in the day as monsoon moisture lingers, with the highest chances of storms near the Palmer Divide.&lt;/p&gt;    </description>
+			<description>                                                                        &lt;p&gt;DENVER  Torrential rainfall caused widespread flooding in parts of the southern metro Denver area Saturday, prompting emergency responses and disrupting travel.&lt;/p&gt;&lt;p&gt;South Metro Fire Rescue and the Douglas County Sheriff's Office responded to stranded motorists at multiple flooded intersections in Meridian Village, where rainfall gauges recorded up to 2 inches of rain in a short period.&lt;/p&gt;&lt;p&gt;Elsewhere in the metro area, the parking lot at an Aurora Costco, located at 1471 S. Havana Street, was flooded, submerging at least one vehicle.&lt;/p&gt;&lt;figure&gt; &lt;img src="https://ewscripps.brightspotcdn.com/a7/07/9b5c181f4dfba6daef39c6dc9d9d/floodpic1.png"&gt;&lt;/figure&gt;&lt;p&gt;The heavy rain also caused problems in the foothills, as several businesses in Evergreen reported flooding.&lt;/p&gt;&lt;p&gt;Meanwhile, crews in Douglas County used snowplows to clear hail and floodwaters from roadways.&lt;/p&gt;&lt;p&gt;Denver International Airport temporarily halted departures due to thunderstorms, contributing to more than 550 delays and 60 cancellations.&lt;/p&gt;&lt;p&gt;Despite the widespread disruptions, no major injuries were reported in Saturday's flooding event. The extent of the damage is unknown.&lt;/p&gt;&lt;p&gt;Conditions were drying out early Sunday morning. However, &lt;a href="https://www.denver7.com/weather/denver-weather/more-heavy-rain-and-localized-flooding-possible-today"&gt;thunderstorms are expected&lt;/a&gt; to develop Sunday afternoon and evening, especially over the Palmer Divide, Cheyenne Ridge and northeastern plains, before potentially spreading into the I-25 Corridor.&lt;/p&gt;&lt;p&gt;Storms may linger later than usual before skies clear overnight, with patchy fog possible by Monday morning.&lt;/p&gt;&lt;p&gt;The National Weather Service has issued a severe thunderstorm watch for the Front Range and eastern Colorado.&lt;/p&gt;    </description>
 			<excerpt>DENVER Torrential rainfall caused widespread flooding in parts of the southern metro Denver area Saturday, prompting emergency responses and disrupting travel. South Metro Fire Rescue and the Douglas County Sheriff's Office responded to stranded motorists at multiple flooded intersections in Meridian Village, where rainfall gauges recorded up to 2 inches of rain in a short period. Elsewhere in the metro area, the parking lot at an Aurora Costco, located at 1471 S. Havana Street, was flooded, submerging at least one vehicle. The heavy rain also caused problems in the foothills, as several businesses in Evergreen reported flooding. Meanwhile, crews in Douglas County used snowplows to clear…</excerpt><pubDate>Sun, 16 Aug 2026 10:27:19 -0600</pubDate>
 			<firstSeen>Sun, 16 Aug 2026 12:05:02 -0600</firstSeen><guid isPermaLink="false">1786901583003404</guid>
 		</item>
@@ -977,123 +1214,6 @@ broader fire-weather concerns are unlikely due to the modest winds.
 			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;Hi! My name is Antoni, I'm from Poland. In October I will start final year of my bachelor's studies in spatial managment ( &amp;amp; willing to complete Master's Degree after). I was thinking lately about creating a portfolio of my work in GIS programs, but I don't know where or how to start.&lt;/p&gt; &lt;p&gt;I want to create it and sharpen my skills in this program so I can find a job easier after studies. Does anyone have any tips on how to get started?&lt;/p&gt; &lt;p&gt;Any feedback will be much appreciated! Everyone have a great day&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Antoni_desirven"&gt; /u/Antoni_desirven &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/QGIS/"&gt; r/QGIS &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/QGIS/comments/1vpwfyl/polish_student_wants_to_create_portfolio/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/QGIS/comments/1vpwfyl/polish_student_wants_to_create_portfolio/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
 			<excerpt>Hi! My name is Antoni, I'm from Poland. In October I will start final year of my bachelor's studies in spatial managment ( &amp; willing to complete Master's Degree after). I was thinking lately about creating a portfolio of my work in GIS programs, but I don't know where or how to start. I want to create it and sharpen my skills in this program so I can find a job easier after studies. Does anyone have any tips on how to get started? Any feedback will be much appreciated! Everyone have a great day</excerpt><pubDate>Sun, 16 Aug 2026 06:59:48 -0600</pubDate>
 			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264796</guid>
-		</item>
-		<item>
-			<title>resource and roadmap for machinelearning</title>
-			<link>https://www.reddit.com/r/learnpython/comments/1vpwf3s/resource_and_roadmap_for_machinelearning/</link>
-						<originalLink>https://www.reddit.com/r/learnpython/comments/1vpwf3s/resource_and_roadmap_for_machinelearning/</originalLink><dc:creator>/u/Ok-Acanthisitta-5940</dc:creator>
-			<category>r/learnpython</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;i am beginner and i just know basic python and i am confused where to start from&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Ok-Acanthisitta-5940"&gt; /u/Ok-Acanthisitta-5940 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpwf3s/resource_and_roadmap_for_machinelearning/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpwf3s/resource_and_roadmap_for_machinelearning/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>i am beginner and i just know basic python and i am confused where to start from</excerpt><pubDate>Sun, 16 Aug 2026 06:58:38 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264795</guid>
-		</item>
-		<item>
-			<title>Trying to recreate a map akin to this...would QGIS be the right tool or overkill?</title>
-			<link>https://www.reddit.com/r/QGIS/comments/1vpwals/trying_to_recreate_a_map_akin_to_thiswould_qgis/</link>
-						<originalLink>https://i.redd.it/gv8artzshqjh1.png</originalLink><dc:creator>/u/Potential-Twist-6633</dc:creator>
-			<category>r/QGIS</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;post title!&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Potential-Twist-6633"&gt; /u/Potential-Twist-6633 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/QGIS/"&gt; r/QGIS &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/gv8artzshqjh1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/QGIS/comments/1vpwals/trying_to_recreate_a_map_akin_to_thiswould_qgis/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>post title!</excerpt><pubDate>Sun, 16 Aug 2026 06:52:49 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264794</guid>
-		</item>
-		<item>
-			<title>Can anyone tell me?</title>
-			<link>https://www.reddit.com/r/learnpython/comments/1vpw8xf/can_anyone_tell_me/</link>
-						<originalLink>https://www.reddit.com/r/learnpython/comments/1vpw8xf/can_anyone_tell_me/</originalLink><dc:creator>/u/Necessary_Mobile9591</dc:creator>
-			<category>r/learnpython</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I am learning python and i can make some projects like crud system and json,csv,requests,sqlite,logging,exceptional handling. but i want to earn and i dont know the proper thing what to do and how can i earn. what all i should even learn and upscale. &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Necessary_Mobile9591"&gt; /u/Necessary_Mobile9591 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpw8xf/can_anyone_tell_me/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpw8xf/can_anyone_tell_me/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>I am learning python and i can make some projects like crud system and json,csv,requests,sqlite,logging,exceptional handling. but i want to earn and i dont know the proper thing what to do and how can i earn. what all i should even learn and upscale.</excerpt><pubDate>Sun, 16 Aug 2026 06:50:37 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264793</guid>
-		</item>
-		<item>
-			<title>How to start in 2026</title>
-			<link>https://www.reddit.com/r/learnpython/comments/1vpv17v/how_to_start_in_2026/</link>
-						<originalLink>https://www.reddit.com/r/learnpython/comments/1vpv17v/how_to_start_in_2026/</originalLink><dc:creator>/u/CreativeYoghurt1134</dc:creator>
-			<category>r/learnpython</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;Hello, I’m a 21 years old college student, who has no idea how to start in the programming world, do you know any courses or any thing to help me to start? How to learn python, ML, SQL, Ai, I’m interested in all those areas, but have no idea how to start, would appreciate your help &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/CreativeYoghurt1134"&gt; /u/CreativeYoghurt1134 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpv17v/how_to_start_in_2026/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpv17v/how_to_start_in_2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>Hello, I’m a 21 years old college student, who has no idea how to start in the programming world, do you know any courses or any thing to help me to start? How to learn python, ML, SQL, Ai, I’m interested in all those areas, but have no idea how to start, would appreciate your help</excerpt><pubDate>Sun, 16 Aug 2026 05:51:13 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264792</guid>
-		</item>
-		<item>
-			<title>trouble with storing information using json</title>
-			<link>https://www.reddit.com/r/learnpython/comments/1vpuusz/trouble_with_storing_information_using_json/</link>
-						<originalLink>https://www.reddit.com/r/learnpython/comments/1vpuusz/trouble_with_storing_information_using_json/</originalLink><dc:creator>/u/TrainingAd8614</dc:creator>
-			<category>r/learnpython</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I'm new to python, and even newer to using json&lt;/p&gt; &lt;p&gt;I made the dreadful mistake of following ai guidance on this one and don't want to completely ruin my code so i thought it'd be wise to pass my struggle over to the great people of learnpython sub &lt;/p&gt; &lt;p&gt;I'm trying to store data in a separate file so i can go back to it once the programme is over and i don't understand why this isn't working &lt;/p&gt; &lt;p&gt;errors i get include ; &lt;/p&gt; &lt;p&gt;"jsonfiletrial" is not definedPylance&lt;/p&gt; &lt;p&gt;"json" is not definedPylance&lt;/p&gt; &lt;p&gt;*jsonfiletrial is a file i made expecting the information to be stored there&lt;/p&gt; &lt;p&gt;thank you , &lt;/p&gt; &lt;pre&gt;&lt;code&gt;while True: if user_input2.lower() == "y": stock1 = str (input( "Enter Ticker for your first stock: ")) yield1 = float (input ("Enter the dividend yield of stock 1: ")) #print (yield1) stock2 = str (input( "Enter Ticker for your second stock: ")) yield2 = float (input ("Enter the dividend yield of stock 2: ")) stock3 = str (input( "Enter Ticker for your Third stock: ")) yield3 = float (input ("Enter the dividend yield of stock 3: ")) totalyield = yield1 + yield2 + yield3 # --- SAVING DATA HAPPENS HERE --- # 1. Put your yields into a neat package (a dictionary) data_to_save = { "stock1": stock1, "yield1": yield1, "stock2": stock2, "yield2": yield2, "stock3": stock3, "yield3": yield3, "total_yield": totalyield } # 2. Tell Python to open the file (it will create it if it's missing!) with open(jsonfiletrial, "w") as file: # 3. Write the data inside the file json.dump(data_to_save, file) print("💾 Your yields have been saved automatically!") &lt;/code&gt;&lt;/pre&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/TrainingAd8614"&gt; /u/TrainingAd8614 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpuusz/trouble_with_storing_information_using_json/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpuusz/trouble_with_storing_information_using_json/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>I'm new to python, and even newer to using json I made the dreadful mistake of following ai guidance on this one and don't want to completely ruin my code so i thought it'd be wise to pass my struggle over to the great people of learnpython sub I'm trying to store data in a separate file so i can go back to it once the programme is over and i don't understand why this isn't working errors i get include ; "jsonfiletrial" is not definedPylance "json" is not definedPylance *jsonfiletrial is a file i made expecting the information to be stored there thank you , while True: if user_input2.lower() == "y": stock1 = str (input( "Enter Ticker for your first stock: ")) yield1 = float (input ("Enter…</excerpt><pubDate>Sun, 16 Aug 2026 05:41:45 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264791</guid>
-		</item>
-		<item>
-			<title>API works in browser but 403 from Render — Cloudflare blocking</title>
-			<link>https://www.reddit.com/r/learnpython/comments/1vpqgbs/api_works_in_browser_but_403_from_render/</link>
-						<originalLink>https://www.reddit.com/r/learnpython/comments/1vpqgbs/api_works_in_browser_but_403_from_render/</originalLink><dc:creator>/u/Proud_Tri</dc:creator>
-			<category>r/learnpython</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I'm running a Python service on Render that makes API calls to a third-party service protected by Cloudflare.&lt;/p&gt; &lt;p&gt;The API works fine in the browser. But when my Render service tries to access it, Cloudflare returns 403 with "Just a moment..." page.&lt;/p&gt; &lt;p&gt;API key is correct. Headers are identical to browser. Still blocked.&lt;/p&gt; &lt;p&gt;Has anyone dealt with this? Any way to make cloud-hosted API requests work when Cloudflare is blocking them?&lt;/p&gt; &lt;p&gt;Using Render free tier.&lt;/p&gt; &lt;p&gt;#render #cloudflare #python #api #webdev&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Proud_Tri"&gt; /u/Proud_Tri &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpqgbs/api_works_in_browser_but_403_from_render/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpqgbs/api_works_in_browser_but_403_from_render/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>I'm running a Python service on Render that makes API calls to a third-party service protected by Cloudflare. The API works fine in the browser. But when my Render service tries to access it, Cloudflare returns 403 with "Just a moment..." page. API key is correct. Headers are identical to browser. Still blocked. Has anyone dealt with this? Any way to make cloud-hosted API requests work when Cloudflare is blocking them? Using Render free tier. #render #cloudflare #python #api #webdev</excerpt><pubDate>Sun, 16 Aug 2026 01:20:41 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264790</guid>
-		</item>
-		<item>
-			<title>Learning python through Udemy, how to make it useful?</title>
-			<link>https://www.reddit.com/r/learnpython/comments/1vpqai3/learning_python_through_udemy_how_to_make_it/</link>
-						<originalLink>https://www.reddit.com/r/learnpython/comments/1vpqai3/learning_python_through_udemy_how_to_make_it/</originalLink><dc:creator>/u/Akki_Charee</dc:creator>
-			<category>r/learnpython</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;i have done a course on python on Udemy . Now how do i learn to write code that are actually useful somewhere or i can do something valuable with it? While learning i was able to write codes that add subtract numbers etc which were simple enough for learning but want to make my skills better. Also, I'm not a programmer won't be using python much, how do i learn in such a way that i remember the syntax or concepts for longer time, python coding is just a skill i want to develop.&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Akki_Charee"&gt; /u/Akki_Charee &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpqai3/learning_python_through_udemy_how_to_make_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpqai3/learning_python_through_udemy_how_to_make_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>i have done a course on python on Udemy . Now how do i learn to write code that are actually useful somewhere or i can do something valuable with it? While learning i was able to write codes that add subtract numbers etc which were simple enough for learning but want to make my skills better. Also, I'm not a programmer won't be using python much, how do i learn in such a way that i remember the syntax or concepts for longer time, python coding is just a skill i want to develop.</excerpt><pubDate>Sun, 16 Aug 2026 01:11:09 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264789</guid>
-		</item>
-		<item>
-			<title>Interactive AI Project Ideas for a LiveDemo</title>
-			<link>https://www.reddit.com/r/learnpython/comments/1vpm55x/interactive_ai_project_ideas_for_a_livedemo/</link>
-						<originalLink>https://www.reddit.com/r/learnpython/comments/1vpm55x/interactive_ai_project_ideas_for_a_livedemo/</originalLink><dc:creator>/u/Natural_Onion_973</dc:creator>
-			<category>r/learnpython</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I need to show a live demo of some quick AI-related project in front of the juniors at my college, something they can actually interact with and experiment with. I was thinking about building a MediaPipe-based visualizer app, but I’m open to better ideas.&lt;/p&gt; &lt;p&gt;What would be a fun, visually impressive, and easy-to-understand AI project that would work well for a live demo?&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Natural_Onion_973"&gt; /u/Natural_Onion_973 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpm55x/interactive_ai_project_ideas_for_a_livedemo/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpm55x/interactive_ai_project_ideas_for_a_livedemo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>I need to show a live demo of some quick AI-related project in front of the juniors at my college, something they can actually interact with and experiment with. I was thinking about building a MediaPipe-based visualizer app, but I’m open to better ideas. What would be a fun, visually impressive, and easy-to-understand AI project that would work well for a live demo?</excerpt><pubDate>Sat, 15 Aug 2026 21:24:45 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264788</guid>
-		</item>
-		<item>
-			<title>Need satellite imagery of (2004/2014/2020) for a Chattogram, Bangladesh project, any advice?</title>
-			<link>https://www.reddit.com/r/QGIS/comments/1vplew8/need_satellite_imagery_of_200420142020_for_a/</link>
-						<originalLink>https://www.reddit.com/r/QGIS/comments/1vplew8/need_satellite_imagery_of_200420142020_for_a/</originalLink><dc:creator>/u/OkAdeptness420</dc:creator>
-			<category>r/QGIS</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I am working on a project extracting building footprints for Chattogram port, across 2004, 2014, and 2020. What level of resolution would i be needing for it? &lt;/p&gt; &lt;p&gt;I know tha I can't buy straight from Maxar, I need to go through a reseller. Does anyone have a solid one to recommend, for South Asia, or Bangladesh?&lt;/p&gt; &lt;p&gt;Thanks! &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/OkAdeptness420"&gt; /u/OkAdeptness420 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/QGIS/"&gt; r/QGIS &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/QGIS/comments/1vplew8/need_satellite_imagery_of_200420142020_for_a/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/QGIS/comments/1vplew8/need_satellite_imagery_of_200420142020_for_a/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>I am working on a project extracting building footprints for Chattogram port, across 2004, 2014, and 2020. What level of resolution would i be needing for it? I know tha I can't buy straight from Maxar, I need to go through a reseller. Does anyone have a solid one to recommend, for South Asia, or Bangladesh? Thanks!</excerpt><pubDate>Sat, 15 Aug 2026 20:47:09 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264787</guid>
-		</item>
-		<item>
-			<title>What are some fun Python-heavy niches?</title>
-			<link>https://www.reddit.com/r/learnpython/comments/1vpk2h5/what_are_some_fun_pythonheavy_niches/</link>
-						<originalLink>https://www.reddit.com/r/learnpython/comments/1vpk2h5/what_are_some_fun_pythonheavy_niches/</originalLink><dc:creator>/u/IntentionAntique4751</dc:creator>
-			<category>r/learnpython</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I want to make try making a discord bot in py. Pygame and Raspberry Pi intrigue me as well&lt;/p&gt; &lt;p&gt;Curious what other fun Py rabbit holes are out there that I don't know of!&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/IntentionAntique4751"&gt; /u/IntentionAntique4751 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpk2h5/what_are_some_fun_pythonheavy_niches/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpk2h5/what_are_some_fun_pythonheavy_niches/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>I want to make try making a discord bot in py. Pygame and Raspberry Pi intrigue me as well Curious what other fun Py rabbit holes are out there that I don't know of!</excerpt><pubDate>Sat, 15 Aug 2026 19:39:47 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264786</guid>
-		</item>
-		<item>
-			<title>Is there a package to write text and images to a log file?</title>
-			<link>https://www.reddit.com/r/learnpython/comments/1vpcz8v/is_there_a_package_to_write_text_and_images_to_a/</link>
-						<originalLink>https://www.reddit.com/r/learnpython/comments/1vpcz8v/is_there_a_package_to_write_text_and_images_to_a/</originalLink><dc:creator>/u/istasber</dc:creator>
-			<category>r/learnpython</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I'm building a package doing some complex function optimization, and it's very useful to log images to track performance and to visualize progress. I haven't had much luck finding anything like that, the closest I've found is something that will convert a finished notebook into a pdf or markdown, but I want something that will behave the same way with regards to the log file whether or not the code is being run in a notebook environment.&lt;/p&gt; &lt;p&gt;I don't really have any constraints on file size, or file type, but it would be nice to have something that provide a similar behavior to jupyter output cells, especially if it allows for text/images to be forked to both the notebook and the log file.&lt;/p&gt; &lt;p&gt;Any suggestions?&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/istasber"&gt; /u/istasber &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpcz8v/is_there_a_package_to_write_text_and_images_to_a/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vpcz8v/is_there_a_package_to_write_text_and_images_to_a/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>I'm building a package doing some complex function optimization, and it's very useful to log images to track performance and to visualize progress. I haven't had much luck finding anything like that, the closest I've found is something that will convert a finished notebook into a pdf or markdown, but I want something that will behave the same way with regards to the log file whether or not the code is being run in a notebook environment. I don't really have any constraints on file size, or file type, but it would be nice to have something that provide a similar behavior to jupyter output cells, especially if it allows for text/images to be forked to both the notebook and the log file. Any…</excerpt><pubDate>Sat, 15 Aug 2026 14:17:23 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264785</guid>
-		</item>
-		<item>
-			<title>Need satellite imagery of (2004/2014/2020) for a Chattogram, Bangladesh project, any advice?</title>
-			<link>https://www.reddit.com/r/gis/comments/1vp95cs/need_satellite_imagery_of_200420142020_for_a/</link>
-						<originalLink>https://www.reddit.com/r/gis/comments/1vp95cs/need_satellite_imagery_of_200420142020_for_a/</originalLink><dc:creator>/u/OkAdeptness420</dc:creator>
-			<category>r/gis</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I am working on a project extracting building footprints for Chattogram port, across 2004, 2014, and 2020. What level of resolution would i be needing for it? &lt;/p&gt; &lt;p&gt;I know tha I can't buy straight from Maxar, I need to go through a reseller. Does anyone have a solid one to recommend, for South Asia, or Bangladesh?&lt;/p&gt; &lt;p&gt;Thanks! &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/OkAdeptness420"&gt; /u/OkAdeptness420 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/gis/"&gt; r/gis &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vp95cs/need_satellite_imagery_of_200420142020_for_a/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vp95cs/need_satellite_imagery_of_200420142020_for_a/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>I am working on a project extracting building footprints for Chattogram port, across 2004, 2014, and 2020. What level of resolution would i be needing for it? I know tha I can't buy straight from Maxar, I need to go through a reseller. Does anyone have a solid one to recommend, for South Asia, or Bangladesh? Thanks!</excerpt><pubDate>Sat, 15 Aug 2026 11:44:23 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264784</guid>
-		</item>
-		<item>
-			<title>I stitched together New Bedford’s 1913 survey maps, georeferenced the whole thing, and turned it into a Google Earth overlay</title>
-			<link>https://www.reddit.com/r/gis/comments/1vp8tw3/i_stitched_together_new_bedfords_1913_survey_maps/</link>
-						<originalLink>https://www.reddit.com/r/gis/comments/1vp8tw3/i_stitched_together_new_bedfords_1913_survey_maps/</originalLink><dc:creator>/u/CommonMemoryWorks</dc:creator>
-			<category>r/gis</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;A few years ago I got a little carried away with a historical mapping project.&lt;/p&gt; &lt;p&gt;I found a set of detailed survey maps of New Bedford from 1913 that were mostly at the same scale, or could be scaled easily to be combinable. I wanted to be able to look at the city as one continuous map instead of constantly switching between individual plates, so I downloaded high-resolution scans and stitched them together manually in GIMP.&lt;/p&gt; &lt;p&gt;The result was enormous. The master image ended up being several gigabytes and roughly 22,000 x 60,000 pixels. It had exactly the level of detail I wanted, right down to individual buildings and property lines, but at the time it was basically too large to be useful. I could zoom around inside it, but there was no practical way to use it as an actual map.&lt;/p&gt; &lt;p&gt;I recently dug the project back out and decided to finally georeference it properly in QGIS.&lt;/p&gt; &lt;p&gt;I used surviving streets, intersections, shoreline features, etc. as control points and warped the composite into EPSG:3857. It is definitely not survey-grade. Depending on where you are in the city, the alignment seems to be off by anywhere from about 25 feet to maybe 300 feet at the worst extremes. Considering the source maps are from 1913, were originally separate plates, and were manually stitched together, I am pretty happy with that.&lt;/p&gt; &lt;p&gt;After that I generated an XYZ tile pyramid. The final set is about 93,000 PNG tiles and 1.6 GB. I put the tiles in a Google Cloud Storage bucket and added the XYZ layer to a public Google Earth project.&lt;/p&gt; &lt;p&gt;And it actually works exactly the way I originally wanted it to. You can zoom all the way out and see New Bedford as one continuous historical map, then keep zooming in until you are looking at individual streets, lots, buildings, factories, rail lines, wharves, etc., without ever switching plates.&lt;/p&gt; &lt;p&gt;I think this may be the most detailed single continuous map of New Bedford from that period, as opposed to a collection of separate atlas or survey plates, although I have no way of proving that.&lt;/p&gt; &lt;p&gt;This started as part of a much larger digital humanities project that I never finished, so I am pretty happy that I finally found a useful life for it several years later.&lt;/p&gt; &lt;p&gt;Google Earth project:&lt;br&gt; &lt;a href="https://earth.google.com/earth/d/1DrXQVEcWJ_3KtGpGCQQ9mmbtOFHeDho5?usp=sharing"&gt;&lt;strong&gt;https://earth.google.com/earth/d/1DrXQVEcWJ_3KtGpGCQQ9mmbtOFHeDho5?usp=sharing&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I would be interested in any thoughts from people who do this professionally, especially on better ways I could have handled the georeferencing or local distortion. This was very much a "figure it out as I go" project.&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/CommonMemoryWorks"&gt; /u/CommonMemoryWorks &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/gis/"&gt; r/gis &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vp8tw3/i_stitched_together_new_bedfords_1913_survey_maps/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vp8tw3/i_stitched_together_new_bedfords_1913_survey_maps/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>A few years ago I got a little carried away with a historical mapping project. I found a set of detailed survey maps of New Bedford from 1913 that were mostly at the same scale, or could be scaled easily to be combinable. I wanted to be able to look at the city as one continuous map instead of constantly switching between individual plates, so I downloaded high-resolution scans and stitched them together manually in GIMP. The result was enormous. The master image ended up being several gigabytes and roughly 22,000 x 60,000 pixels. It had exactly the level of detail I wanted, right down to individual buildings and property lines, but at the time it was basically too large to be useful. I…</excerpt><pubDate>Sat, 15 Aug 2026 11:32:05 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264783</guid>
 		</item>
 
 	</channel>
