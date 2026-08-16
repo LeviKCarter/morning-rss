@@ -4,10 +4,174 @@
 		<title>ChatGPT Morning RSS</title>
 		<link>http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=html</link>
 		<description>Read-only recent article feed for the morning summary.</description>
-		<pubDate>Sun, 16 Aug 2026 14:05:02 -0600</pubDate>
-		<lastBuildDate>Sun, 16 Aug 2026 20:05:02 GMT</lastBuildDate>
+		<pubDate>Sun, 16 Aug 2026 15:05:02 -0600</pubDate>
+		<lastBuildDate>Sun, 16 Aug 2026 21:05:02 GMT</lastBuildDate>
 		<atom:link href="http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>Really good hillshade or beach erosion at Lake McConaughy?</title>
+			<link>https://www.reddit.com/r/gis/comments/1vq7rk4/really_good_hillshade_or_beach_erosion_at_lake/</link>
+						<originalLink>https://i.redd.it/0a5m2e6irsjh1.jpeg</originalLink><dc:creator>/u/AtlantisAI</dc:creator>
+			<category>r/gis</category>
+			<media:thumbnail url="https://preview.redd.it/0a5m2e6irsjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d600ec62bf5bb915587bd1967100e3062417d69c" />
+			<media:content url="https://preview.redd.it/0a5m2e6irsjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d600ec62bf5bb915587bd1967100e3062417d69c" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/gis/comments/1vq7rk4/really_good_hillshade_or_beach_erosion_at_lake/"&gt; &lt;img src="https://preview.redd.it/0a5m2e6irsjh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d600ec62bf5bb915587bd1967100e3062417d69c" alt="Really good hillshade or beach erosion at Lake McConaughy?" title="Really good hillshade or beach erosion at Lake McConaughy?"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;   submitted by   &lt;a href="https://www.reddit.com/user/AtlantisAI"&gt; /u/AtlantisAI &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/gis/"&gt; r/gis &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/0a5m2e6irsjh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vq7rk4/really_good_hillshade_or_beach_erosion_at_lake/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>Really good hillshade or beach erosion at Lake McConaughy?</excerpt><pubDate>Sun, 16 Aug 2026 14:30:42 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 15:05:02 -0600</firstSeen><guid isPermaLink="false">1786912384560501</guid>
+		</item>
+		<item>
+			<title>What would it take to turn 36 pages of text into an interactive map? And how could I share it for free?</title>
+			<link>https://www.reddit.com/r/gis/comments/1vq6loq/what_would_it_take_to_turn_36_pages_of_text_into/</link>
+						<originalLink>https://i.redd.it/y46hdgxegsjh1.jpeg</originalLink><dc:creator>/u/previousinnovation</dc:creator>
+			<category>r/gis</category>
+			<media:thumbnail url="https://preview.redd.it/y46hdgxegsjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e691eee9fbbe29cd9a321384a7e366601b694dbd" />
+			<media:content url="https://preview.redd.it/y46hdgxegsjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e691eee9fbbe29cd9a321384a7e366601b694dbd" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/gis/comments/1vq6loq/what_would_it_take_to_turn_36_pages_of_text_into/"&gt; &lt;img src="https://preview.redd.it/y46hdgxegsjh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e691eee9fbbe29cd9a321384a7e366601b694dbd" alt="What would it take to turn 36 pages of text into an interactive map? And how could I share it for free?" title="What would it take to turn 36 pages of text into an interactive map? And how could I share it for free?"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;   submitted by   &lt;a href="https://www.reddit.com/user/previousinnovation"&gt; /u/previousinnovation &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/gis/"&gt; r/gis &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/y46hdgxegsjh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vq6loq/what_would_it_take_to_turn_36_pages_of_text_into/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>What would it take to turn 36 pages of text into an interactive map? And how could I share it for free?</excerpt><pubDate>Sun, 16 Aug 2026 13:45:03 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 15:05:02 -0600</firstSeen><guid isPermaLink="false">1786912384560500</guid>
+		</item>
+		<item>
+			<title>SPC Day 2 Fire Weather Outlook</title>
+			<link>https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</link>
+						<originalLink>https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</originalLink><description>SPC Day 2 Fire Weather Outlook
+          &lt;br&gt;&lt;a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"&gt;&lt;img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center"&gt;&lt;/a&gt;&lt;pre&gt;
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0238 PM CDT Sun Aug 16 2026
+
+Valid 171200Z - 181200Z
+
+On Day 2/Monday, forecast 80-90th percentile ERCs will expand across
+northern California, the Pacific Northwest, portions of Idaho into
+far northwestern Montana. On a broader scale, 72-hr cumulative
+observed rainfall has been minimal (up to 0.2") in southern Idaho
+and the Panhandle, with only the central Idaho higher-terrain
+receiving 0.5-0.9". A receptive fuelscape remains, proven by several
+new starts across southwestern ID and eastern OR. Depending on the
+timing and location of the approaching shortwave trough, an isolated
+thunderstorm over dry fuels is possible, albeit low (5-10% chance).
+Dry thunderstorm highlights were not introduced in this update,
+though may be needed in the next outlook cycle if high resolution
+guidance indicates increased probabilities of isolated dry
+thunderstorms over dry fuels. The rest of the forecast remains on
+track; please see the previous discussion for more information.
+
+..Elizalde-Garcia.. 08/16/2026
+
+.PREV DISCUSSION... /ISSUED 0152 AM CDT Sun Aug 16 2026/
+
+...Synopsis...
+The upper ridge over the central and western US is forecast to
+continue weakening as the upper trough deepens over the northern US
+and another moves onshore over the West Coast. The increase in
+westerly flow aloft will bolster surface winds over parts of
+northern CA and the Great Basin with dry and breezy conditions
+possible. Additionally, scattered thunderstorms are expected over
+much of the Rockies, though likely with wetting rainfall.
+
+...Northern Great Basin and northeast CA...
+As the shortwave moves onshore over the West, dry and breezy
+conditions are expected over parts of the northern Great Basin into
+northeastern CA on Day 2/Monday. Largely devoid of recent rainfall
+over the last several days, fuels remain quite dry. Warm afternoon
+temperatures and dry westerly flow of 15-20 mph are expected ahead
+of the upper trough. Afternoon RH minimums of 12-20% are also
+likely. This will support several hours of elevated fire-weather
+conditions from northeastern CA into parts of NV and southern OR.
+
+...Northern Rockies...
+Ascent from the approaching upper trough will support another round
+of showers and thunderstorms over parts of ID, MT and northern WY.
+Despite more limited monsoon moisture (PWATS 0.6-0.9 inches) several
+days of wetting rainfall have tempered fuels such that dry storms
+and lightning ignitions are expected to be sporadic.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+&lt;/pre&gt;
+&lt;a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"&gt;Read more&lt;/a&gt;</description>
+			<excerpt>SPC Day 2 Fire Weather Outlook Day 2 Fire Weather Outlook NWS Storm Prediction Center Norman OK 0238 PM CDT Sun Aug 16 2026 Valid 171200Z - 181200Z On Day 2/Monday, forecast 80-90th percentile ERCs will expand across northern California, the Pacific Northwest, portions of Idaho into far northwestern Montana. On a broader scale, 72-hr cumulative observed rainfall has been minimal (up to 0.2") in southern Idaho and the Panhandle, with only the central Idaho higher-terrain receiving 0.5-0.9". A receptive fuelscape remains, proven by several new starts across southwestern ID and eastern OR. Depending on the timing and location of the approaching shortwave trough, an isolated thunderstorm over…</excerpt><pubDate>Sun, 16 Aug 2026 13:39:22 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 15:05:02 -0600</firstSeen><guid isPermaLink="false">1786912384560499</guid>
+		</item>
+		<item>
+			<title>SPC Day 1 Fire Weather Outlook</title>
+			<link>https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</link>
+						<originalLink>https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</originalLink><description>SPC Day 1 Fire Weather Outlook
+          &lt;br&gt;&lt;a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"&gt;&lt;img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center"&gt;&lt;/a&gt;&lt;pre&gt;
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1136 AM CDT Sun Aug 16 2026
+
+Valid 161700Z - 171200Z
+
+...NO CRITICAL AREAS...
+
+Good overnight humidity recoveries occurred where dry fuels remain
+in the Northwest and portions of the southern Plains. A cold front
+has stalled across northern Oklahoma, and will slowly push southward
+this evening/overnight. The 12z sounding from OUN sampled a 1.74"
+PWAT, nearing the 90th percentile climatology, alongside 1000+ J/kg
+of MUCAPE. Forecast soundings depict shallow inverted-V profiles
+with gradual moistening of the mid-levels through the afternoon amid
+weak flow, suggesting greater precipitation efficiency is likely
+with any afternoon thunderstorm near/north of the front; thus,
+precludes an isolated dry thunderstorm risk. Despite many
+consecutive days of hot, dry, and windy conditions, modest RH values
+of 20% or greater are expected. However, ERCs will remain at the
+95-98th percentiles, allowing a threat for lightning ignitions to
+emerge on the periphery of accumulating rainfall. The rest of the
+forecast remains on track, please see the previous discussion for
+more information.
+
+..Elizalde-Garcia.. 08/16/2026
+
+.PREV DISCUSSION... /ISSUED 0151 AM CDT Sun Aug 16 2026/
+
+...Synopsis...
+The prominent mid-level ridge over the central and western US will
+begin to weaken under the influence of multiple upper-level troughs
+today and tonight. The primary upper trough will move eastward
+across the northern portions of the ridge near the Canadian border.
+This will force a stalled front over the Plains southward while
+monsoon moisture is shunted eastward with a second weaker trough
+approaching the West Coast.  While overall fire-weather concerns are
+low, some lightning and dry/breezy conditions are possible over
+parts of the southern Plains and Great Basin/Northern Rockies.
+
+...Southern Plains...
+The cold front is forecast to move south across parts of the TX
+Panhandle and OK today supporting scattered showers and
+thunderstorms. Likely higher-based owing to very warm surface
+temperatures south of the front, these storms may develop over ares
+of very dry fuels. However, slow storm speeds and increasing
+moisture along the front suggest limited potential for dry storms. 
+Gusty and erratic winds may accompany storm outflow.
+
+...Northern Great Basin and Northern Rockies...
+The primary plume of monsoon moisture is forecast to shift eastward
+as the ridge begins to flatten somewhat over the northern Rockies in
+response to the troughing over the northern US. This will shift the
+primary axis of diurnal thunderstorm activity farther east into ID,
+MT and WY where recent wetting rainfall has occurred. While
+thunderstorms again appear likely, much of this activity should be
+fairly favorable for wetting rainfall, and occurring where fuels are
+much less receptive to lightning than the previous days.
+
+Farther south into parts of southern OR, northern NV and northeast
+CA, weak troughing impinging on the western fringes of the upper
+ridge may locally bolster westerly surface winds this afternoon.
+Warm and dry conditions, along with wind gusts of 10-15 mph could
+support a few hours of dry/breezy conditions where fuels are
+relatively drier. Locally elevated conditions are possible, but
+broader fire-weather concerns are unlikely due to the modest winds.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+&lt;/pre&gt;
+&lt;a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"&gt;Read more&lt;/a&gt;</description>
+			<excerpt>SPC Day 1 Fire Weather Outlook Day 1 Fire Weather Outlook NWS Storm Prediction Center Norman OK 1136 AM CDT Sun Aug 16 2026 Valid 161700Z - 171200Z ...NO CRITICAL AREAS... Good overnight humidity recoveries occurred where dry fuels remain in the Northwest and portions of the southern Plains. A cold front has stalled across northern Oklahoma, and will slowly push southward this evening/overnight. The 12z sounding from OUN sampled a 1.74" PWAT, nearing the 90th percentile climatology, alongside 1000+ J/kg of MUCAPE. Forecast soundings depict shallow inverted-V profiles with gradual moistening of the mid-levels through the afternoon amid weak flow, suggesting greater precipitation efficiency…</excerpt><pubDate>Sun, 16 Aug 2026 10:38:30 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 15:05:02 -0600</firstSeen><guid isPermaLink="false">1786912384560498</guid>
+		</item>
+		<item>
 			<title>Can people please, please, please stop stealing baskets from the grocery stores???</title>
 			<link>https://www.reddit.com/r/Denver/comments/1vq6e1v/can_people_please_please_please_stop_stealing/</link>
 						<originalLink>https://www.reddit.com/r/Denver/comments/1vq6e1v/can_people_please_please_please_stop_stealing/</originalLink><dc:creator>/u/birkenstock1977</dc:creator>
@@ -930,44 +1094,6 @@ broader fire-weather concerns are unlikely due to the modest winds.
 			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;A few years ago I got a little carried away with a historical mapping project.&lt;/p&gt; &lt;p&gt;I found a set of detailed survey maps of New Bedford from 1913 that were mostly at the same scale, or could be scaled easily to be combinable. I wanted to be able to look at the city as one continuous map instead of constantly switching between individual plates, so I downloaded high-resolution scans and stitched them together manually in GIMP.&lt;/p&gt; &lt;p&gt;The result was enormous. The master image ended up being several gigabytes and roughly 22,000 x 60,000 pixels. It had exactly the level of detail I wanted, right down to individual buildings and property lines, but at the time it was basically too large to be useful. I could zoom around inside it, but there was no practical way to use it as an actual map.&lt;/p&gt; &lt;p&gt;I recently dug the project back out and decided to finally georeference it properly in QGIS.&lt;/p&gt; &lt;p&gt;I used surviving streets, intersections, shoreline features, etc. as control points and warped the composite into EPSG:3857. It is definitely not survey-grade. Depending on where you are in the city, the alignment seems to be off by anywhere from about 25 feet to maybe 300 feet at the worst extremes. Considering the source maps are from 1913, were originally separate plates, and were manually stitched together, I am pretty happy with that.&lt;/p&gt; &lt;p&gt;After that I generated an XYZ tile pyramid. The final set is about 93,000 PNG tiles and 1.6 GB. I put the tiles in a Google Cloud Storage bucket and added the XYZ layer to a public Google Earth project.&lt;/p&gt; &lt;p&gt;And it actually works exactly the way I originally wanted it to. You can zoom all the way out and see New Bedford as one continuous historical map, then keep zooming in until you are looking at individual streets, lots, buildings, factories, rail lines, wharves, etc., without ever switching plates.&lt;/p&gt; &lt;p&gt;I think this may be the most detailed single continuous map of New Bedford from that period, as opposed to a collection of separate atlas or survey plates, although I have no way of proving that.&lt;/p&gt; &lt;p&gt;This started as part of a much larger digital humanities project that I never finished, so I am pretty happy that I finally found a useful life for it several years later.&lt;/p&gt; &lt;p&gt;Google Earth project:&lt;br&gt; &lt;a href="https://earth.google.com/earth/d/1DrXQVEcWJ_3KtGpGCQQ9mmbtOFHeDho5?usp=sharing"&gt;&lt;strong&gt;https://earth.google.com/earth/d/1DrXQVEcWJ_3KtGpGCQQ9mmbtOFHeDho5?usp=sharing&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;I would be interested in any thoughts from people who do this professionally, especially on better ways I could have handled the georeferencing or local distortion. This was very much a "figure it out as I go" project.&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/CommonMemoryWorks"&gt; /u/CommonMemoryWorks &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/gis/"&gt; r/gis &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vp8tw3/i_stitched_together_new_bedfords_1913_survey_maps/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vp8tw3/i_stitched_together_new_bedfords_1913_survey_maps/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
 			<excerpt>A few years ago I got a little carried away with a historical mapping project. I found a set of detailed survey maps of New Bedford from 1913 that were mostly at the same scale, or could be scaled easily to be combinable. I wanted to be able to look at the city as one continuous map instead of constantly switching between individual plates, so I downloaded high-resolution scans and stitched them together manually in GIMP. The result was enormous. The master image ended up being several gigabytes and roughly 22,000 x 60,000 pixels. It had exactly the level of detail I wanted, right down to individual buildings and property lines, but at the time it was basically too large to be useful. I…</excerpt><pubDate>Sat, 15 Aug 2026 11:32:05 -0600</pubDate>
 			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264783</guid>
-		</item>
-		<item>
-			<title>(Urgent) Downscaling help needed</title>
-			<link>https://www.reddit.com/r/remotesensing/comments/1vp2foo/urgent_downscaling_help_needed/</link>
-						<originalLink>https://www.reddit.com/r/gis/comments/1vp2fc3/urgent_downscaling_help_needed/</originalLink><dc:creator>/u/matterhorn276</dc:creator>
-			<category>r/remotesensing</category>
-			<description>  submitted by   &lt;a href="https://www.reddit.com/user/matterhorn276"&gt; /u/matterhorn276 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/remotesensing/"&gt; r/remotesensing &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vp2fc3/urgent_downscaling_help_needed/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/remotesensing/comments/1vp2foo/urgent_downscaling_help_needed/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>(Urgent) Downscaling help needed</excerpt><pubDate>Sat, 15 Aug 2026 07:07:08 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264782</guid>
-		</item>
-		<item>
-			<title>What open source projects are you contributing to this year?</title>
-			<link>https://www.reddit.com/r/learnpython/comments/1vozz2j/what_open_source_projects_are_you_contributing_to/</link>
-						<originalLink>https://www.reddit.com/r/learnpython/comments/1vozz2j/what_open_source_projects_are_you_contributing_to/</originalLink><dc:creator>/u/kryon-a</dc:creator>
-			<category>r/learnpython</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;As the title says, what are the projects that you are contributing to, what is the one interesting problem that you're trying to solve that keeps you engaged. &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/kryon-a"&gt; /u/kryon-a &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/learnpython/"&gt; r/learnpython &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vozz2j/what_open_source_projects_are_you_contributing_to/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/learnpython/comments/1vozz2j/what_open_source_projects_are_you_contributing_to/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>As the title says, what are the projects that you are contributing to, what is the one interesting problem that you're trying to solve that keeps you engaged.</excerpt><pubDate>Sat, 15 Aug 2026 05:03:52 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264781</guid>
-		</item>
-		<item>
-			<title>An upcoming Technical Interview - Geospatial Data Analyst</title>
-			<link>https://www.reddit.com/r/gis/comments/1vox0dz/an_upcoming_technical_interview_geospatial_data/</link>
-						<originalLink>https://www.reddit.com/r/gis/comments/1vox0dz/an_upcoming_technical_interview_geospatial_data/</originalLink><dc:creator>/u/AwkwardMoe</dc:creator>
-			<category>r/gis</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;Hi everyone. I have an upcoming (one hour )technical interview for a Geospatial Data Analyst role, and I’m feeling quite nervous as it’s my first interview in a long time.&lt;/p&gt; &lt;p&gt;The position mainly involves working with two departments, Forestry and Wildfire, supporting them with geospatial analysis, and maintaining and developing geospatial workflows.&lt;/p&gt; &lt;p&gt;I’d really appreciate any tips or advice on what to expect from the interview, particularly the technical side. If anyone has interviewed for or worked in a similar role, I’d be interested to hear what kinds of questions or scenarios might come up and what areas would be worth brushing up on beforehand.&lt;br&gt; Any advice would be greatly appreciated!&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/AwkwardMoe"&gt; /u/AwkwardMoe &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/gis/"&gt; r/gis &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vox0dz/an_upcoming_technical_interview_geospatial_data/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vox0dz/an_upcoming_technical_interview_geospatial_data/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>Hi everyone. I have an upcoming (one hour )technical interview for a Geospatial Data Analyst role, and I’m feeling quite nervous as it’s my first interview in a long time. The position mainly involves working with two departments, Forestry and Wildfire, supporting them with geospatial analysis, and maintaining and developing geospatial workflows. I’d really appreciate any tips or advice on what to expect from the interview, particularly the technical side. If anyone has interviewed for or worked in a similar role, I’d be interested to hear what kinds of questions or scenarios might come up and what areas would be worth brushing up on beforehand. Any advice would be greatly appreciated!</excerpt><pubDate>Sat, 15 Aug 2026 02:06:09 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264780</guid>
-		</item>
-		<item>
-			<title>My first map, looking for helpful criticism</title>
-			<link>https://www.reddit.com/r/gis/comments/1vorh2a/my_first_map_looking_for_helpful_criticism/</link>
-						<originalLink>https://i.redd.it/b4k8zyn7dgjh1.png</originalLink><dc:creator>/u/AleJefe36</dc:creator>
-			<category>r/gis</category>
-			<media:thumbnail url="https://preview.redd.it/b4k8zyn7dgjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad63149f0b8d5fb09df13813e4000a199d808de6" />
-			<media:content url="https://preview.redd.it/b4k8zyn7dgjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad63149f0b8d5fb09df13813e4000a199d808de6" medium="image" />
-			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/gis/comments/1vorh2a/my_first_map_looking_for_helpful_criticism/"&gt; &lt;img src="https://preview.redd.it/b4k8zyn7dgjh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ad63149f0b8d5fb09df13813e4000a199d808de6" alt="My first map, looking for helpful criticism" title="My first map, looking for helpful criticism"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;div data-sanitized-class="md"&gt;&lt;p&gt;Translation:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Urban Accessibility Index - Ciudad Real&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Very low Accessibility (Red)&lt;br&gt; Low Accessibility (Orange)&lt;br&gt; Medium Accessibility (Yellow)&lt;br&gt; High Accessibility (Light Green)&lt;br&gt; Very high Accessibility (Dark Green)&lt;/p&gt; &lt;p&gt;I live in Spain and forgot to put everything in English for this subreddit; my bad. This is my first ever map made by myself; mostly I only made stuff following what my professor said. I posted this on my Instagram for my GIS professor and mayor to see.&lt;/p&gt; &lt;p&gt;The map shows the calculation of an index that determines the grade of accessibility for pedestrians to certain services that I considered essential and a must to have close to you. These services are:&lt;/p&gt; &lt;p&gt;- Public Healthcare&lt;br&gt; - Libraries&lt;br&gt; - Police Station&lt;br&gt; - Public Administration buildings&lt;br&gt; - Grocery Stores&lt;br&gt; - Gyms&lt;br&gt; - Train and bus station&lt;/p&gt; &lt;p&gt;The way the calculation works is that I manually mapped every building using Google Maps and the coordinates to make a point in ArcGIS Pro; then every service has its own layer, with Euclidean distance. I then assigned points to the areas depending on their distance: 0- 250 m = 5 / &amp;gt;1000 = 1. The higher the more accessible the area is to pedestrians. Then I averaged all and weighted it using the raster calculator, with services like Public Healthcare weighted 3x more towards the final result than gyms; for example, I basically just added the value every pixel had in every layer, and then the higher the point, the better. Then I just used the grid tool and the zoning tool to assign each grid a value according to the most persistent value in the grid. I kinda used Copilot for all of this since most of this stuff we were never shown how to do.&lt;/p&gt; &lt;p&gt;We really did not touch a lot of map design in my GIS classes. So any tips and helpful criticism are welcome.&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/AleJefe36"&gt; /u/AleJefe36 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/gis/"&gt; r/gis &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/b4k8zyn7dgjh1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/gis/comments/1vorh2a/my_first_map_looking_for_helpful_criticism/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-			<excerpt>Translation: Urban Accessibility Index - Ciudad Real Very low Accessibility (Red) Low Accessibility (Orange) Medium Accessibility (Yellow) High Accessibility (Light Green) Very high Accessibility (Dark Green) I live in Spain and forgot to put everything in English for this subreddit; my bad. This is my first ever map made by myself; mostly I only made stuff following what my professor said. I posted this on my Instagram for my GIS professor and mayor to see. The map shows the calculation of an index that determines the grade of accessibility for pedestrians to certain services that I considered essential and a must to have close to you. These services are: - Public Healthcare - Libraries…</excerpt><pubDate>Fri, 14 Aug 2026 21:02:19 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 09:05:02 -0600</firstSeen><guid isPermaLink="false">1786890782264779</guid>
 		</item>
 
 	</channel>
