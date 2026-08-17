@@ -1,13 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 	<channel>
 		<title>ChatGPT Morning RSS</title>
 		<link>http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=html</link>
 		<description>Read-only recent article feed for the morning summary.</description>
-		<pubDate>Sun, 16 Aug 2026 22:05:02 -0600</pubDate>
-		<lastBuildDate>Mon, 17 Aug 2026 04:05:02 GMT</lastBuildDate>
+		<pubDate>Sun, 16 Aug 2026 23:05:01 -0600</pubDate>
+		<lastBuildDate>Mon, 17 Aug 2026 05:05:01 GMT</lastBuildDate>
 		<atom:link href="http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>Low and slow running really works!</title>
+			<link>https://www.reddit.com/r/beginnerrunning/comments/1vq0zvy/low_and_slow_running_really_works/</link>
+						<originalLink>https://i.redd.it/ymgff2yrgrjh1.jpeg</originalLink><dc:creator>/u/randocalrizzion</dc:creator>
+			<category>r/beginnerrunning</category>
+			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;2.5 months ago this would put my hr easily into the 160s and 170s right away! I was only running 1 mile around 10 or 11 minutes and then learned about tye 80/20 rule so I started to experiment with running at a real convo pace 14-15m a mile but kept moving for 3 then 4,5 miles etc and before I knew it my hr lowered on those easy paces and my easy pace got faster and I'm able to run farther! It really works people! Run painfully slow to grow!&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/randocalrizzion"&gt; /u/randocalrizzion &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/beginnerrunning/"&gt; r/beginnerrunning &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ymgff2yrgrjh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/beginnerrunning/comments/1vq0zvy/low_and_slow_running_really_works/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+			<excerpt>2.5 months ago this would put my hr easily into the 160s and 170s right away! I was only running 1 mile around 10 or 11 minutes and then learned about tye 80/20 rule so I started to experiment with running at a real convo pace 14-15m a mile but kept moving for 3 then 4,5 miles etc and before I knew it my hr lowered on those easy paces and my easy pace got faster and I'm able to run farther! It really works people! Run painfully slow to grow!</excerpt><pubDate>Sun, 16 Aug 2026 10:08:41 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 23:05:01 -0600</firstSeen><guid isPermaLink="false">1786942985791689</guid>
+		</item>
+		<item>
+			<title>How do I permanently disable Google Photos pop-up prompt to backup my photos?</title>
+			<link>https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en</link>
+						<originalLink>https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49290545"&gt;Comments&lt;/a&gt;</description>
+			<excerpt>How do I permanently disable Google Photos pop-up prompt to backup my photos?</excerpt><pubDate>Thu, 13 Aug 2026 13:07:34 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 23:05:01 -0600</firstSeen><guid isPermaLink="false">1786942985791688</guid>
+		</item>
+		<item>
+			<title>Victor Marx faces deadline to fix potential campaign finance violations</title>
+			<link>https://www.reddit.com/r/Colorado/comments/1vqhicq/victor_marx_faces_deadline_to_fix_potential/</link>
+						<originalLink>https://www.9news.com/article/news/local/local-politics/colorado-elections-division-victor-marx-deadline-campaign-finance-violations/73-73412269-8f5a-4076-803c-d3c5105dfa8d</originalLink><dc:creator>/u/SpritelyGardenSprite</dc:creator>
+			<category>r/Colorado</category>
+			<media:thumbnail url="https://external-preview.redd.it/8-T00AVp9nIvVDNgLPMoNRyrOKAODl-zqzFgLLHHD8k.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e15c7f7e779b1a9810079417692bb660a15b7d17" />
+			<media:content url="https://external-preview.redd.it/8-T00AVp9nIvVDNgLPMoNRyrOKAODl-zqzFgLLHHD8k.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e15c7f7e779b1a9810079417692bb660a15b7d17" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/Colorado/comments/1vqhicq/victor_marx_faces_deadline_to_fix_potential/"&gt; &lt;img src="https://external-preview.redd.it/8-T00AVp9nIvVDNgLPMoNRyrOKAODl-zqzFgLLHHD8k.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e15c7f7e779b1a9810079417692bb660a15b7d17" alt="Victor Marx faces deadline to fix potential campaign finance violations" title="Victor Marx faces deadline to fix potential campaign finance violations"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;   submitted by   &lt;a href="https://www.reddit.com/user/SpritelyGardenSprite"&gt; /u/SpritelyGardenSprite &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Colorado/"&gt; r/Colorado &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.9news.com/article/news/local/local-politics/colorado-elections-division-victor-marx-deadline-campaign-finance-violations/73-73412269-8f5a-4076-803c-d3c5105dfa8d"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Colorado/comments/1vqhicq/victor_marx_faces_deadline_to_fix_potential/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>Victor Marx faces deadline to fix potential campaign finance violations</excerpt><pubDate>Sun, 16 Aug 2026 21:51:12 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 23:05:01 -0600</firstSeen><guid isPermaLink="false">1786941182367307</guid>
+		</item>
+		<item>
+			<title>Little fair vibes in Florence</title>
+			<link>https://www.reddit.com/r/Colorado/comments/1vqh7ls/little_fair_vibes_in_florence/</link>
+						<originalLink>https://i.redd.it/4bdjwmyfvujh1.jpeg</originalLink><dc:creator>/u/KatyaMilan</dc:creator>
+			<category>r/Colorado</category>
+			<media:thumbnail url="https://preview.redd.it/4bdjwmyfvujh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2dcb4c0d4bc91b2bae86f9ae348daa2c71168c62" />
+			<media:content url="https://preview.redd.it/4bdjwmyfvujh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2dcb4c0d4bc91b2bae86f9ae348daa2c71168c62" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/Colorado/comments/1vqh7ls/little_fair_vibes_in_florence/"&gt; &lt;img src="https://preview.redd.it/4bdjwmyfvujh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2dcb4c0d4bc91b2bae86f9ae348daa2c71168c62" alt="Little fair vibes in Florence" title="Little fair vibes in Florence"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;   submitted by   &lt;a href="https://www.reddit.com/user/KatyaMilan"&gt; /u/KatyaMilan &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Colorado/"&gt; r/Colorado &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/4bdjwmyfvujh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Colorado/comments/1vqh7ls/little_fair_vibes_in_florence/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>Little fair vibes in Florence</excerpt><pubDate>Sun, 16 Aug 2026 21:36:15 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 23:05:01 -0600</firstSeen><guid isPermaLink="false">1786941182367306</guid>
+		</item>
+		<item>
+			<title>Honey bucket heaven @ Levitt Pavilion</title>
+			<link>https://www.reddit.com/r/Denver/comments/1vqgve7/honey_bucket_heaven_levitt_pavilion/</link>
+						<originalLink>https://i.redd.it/zkpgtimesujh1.jpeg</originalLink><dc:creator>/u/Due_Air_8887</dc:creator>
+			<category>r/Denver</category>
+			<media:thumbnail url="https://preview.redd.it/zkpgtimesujh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9254d3298f71d8b9116559286ef90fbace31cd2a" />
+			<media:content url="https://preview.redd.it/zkpgtimesujh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9254d3298f71d8b9116559286ef90fbace31cd2a" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/Denver/comments/1vqgve7/honey_bucket_heaven_levitt_pavilion/"&gt; &lt;img src="https://preview.redd.it/zkpgtimesujh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9254d3298f71d8b9116559286ef90fbace31cd2a" alt="Honey bucket heaven @ Levitt Pavilion" title="Honey bucket heaven @ Levitt Pavilion"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;div data-sanitized-class="md"&gt;&lt;p&gt;Levitt pavilion &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Due_Air_8887"&gt; /u/Due_Air_8887 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Denver/"&gt; r/Denver &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/zkpgtimesujh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Denver/comments/1vqgve7/honey_bucket_heaven_levitt_pavilion/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>Levitt pavilion</excerpt><pubDate>Sun, 16 Aug 2026 21:19:13 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 23:05:01 -0600</firstSeen><guid isPermaLink="false">1786941182367305</guid>
+		</item>
+		<item>
+			<title>Anyone know if any sushi taco spots?</title>
+			<link>https://www.reddit.com/r/denverfood/comments/1vqgmhm/anyone_know_if_any_sushi_taco_spots/</link>
+						<originalLink>https://www.reddit.com/r/denverfood/comments/1vqgmhm/anyone_know_if_any_sushi_taco_spots/</originalLink><dc:creator>/u/baesharambaddie69</dc:creator>
+			<category>r/denverfood</category>
+			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;Anyone know if any spots that sell sushi tacos? Im a big fan of poke too, so im ok with those recommendations too. Tysm! &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/baesharambaddie69"&gt; /u/baesharambaddie69 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/denverfood/"&gt; r/denverfood &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/denverfood/comments/1vqgmhm/anyone_know_if_any_sushi_taco_spots/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/denverfood/comments/1vqgmhm/anyone_know_if_any_sushi_taco_spots/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+			<excerpt>Anyone know if any spots that sell sushi tacos? Im a big fan of poke too, so im ok with those recommendations too. Tysm!</excerpt><pubDate>Sun, 16 Aug 2026 21:07:09 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 23:05:01 -0600</firstSeen><guid isPermaLink="false">1786941182367304</guid>
+		</item>
+		<item>
+			<title>Thank you to whomever left this at the Herman's Gulch trailhead off I-70</title>
+			<link>https://www.reddit.com/r/Denver/comments/1vqfjqc/thank_you_to_whomever_left_this_at_the_hermans/</link>
+						<originalLink>https://i.redd.it/5vgf3a5xgujh1.jpeg</originalLink><dc:creator>/u/AutomaticDoor75</dc:creator>
+			<category>r/Denver</category>
+			<media:thumbnail url="https://preview.redd.it/5vgf3a5xgujh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be09200c528bc2400e1f9f470bb1bb865fe26c09" />
+			<media:content url="https://preview.redd.it/5vgf3a5xgujh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be09200c528bc2400e1f9f470bb1bb865fe26c09" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/Denver/comments/1vqfjqc/thank_you_to_whomever_left_this_at_the_hermans/"&gt; &lt;img src="https://preview.redd.it/5vgf3a5xgujh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=be09200c528bc2400e1f9f470bb1bb865fe26c09" alt="Thank you to whomever left this at the Herman's Gulch trailhead off I-70" title="Thank you to whomever left this at the Herman's Gulch trailhead off I-70"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;   submitted by   &lt;a href="https://www.reddit.com/user/AutomaticDoor75"&gt; /u/AutomaticDoor75 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Denver/"&gt; r/Denver &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/5vgf3a5xgujh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Denver/comments/1vqfjqc/thank_you_to_whomever_left_this_at_the_hermans/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>Thank you to whomever left this at the Herman's Gulch trailhead off I-70</excerpt><pubDate>Sun, 16 Aug 2026 20:15:46 -0600</pubDate>
+			<firstSeen>Sun, 16 Aug 2026 23:05:01 -0600</firstSeen><guid isPermaLink="false">1786941182367303</guid>
+		</item>
+		<item>
 			<title>Chasing Fire Clouds in Utah</title>
 			<link>https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/</link>
 						<originalLink>https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/</originalLink><dc:creator>Michala Garrison</dc:creator>
@@ -1859,160 +1928,6 @@ Abstract: Post-training papers, model cards, and blog posts often treat scores o
 Abstract: Coding agents spend most of their context budget on retrieval. Lexical retrieval (grep) is universal, instant, and zero-setup, but noisy: it cannot tell a definition from a call from a comment. Semantic retrieval via the Language Server Protocol (LSP) is precise and typed, but needs a running, indexed server and pays a per-symbol round-trip. The claim that semantic retrieval is more token-efficient is, we find, asserted almost everywhere and measured almost nowhere: no public source isolates the LSP-vs-lexical token delta for an agent at equal task-success. This paper formalizes the question with one metric (tokens-to-success), specifies a five-arm ablation isolating semantic retrieval from confounds, maps three pre-stated failure modes onto measurable variables, and reports a preliminary study (Python and TypeScript repos; Claude Opus 4.8, Sonnet 4.6, Haiku 4.5). The answer is conditional and usually negative. On symbol-named localization the LSP costs tokens (+6% to +118%) and the agent ignores it when free. On reference-completeness it buys precision but not token savings and cannot raise the recall ceiling set by agent thoroughness; it saves tokens only for the weakest model. Tool choice is task-dependent: models default to grep on localization (0-6% semantic use) but reach for the LSP about half the time on reference tasks, unprompted. On edits scored by real test execution the gap is starkest: grep solves multi-file renames perfectly, a location-only LSP fails three-quarters of them by missing a call site, and even a complete, index-warmed, text-enriched LSP (each reference's line inline, as production LSP-MCP servers do) recovers most of the gap but cannot close it, since a rename must touch comments and strings that semantic references exclude. The implication is not LSP-always but an adaptive router keyed on task class, model capability, and lexical noise.</description>
 			<excerpt>arXiv:2608.13568v1 Announce Type: cross Abstract: Coding agents spend most of their context budget on retrieval. Lexical retrieval (grep) is universal, instant, and zero-setup, but noisy: it cannot tell a definition from a call from a comment. Semantic retrieval via the Language Server Protocol (LSP) is precise and typed, but needs a running, indexed server and pays a per-symbol round-trip. The claim that semantic retrieval is more token-efficient is, we find, asserted almost everywhere and measured almost nowhere: no public source isolates the LSP-vs-lexical token delta for an agent at equal task-success. This paper formalizes the question with one metric (tokens-to-success), specifies a…</excerpt><pubDate>Sun, 16 Aug 2026 22:00:00 -0600</pubDate>
 			<firstSeen>Sun, 16 Aug 2026 22:05:02 -0600</firstSeen><guid isPermaLink="false">1786939389040596</guid>
-		</item>
-		<item>
-			<title>Think in Latent, Explain in Language: Self-Explainable Latent Reasoning</title>
-			<link>https://arxiv.org/abs/2608.13570</link>
-						<originalLink>https://arxiv.org/abs/2608.13570</originalLink><dc:creator>Dayuan Zhao</dc:creator>
-			<dc:creator>Shengcao Cao</dc:creator>
-			<dc:creator>Yu-Xiong Wang</dc:creator>
-			<dc:creator>Liang-Yan Gui</dc:creator>
-			<category>cs.CL</category>
-			<category>cs.AI</category>
-			<category>cs.LG</category>
-			<description>arXiv:2608.13570v1 Announce Type: cross 
-Abstract: Latent reasoning has emerged as a powerful alternative to text-based Chain-of-Thought (CoT), offering significant gains in computational efficiency by compressing verbose reasoning into compact embeddings. However, compressing reasoning into the latent space renders the thinking opaque, hindering its interpretability. Current methods present a stark trade-off: they either function as unexplainable ''black boxes'' (e.g., Coconut), where the latent reasoning is not human-readable, or rely on separate post-hoc decoders for explainability (e.g., Heima), introducing architectural overhead and decoupling the explanation from the actual reasoning process. In this work, we present a unified framework for Self-Explainable Latent Reasoning (SELR) that trains a single model to perform efficient and inherently explainable latent reasoning. Our core contribution is a novel multi-task training objective that optimizes for two goals simultaneously: (1) an Answer Loss that optimizes the latent reasoning trajectory to produce accurate final answers, and (2) a CoT Loss that explicitly trains the same model to decode its own latent representations back into human-understandable reasoning steps. This design ensures that generated latent representations are both task-effective and semantically interpretable, eliminating the need for external decoders. We validate the effectiveness of SELR on both Large Language Models (LLMs) and Vision-Language Models (VLMs), demonstrating that SELR achieves superior token efficiency and accuracy compared to baselines, while uniquely providing self-contained explainability without auxiliary models. Project page is available at https://jasondayuan.github.io/SELR/.</description>
-			<excerpt>arXiv:2608.13570v1 Announce Type: cross Abstract: Latent reasoning has emerged as a powerful alternative to text-based Chain-of-Thought (CoT), offering significant gains in computational efficiency by compressing verbose reasoning into compact embeddings. However, compressing reasoning into the latent space renders the thinking opaque, hindering its interpretability. Current methods present a stark trade-off: they either function as unexplainable ''black boxes'' (e.g., Coconut), where the latent reasoning is not human-readable, or rely on separate post-hoc decoders for explainability (e.g., Heima), introducing architectural overhead and decoupling the explanation from the actual reasoning…</excerpt><pubDate>Sun, 16 Aug 2026 22:00:00 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 22:05:02 -0600</firstSeen><guid isPermaLink="false">1786939389040595</guid>
-		</item>
-		<item>
-			<title>Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems</title>
-			<link>https://arxiv.org/abs/2608.13571</link>
-						<originalLink>https://arxiv.org/abs/2608.13571</originalLink><dc:creator>Heming Fu</dc:creator>
-			<dc:creator>Shan Lin</dc:creator>
-			<dc:creator>Qianqian Xie</dc:creator>
-			<dc:creator>Guojun Xiong</dc:creator>
-			<category>cs.CL</category>
-			<category>cs.AI</category>
-			<description>arXiv:2608.13571v1 Announce Type: cross 
-Abstract: When a language model fails to answer a query on the first attempt, an agentic system retries, consuming additional tokens each time. This retry overhead creates a gap between what a model's per-token price implies and what a full workflow actually costs. We call this gap \emph{token inflation} and define it as the ratio of true workflow cost to single-call cost. Systems like FrugalGPT route based on the latter, which can underestimate real cost by more than $2\times$ on difficult tasks. We address this with InflationAgent, a four-stage router that (1) measures token inflation systematically across model tiers and task types, finding inflation as high as $4.25\times$ for a 7B model on multi-hop question answering; (2) introduces CoT Branching Entropy (CBE), a pre-execution difficulty signal computed entirely from local inference, which predicts high inflation with AUROC 0.887; and (3) selects models by maximizing a Semantic Exchange Rate (SER) that divides expected accuracy by predicted true cost, with a fresh-escalation policy that discards failed chains before routing to a stronger model. On GSM8K under a fixed budget, InflationAgent achieves 94.7\% accuracy versus 91.0\% for FrugalGPT while using 31\% fewer tokens, and we show that forwarding a failed reasoning chain to GPT-4o reduces its accuracy by up to 34.8 percentage points, validating the fresh-escalation design.</description>
-			<excerpt>arXiv:2608.13571v1 Announce Type: cross Abstract: When a language model fails to answer a query on the first attempt, an agentic system retries, consuming additional tokens each time. This retry overhead creates a gap between what a model's per-token price implies and what a full workflow actually costs. We call this gap \emph{token inflation} and define it as the ratio of true workflow cost to single-call cost. Systems like FrugalGPT route based on the latter, which can underestimate real cost by more than $2\times$ on difficult tasks. We address this with InflationAgent, a four-stage router that (1) measures token inflation systematically across model tiers and task types, finding…</excerpt><pubDate>Sun, 16 Aug 2026 22:00:00 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 22:05:02 -0600</firstSeen><guid isPermaLink="false">1786939389040594</guid>
-		</item>
-		<item>
-			<title>The Architect: Interactive Visualization of Deep Learning Mathematics Directly in Microsoft Excel</title>
-			<link>https://arxiv.org/abs/2608.13572</link>
-						<originalLink>https://arxiv.org/abs/2608.13572</originalLink><dc:creator>Mohammad Imrul Jubair</dc:creator>
-			<dc:creator>Tom Yeh</dc:creator>
-			<category>cs.HC</category>
-			<category>cs.AI</category>
-			<description>arXiv:2608.13572v1 Announce Type: cross 
-Abstract: We present The Architect, a system that turns Microsoft Excel into an interactive view of deep learning mathematics. A user describes a neural network in a compact table. The system then generates a workbook that shows the full forward pass and, when requested, the backward pass and parameter updates. Computed values appear as live spreadsheet formulas, while user-controlled values such as inputs, weights, labels, and hyperparameters remain editable. Excel reactively updates the dependent computations through its recalculation engine.
-  Most deep learning tools hide the numerical details behind library calls. Many visualization tools show architecture diagrams or training summaries, but they do not expose the full arithmetic of the model. The Architect focuses on that missing middle layer. It makes matrices, activations, losses, gradients, and updates visible as inspectable spreadsheet regions, with editable controls for values users naturally manipulate. The system also produces aligned PyTorch snippets, which helps users connect formulas to implementation.
-  This report describes the motivation, design, implementation, and use cases of The Architect. We show how the system supports introductory arithmetic tracing, learning-rate exploration, diagnosis of dying ReLU, and inspection of vanishing gradients. The main idea is simple: spreadsheets already support formulas, direct editing, reactive recomputation, and tabular layout. These properties make them a useful medium for understanding how small educational and diagnostic neural networks compute.</description>
-			<excerpt>arXiv:2608.13572v1 Announce Type: cross Abstract: We present The Architect, a system that turns Microsoft Excel into an interactive view of deep learning mathematics. A user describes a neural network in a compact table. The system then generates a workbook that shows the full forward pass and, when requested, the backward pass and parameter updates. Computed values appear as live spreadsheet formulas, while user-controlled values such as inputs, weights, labels, and hyperparameters remain editable. Excel reactively updates the dependent computations through its recalculation engine. Most deep learning tools hide the numerical details behind library calls. Many visualization tools show…</excerpt><pubDate>Sun, 16 Aug 2026 22:00:00 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 22:05:02 -0600</firstSeen><guid isPermaLink="false">1786939389040593</guid>
-		</item>
-		<item>
-			<title>Interactive Analysis of Global Explanations using Aggregated Class Activation Maps for Network Data</title>
-			<link>https://arxiv.org/abs/2608.13575</link>
-						<originalLink>https://arxiv.org/abs/2608.13575</originalLink><dc:creator>Igor Cherepanov, David Sessler, Alex Ulmer, Felix Wagner, Throsten May, J\"orn Kohlhammer</dc:creator>
-			<category>cs.HC</category>
-			<category>cs.AI</category>
-			<category>cs.LG</category>
-			<category>cs.NI</category>
-			<description>arXiv:2608.13575v1 Announce Type: cross 
-Abstract: Recent machine learning (ML) advances have demonstrated that deep learning (DL) achieves impressive results in different application domains, including the classification of computer network traffic to corresponding applications. However, the data frequently contains diverging patterns within a single predicted class. This presents a significant challenge to the ability to provide a clear and comprehensive explanation and emphasizes the necessity for tools capable of detecting and analyzing these patterns. Furthermore, the capacity to extract descriptive rules for classes is a crucial requirement in network traffic analysis and intrusion detection, particularly when leveraging advanced tools like next-generation firewalls. We provide a visual-interactive system that explains predictions of classes for network traffic. Global explanations derived from multiple samples of a given class contribute to understanding model predictions. Visualization of global explanations enables recognition of different patterns that offer experts a more comprehensive overview of its characteristics. We introduce a prototype that facilitates visual exploration and refinement of global explanations, enabling network experts to detect and refine new patterns for specific applications. These explanations support the identification of misleading features and the formulation of new rules for the management of networks. Our approach also aims at enabling ML experts to acquire new insights, including the possibility of separating or merging classes and the development of more accurate and reliable DL models. Our proposed prototype was evaluated by experts in machine learning and network analysis.</description>
-			<excerpt>arXiv:2608.13575v1 Announce Type: cross Abstract: Recent machine learning (ML) advances have demonstrated that deep learning (DL) achieves impressive results in different application domains, including the classification of computer network traffic to corresponding applications. However, the data frequently contains diverging patterns within a single predicted class. This presents a significant challenge to the ability to provide a clear and comprehensive explanation and emphasizes the necessity for tools capable of detecting and analyzing these patterns. Furthermore, the capacity to extract descriptive rules for classes is a crucial requirement in network traffic analysis and intrusion…</excerpt><pubDate>Sun, 16 Aug 2026 22:00:00 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 22:05:02 -0600</firstSeen><guid isPermaLink="false">1786939389040592</guid>
-		</item>
-		<item>
-			<title>BCMT: Blockwise Causal Memory Transformer</title>
-			<link>https://arxiv.org/abs/2608.13578</link>
-						<originalLink>https://arxiv.org/abs/2608.13578</originalLink><dc:creator>Rachid Arezki</dc:creator>
-			<category>cs.CL</category>
-			<category>cs.AI</category>
-			<category>cs.LG</category>
-			<description>arXiv:2608.13578v1 Announce Type: cross 
-Abstract: Transformer architectures rely on dense self-attention to model long-range dependencies, but this mechanism exhibits quadratic complexity with respect to sequence length. We introduce BCMT (Blockwise Causal Memory Transformer), an architecture for long-context language modeling that decouples local token interactions from global context propagation. Dense causal self-attention is applied independently within local blocks, while each block produces an adaptive summary aggregated through an exponential causal memory. This memory is subsequently injected back into the token representations, enabling efficient propagation of long-range contextual information without relying on explicit global attention. Unlike standard Transformers and recurrent memory architectures, BCMT maintains neither dense interactions between distant tokens nor learned memory states. Its memory mechanism is fully parallelizable and remains compatible with standard implementations of dense self-attention. Experiments on language modeling with context lengths of up to 1024 tokens show that BCMT achieves validation performance comparable to that of Dense Transformers while significantly improving training throughput and reducing memory consumption. An ablation study further confirms that these improvements arise from the proposed memory mechanism. These results demonstrate that an exponential causal memory constructed from block summaries provides an effective alternative to dense global attention mechanisms for long-context language modeling.</description>
-			<excerpt>arXiv:2608.13578v1 Announce Type: cross Abstract: Transformer architectures rely on dense self-attention to model long-range dependencies, but this mechanism exhibits quadratic complexity with respect to sequence length. We introduce BCMT (Blockwise Causal Memory Transformer), an architecture for long-context language modeling that decouples local token interactions from global context propagation. Dense causal self-attention is applied independently within local blocks, while each block produces an adaptive summary aggregated through an exponential causal memory. This memory is subsequently injected back into the token representations, enabling efficient propagation of long-range…</excerpt><pubDate>Sun, 16 Aug 2026 22:00:00 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 22:05:02 -0600</firstSeen><guid isPermaLink="false">1786939389040591</guid>
-		</item>
-		<item>
-			<title>Jais 2: A Family of Arabic-Centric Open Large Language Models</title>
-			<link>https://arxiv.org/abs/2608.13580</link>
-						<originalLink>https://arxiv.org/abs/2608.13580</originalLink><dc:creator>Mohamed Anwar</dc:creator>
-			<dc:creator>Abed Alhakim Freihat</dc:creator>
-			<dc:creator>George Ibrahim</dc:creator>
-			<dc:creator>Mostafa Awad</dc:creator>
-			<dc:creator>Abdelrahman Sadallah</dc:creator>
-			<dc:creator>Gurpreet Gosal</dc:creator>
-			<dc:creator>Gokulakrishnan Ramakrishnan</dc:creator>
-			<dc:creator>Sarath Chandran</dc:creator>
-			<dc:creator>Biswajit Mishra</dc:creator>
-			<dc:creator>Rituraj Joshi</dc:creator>
-			<dc:creator>Ahmed Frikha</dc:creator>
-			<dc:creator>Etienne Goffinet</dc:creator>
-			<dc:creator>Abhishek Maiti</dc:creator>
-			<dc:creator>Ali El Filali</dc:creator>
-			<dc:creator>Sarah AlBarri</dc:creator>
-			<dc:creator>Samujjwal Ghosh</dc:creator>
-			<dc:creator>Rahul Pal</dc:creator>
-			<dc:creator>Parvez Mullah</dc:creator>
-			<dc:creator>Awantika Shukla</dc:creator>
-			<dc:creator>Sajid siddiki</dc:creator>
-			<dc:creator>Samta Kamboj</dc:creator>
-			<dc:creator>Onkar Pandit</dc:creator>
-			<dc:creator>Sunil Kumar Sahu</dc:creator>
-			<dc:creator>AbdelRahman Elbadawy</dc:creator>
-			<dc:creator>Amr Mohamed</dc:creator>
-			<dc:creator>Ahmad Chamma</dc:creator>
-			<dc:creator>Evan Dufraisse</dc:creator>
-			<dc:creator>Abdelaziz Bounhar</dc:creator>
-			<dc:creator>Dani Bouch</dc:creator>
-			<dc:creator>Hadi Abdine</dc:creator>
-			<dc:creator>Guokan Shang</dc:creator>
-			<dc:creator>Fajri Koto</dc:creator>
-			<dc:creator>Yuxia Wang</dc:creator>
-			<dc:creator>Zhuohan Xie</dc:creator>
-			<dc:creator>Ali Mekky</dc:creator>
-			<dc:creator>Rania Elbadry</dc:creator>
-			<dc:creator>Sarfraz Ahmad</dc:creator>
-			<dc:creator>Momina Ahsan</dc:creator>
-			<dc:creator>Omar El Herraoui</dc:creator>
-			<dc:creator>Daniil Orel</dc:creator>
-			<dc:creator>Hasan Iqbal</dc:creator>
-			<dc:creator>Kareem Elzeky</dc:creator>
-			<dc:creator>Mervat Abassy</dc:creator>
-			<dc:creator>Kareem Elozeiri</dc:creator>
-			<dc:creator>Saadeldine Eletter</dc:creator>
-			<dc:creator>Farah Atif</dc:creator>
-			<dc:creator>Nurdaulet Mukhituly</dc:creator>
-			<dc:creator>Haonan Li</dc:creator>
-			<dc:creator>Xudong Han</dc:creator>
-			<dc:creator>Aaryamonvikram Singh</dc:creator>
-			<dc:creator>Zainul Abedien Ahmed Quraishi</dc:creator>
-			<dc:creator>Neha Sengupta</dc:creator>
-			<dc:creator>Larry Murray</dc:creator>
-			<dc:creator>Avraham Sheinin</dc:creator>
-			<dc:creator>Joel Hestness</dc:creator>
-			<dc:creator>Natalia Vassilieva</dc:creator>
-			<dc:creator>Hector Xuguang Ren</dc:creator>
-			<dc:creator>Zhengzhong Liu</dc:creator>
-			<dc:creator>Michalis Vazirgiannis</dc:creator>
-			<dc:creator>Preslav Nakov</dc:creator>
-			<category>cs.CL</category>
-			<category>cs.AI</category>
-			<description>arXiv:2608.13580v1 Announce Type: cross 
-Abstract: Jais 2 is a family of Arabic-centric large language models developed jointly by MBZUAI, Cerebras, and Inception, designed to advance Arabic-centric language modeling, with strong performance across the Arabic and culturally grounded benchmarks evaluated in this report. The family includes, to our knowledge, the largest open Arabic-centric LLM trained from scratch at 70B parameters, and a competitive 8B-parameter variant among the evaluated open models. A custom Arabic-centric vocabulary enables efficient training and inference. In addition, an optimized architecture and training recipe yield highly compute-efficient training. With a substantially smaller token budget than comparable models, Jais 2 achieves strong Arabic performance on the benchmarks considered in this report and competitive English results. The models obtain leading results among the evaluated open models on OALL2 and AraGen. They also perform strongly on several culturally grounded Arabic benchmarks, including poetry, religion, cuisine, and dream interpretation, as well as in general tasks such as translation and summarization. We release the models in HuggingFace under a commercially permissive license. Jais 2 70B is also released as a chat app on the Web, iOS, and Android; it runs on Cerebras hardware, delivering up to 2,000 tokens per second, and enabling high-throughput Arabic-centric chat serving in our deployment setting. By uniting scale, linguistic diversity, cultural fidelity, openness, and speed, Jais 2 provides an open-weight foundation intended to support further research and development in Arabic-centric LLMs.</description>
-			<excerpt>arXiv:2608.13580v1 Announce Type: cross Abstract: Jais 2 is a family of Arabic-centric large language models developed jointly by MBZUAI, Cerebras, and Inception, designed to advance Arabic-centric language modeling, with strong performance across the Arabic and culturally grounded benchmarks evaluated in this report. The family includes, to our knowledge, the largest open Arabic-centric LLM trained from scratch at 70B parameters, and a competitive 8B-parameter variant among the evaluated open models. A custom Arabic-centric vocabulary enables efficient training and inference. In addition, an optimized architecture and training recipe yield highly compute-efficient training. With a…</excerpt><pubDate>Sun, 16 Aug 2026 22:00:00 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 22:05:02 -0600</firstSeen><guid isPermaLink="false">1786939389040590</guid>
-		</item>
-		<item>
-			<title>From Prediction to Intervention: Personalized Meal-Level Glucose Regulation via an LLM Agent</title>
-			<link>https://arxiv.org/abs/2608.13581</link>
-						<originalLink>https://arxiv.org/abs/2608.13581</originalLink><dc:creator>Mingyu Huang</dc:creator>
-			<dc:creator>Weiqing Min</dc:creator>
-			<dc:creator>Ying Jin</dc:creator>
-			<dc:creator>Yilin Wang</dc:creator>
-			<dc:creator>Shuqiang Jiang</dc:creator>
-			<category>cs.HC</category>
-			<category>cs.AI</category>
-			<category>cs.LG</category>
-			<description>arXiv:2608.13581v1 Announce Type: cross 
-Abstract: Personalized glucose regulation remains a central yet unresolved challenge in precision nutrition, as postprandial glucose response varies substantially across individuals. Existing approaches based on glycemic indices fail to adequately account for such heterogeneity and lack the mechanism to dynamically adjust meals based on personal physiological feedback. In this context, recent advances in LLM-based agents offer a promising direction, as they enable context-aware reasoning and iterative refinement. Inspired by this, we propose a physio-feedback agentic loop, a unified system that integrates individualized absorption modeling with dietary intervention to regulate glucose response. Specifically, we develop a Physiology-Aware Glucose Predictor to model individualized absorption dynamics through a learnable Temporal Physiological Absorption Decay Module. We then construct a Prediction-Driven Two-Stage Meal Optimization Agent that iteratively refines real-world meals using predicted outcomes as explicit feedback. Through extensive experiments on multiple public datasets, we demonstrate that our method not only improves prediction accuracy but also effectively reduces glucose excursions. To the best of our knowledge, this paper marks the first step in integrating physiological learning with an LLM-based agent for personalized glucose regulation.</description>
-			<excerpt>arXiv:2608.13581v1 Announce Type: cross Abstract: Personalized glucose regulation remains a central yet unresolved challenge in precision nutrition, as postprandial glucose response varies substantially across individuals. Existing approaches based on glycemic indices fail to adequately account for such heterogeneity and lack the mechanism to dynamically adjust meals based on personal physiological feedback. In this context, recent advances in LLM-based agents offer a promising direction, as they enable context-aware reasoning and iterative refinement. Inspired by this, we propose a physio-feedback agentic loop, a unified system that integrates individualized absorption modeling with…</excerpt><pubDate>Sun, 16 Aug 2026 22:00:00 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 22:05:02 -0600</firstSeen><guid isPermaLink="false">1786939389040589</guid>
 		</item>
 
 	</channel>
