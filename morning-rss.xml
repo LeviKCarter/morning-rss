@@ -4,10 +4,279 @@
 		<title>ChatGPT Morning RSS</title>
 		<link>http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=html</link>
 		<description>Read-only recent article feed for the morning summary.</description>
-		<pubDate>Mon, 17 Aug 2026 16:05:02 -0600</pubDate>
-		<lastBuildDate>Mon, 17 Aug 2026 22:05:02 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Aug 2026 17:05:02 -0600</pubDate>
+		<lastBuildDate>Mon, 17 Aug 2026 23:05:02 GMT</lastBuildDate>
 		<atom:link href="http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>Bluesky draws its logo on screenshots</title>
+			<link>https://timmarinin.net/2026/bluesky-screenshots/</link>
+						<originalLink>https://timmarinin.net/2026/bluesky-screenshots/</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49338459"&gt;Comments&lt;/a&gt;</description>
+			<excerpt>Bluesky draws its logo on screenshots</excerpt><pubDate>Mon, 17 Aug 2026 16:20:40 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065348</guid>
+		</item>
+		<item>
+			<title>Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest</title>
+			<link>https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html</link>
+						<originalLink>https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49338404"&gt;Comments&lt;/a&gt;</description>
+			<excerpt>Nation's Largest Reservoirs Are Drying Up, Threatening Life in the Southwest</excerpt><pubDate>Mon, 17 Aug 2026 16:15:38 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065347</guid>
+		</item>
+		<item>
+			<title>Heads up, Fallout 4 and Skyrim players: New updates are incoming, so it's time to tend to your mods</title>
+			<link>https://www.pcgamer.com/games/fallout/heads-up-fallout-4-and-skyrim-players-new-updates-are-incoming-so-its-time-to-tend-to-your-mods/</link>
+						<originalLink>https://www.pcgamer.com/games/fallout/heads-up-fallout-4-and-skyrim-players-new-updates-are-incoming-so-its-time-to-tend-to-your-mods/</originalLink><dc:creator>andy.chalk@pcgamer.com (Andy Chalk)</dc:creator>
+			<category>Fallout</category>
+			<category>Games</category>
+			<category>RPG</category>
+			<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/nBu59mhpiUnd26PefoF5ze-1280-80.jpg" />
+			<media:content url="https://cdn.mos.cms.futurecdn.net/nBu59mhpiUnd26PefoF5ze-1280-80.jpg" medium="image" />
+			<description>&lt;article&gt;
+                                &lt;p&gt;Bethesda Game Studios is warning owners of &lt;a href="https://www.pcgamer.com/fallout-4/"&gt;Fallout 4&lt;/a&gt; to either log into a save or manually save their mod load order, because a new patch "focusing on general Creations improvements" is incoming.&lt;/p&gt;&lt;p&gt;Bethesda's got a bit of interesting history when it comes to Fallout 4 patches. &lt;a href="https://www.pcgamer.com/games/fallout/fallout-4s-next-gen-update-is-nearly-16-gigs-breaks-modded-saves-and-doesnt-seem-to-change-much-at-all/"&gt;2024's "next gen" update&lt;/a&gt; didn't really improve anything but did manage to break quite a lot, and the best solution to come out of that whole thing was simply to roll it all back with a "Downgrader Tool." A year after that, Bethesda &lt;a href="https://www.pcgamer.com/games/fallout/bethesda-just-cant-help-itself-its-gearing-up-to-break-some-fallout-4-mods-one-last-time-for-the-road-but-at-least-its-just-the-main-menu-ones-this-time/"&gt;did it again&lt;/a&gt;, although on a somewhat smaller scale, except that ended up causing a surprise &lt;a href="https://www.pcgamer.com/games/rpg/bethesda-is-actively-investigating-the-fallout-4-problems-that-bethesda-caused-with-its-latest-fallout-4-update/"&gt;new round of headaches&lt;/a&gt;, resulting in much wailing and gnashing of teeth, and of course &lt;a href="https://www.pcgamer.com/games/fallout/another-fallout-4-update-fixes-performance-issues-while-leaving-modders-angry-but-it-doesnt-have-to-be-this-way/"&gt;another update&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;All of which is to say that if you're a Fallout 4 fan, you should probably pay heed to Bethesda's latest heads-up. &lt;/p&gt;&lt;p&gt;"As a precaution, prior to these updates we encourage players to log into your game save if you haven't done so in a while or manually save your load order," the studio wrote (via &lt;a href="https://www.polygon.com/skyrim-fallout-4-update-bethesda-mods-error-break-nexus/"&gt;Polygon&lt;/a&gt;). "Once your load order is saved, you'll be able to re-download your entire Creations list at once when the update is live."&lt;/p&gt;&lt;div data-sanitized-class="see-more see-more--clipped"&gt;&lt;figure&gt;&lt;blockquote data-lang="en" cite="https://twitter.com/cantworkitout/status/2088350191699071042" data-sanitized-class="twitter-tweet hawk-ignore"&gt;&lt;p lang="en" dir="ltr"&gt;On Tuesday, August 18th, a patch will be coming to Fallout 4 focusing on general Creations improvements.As a precaution, prior to these updates we encourage players to log into your game save if you haven’t done so in a while or manually save your load order. Once your load… pic.twitter.com/RpZtkHEKqk&lt;a href="https://twitter.com/cantworkitout/status/2088350191699071042"&gt;August 14, 2026&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;&lt;div data-sanitized-class="see-more__filter"&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;The response to the post is an interesting mix of gratitude that an 11-year-old game is still being actively supported, concern about the damage that ongoing support might cause, and bemusement/outrage that Bethesda is dicking around with Fallout 4 instead of working on Elder Scrolls 6. My guess is that the studio is capable of doing both, but sometimes you just have to get this stuff off your chest.&lt;/p&gt;&lt;p&gt;In any event, this will hopefully not cause any major headaches, but it's still good advice. And speaking of The Elder Scrolls, Bethesda also said that it's working on a new Skyrim update, details of which will be revealed later. You might as well take that as a warning to back up your Skyrim saves too: Bethesda's recording on breaking mods in its fantasy RPG series is pretty much &lt;a href="https://www.pcgamer.com/skyrims-latest-patch-has-pissed-off-players-for-two-reasons-it-broke-old-mods-and-added-new-paid-ones/"&gt;in line with its post-nuclear one&lt;/a&gt;.&lt;/p&gt;&lt;div&gt;                                &lt;div data-sanitized-class="kwizly-quiz kwizly-WQw9nX"&gt;&lt;/div&gt;                            &lt;/div&gt;                            &lt;div data-sanitized-class="product"&gt;&lt;a data-dimension112="ff6bb1b4-9a87-11f1-bd23-c56a0322bb48" data-action="Deal Block" data-label="Fallout 4 cheats" data-dimension48="Fallout 4 cheats"&gt;&lt;figure data-sanitized-class="van-image-figure "&gt;&lt;div data-sanitized-class="image-full-width-wrapper"&gt;&lt;div data-sanitized-class="image-widthsetter"&gt;&lt;p data-sanitized-class="vanilla-image-block"&gt;&lt;img alt="" src="https://cdn.mos.cms.futurecdn.net/afZYAs9fTHP3qxTNcvkXcF.jpg" align="middle" width="366" height="366" data-sanitized-id="afZYAs9fTHP3qxTNcvkXcF" data-sanitized-class=""&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt;&lt;/a&gt;&lt;p&gt;&lt;a href="https://www.pcgamer.com/fallout-4-cheats-and-console-commands-can-turn-you-into-a-superhero/" data-dimension112="ff6bb1b4-9a87-11f1-bd23-c56a0322bb48" data-action="Deal Block" data-label="Fallout 4 cheats" data-dimension48="Fallout 4 cheats" data-dimension25=""&gt;&lt;strong&gt;Fallout 4 cheats&lt;/strong&gt;&lt;/a&gt;: Nuclear codes&lt;br&gt;&lt;a href="https://www.pcgamer.com/fallout-new-vegas-console-commands/"&gt;&lt;strong&gt;New Vegas console commands&lt;/strong&gt;&lt;/a&gt;: Stacked deck&lt;br&gt;&lt;a href="https://www.pcgamer.com/games/rpg/oblivion-console-commands-cheats"&gt;&lt;strong&gt;Oblivion console commands&lt;/strong&gt;&lt;/a&gt;: Crisis controls&lt;br&gt;&lt;a href="https://www.pcgamer.com/skyrim-console-commands-let-you-cheat-and-do-other-stuff/"&gt;&lt;strong&gt;Skyrim console commands&lt;/strong&gt;&lt;/a&gt;: Tune your Tamriel&lt;br&gt;&lt;a href="https://www.pcgamer.com/so-what-is-skyrim-anniversary-edition-and-what-does-it-actually-include/"&gt;&lt;strong&gt;Skyrim Anniversary Edition&lt;/strong&gt;&lt;/a&gt;: What it includes&lt;/p&gt;&lt;/div&gt;
+                                                            &lt;/article&gt;</description>
+			<excerpt>Bethesda Game Studios is warning owners of Fallout 4 to either log into a save or manually save their mod load order, because a new patch "focusing on general Creations improvements" is incoming. Bethesda's got a bit of interesting history when it comes to Fallout 4 patches. 2024's "next gen" update didn't really improve anything but did manage to break quite a lot, and the best solution to come out of that whole thing was simply to roll it all back with a "Downgrader Tool." A year after that, Bethesda did it again, although on a somewhat smaller scale, except that ended up causing a surprise new round of headaches, resulting in much wailing and gnashing of teeth, and of course another…</excerpt><pubDate>Mon, 17 Aug 2026 16:11:10 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065346</guid>
+		</item>
+		<item>
+			<title>US vaccination rates fall again as exemptions continue to rise, CDC data shows</title>
+			<link>https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/</link>
+						<originalLink>https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/</originalLink><dc:creator>Beth Mole</dc:creator>
+			<category>Health</category>
+			<category>anti-vaccine</category>
+			<category>CDC</category>
+			<category>kennedy</category>
+			<category>Trump</category>
+			<category>vaccines</category>
+			<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg" medium="image" type="image/jpeg" height="648" width="1024"><media:credit>Getty | Bonnie Cash</media:credit></media:content>
+			<description>&lt;p&gt;The Centers for Disease Control and Prevention on Monday released &lt;a href="https://www.cdc.gov/schoolvaxview/data/"&gt;data on the vaccination rates&lt;/a&gt; of US kindergarteners in the 2025–2026 school year, revealing that rates have once again decreased from the previous school year.&lt;/p&gt;
+&lt;p&gt;Vaccination rates have been slipping since the 2019–2020 school year, when the US had obtained rates of around 95 percent, the threshold needed to keep outbreaks of vaccine-preventable diseases from spreading in communities. The latest data shows the US is moving further away from that target.&lt;/p&gt;
+&lt;p&gt;Nationally, only 92.4 percent of kindergartners were vaccinated with the measles, mumps, and rubella (MMR) vaccine in the 2025–2026 school year, down from 92.5 percent last year. Coverage with the DTaP vaccine, which covers diphtheria, tetanus, and acellular pertussis (whooping cough), similarly fell from 92.1 percent to 92.0 percent.&lt;/p&gt;&lt;p&gt;&lt;a href="https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/"&gt;Read full article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/#comments"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+			<excerpt>The Centers for Disease Control and Prevention on Monday released data on the vaccination rates of US kindergarteners in the 2025–2026 school year, revealing that rates have once again decreased from the previous school year. Vaccination rates have been slipping since the 2019–2020 school year, when the US had obtained rates of around 95 percent, the threshold needed to keep outbreaks of vaccine-preventable diseases from spreading in communities. The latest data shows the US is moving further away from that target. Nationally, only 92.4 percent of kindergartners were vaccinated with the measles, mumps, and rubella (MMR) vaccine in the 2025–2026 school year, down from 92.5 percent last…</excerpt><pubDate>Mon, 17 Aug 2026 16:08:47 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065345</guid>
+		</item>
+		<item>
+			<title>SPC Day 3-8 Fire Weather Outlook</title>
+			<link>https://www.spc.noaa.gov/products/exper/fire_wx/</link>
+						<originalLink>https://www.spc.noaa.gov/products/exper/fire_wx/</originalLink><description>SPC Day 3-8 Fire Weather Outlook
+          &lt;br&gt;&lt;a href="https://www.spc.noaa.gov/products/exper/fire_wx/"&gt;&lt;img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center"&gt;&lt;/a&gt;&lt;pre&gt;
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0500 PM CDT Mon Aug 17 2026
+
+Valid 191200Z - 251200Z
+
+...Synopsis...
+A ridge continues to slowly build over the Great Basin to start the
+extended forecast period. The pressure gradient will tighten on Day
+4/Thursday as a trough approaches the west CONUS coast. A mid-level
+low pressure system will near the Pacific Northwest coast on Day
+5/Friday as the upper-level jet max peaks over northern CA and
+southern OR. This will provide synoptic lift to portions of
+north-central OR and then much of central WA under the left exit
+region of the jet streak on the afternoon of Day 5/Friday. The
+trough will begin to lift northeastward as it becomes slightly
+negatively-tilted progressing into Day 6/Saturday. High pressure
+remains in place over much of the southwestern half of the CONUS
+with shortwave trough passages periodically moving across the crest
+of the high through the northern states. While slight differences in
+timing of the aforementioned trough exist, the overall pattern
+evolution remains similar amongst various ensemble forecast
+guidance.
+
+...Pacific Northwest/Northern California/Great Basin...
+The Pacific Northwest and immediately neighboring areas of northern
+California and the Great Basin will remain foci through much of the
+extended forecast. Starting on Day 4/Thursday and continuing through
+Day 6/Saturday, expect multiple consecutive days of gusty
+southwesterly winds combined with warm and dry weather as the
+aforementioned large trough approaches from the west. Near-normal
+conditions in the short-term followed by increasing above-normal
+temperatures Day 3/Wednesday through Day 5/Friday will culminate in
+a cold front passage on Day 6/Saturday as the trough approaches.
+Given the jet aloft and surface conditions that would support deep
+daytime mixing, a favorable pattern remains in place for dry and
+breezy weather to overlap very dry fuels across northeastern CA,
+southern OR, and northwestern NV; thus, 40% Critical probabilities
+were maintained on Day 4/Thursday through Day 6/Saturday. Given the
+aforementioned upper-level support, limited (but sufficient enough
+to support deep instability) moisture, and dry fuels still in place
+over much of the area immediately east of the Cascades, an area of
+10% Dry Thunderstorm risk was introduced over much of the central
+and northeastern Pacific Northwest region on Day 5/Friday, which may
+linger through the night in some areas. This dry thunderstorm
+potential may reemerge on Day 6/Saturday, particularly across far
+northeastern WA, northern ID, and far western MT, but precipitation
+received on Day 5/Friday will preclude an additional area for now.
+
+..Stearns.. 08/17/2026
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+&lt;/pre&gt;
+&lt;a href="https://www.spc.noaa.gov/products/exper/fire_wx/"&gt;Read more&lt;/a&gt;</description>
+			<excerpt>SPC Day 3-8 Fire Weather Outlook Day 3-8 Fire Weather Outlook NWS Storm Prediction Center Norman OK 0500 PM CDT Mon Aug 17 2026 Valid 191200Z - 251200Z ...Synopsis... A ridge continues to slowly build over the Great Basin to start the extended forecast period. The pressure gradient will tighten on Day 4/Thursday as a trough approaches the west CONUS coast. A mid-level low pressure system will near the Pacific Northwest coast on Day 5/Friday as the upper-level jet max peaks over northern CA and southern OR. This will provide synoptic lift to portions of north-central OR and then much of central WA under the left exit region of the jet streak on the afternoon of Day 5/Friday. The trough will…</excerpt><pubDate>Mon, 17 Aug 2026 16:05:18 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065344</guid>
+		</item>
+		<item>
+			<title>Fairphone 6 and PostmarketOS working main camera</title>
+			<link>https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera</link>
+						<originalLink>https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49338285"&gt;Comments&lt;/a&gt;</description>
+			<excerpt>Fairphone 6 and PostmarketOS working main camera</excerpt><pubDate>Mon, 17 Aug 2026 16:01:17 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065343</guid>
+		</item>
+		<item>
+			<title>Cargill lockout in Fort Morgan ends after 88 days as union approves new five-year contract</title>
+			<link>https://www.denver7.com/news/eastern-plains/cargill-lockout-in-fort-morgan-ends-after-88-days-as-union-approves-new-five-year-contract</link>
+						<originalLink>https://www.denver7.com/news/eastern-plains/cargill-lockout-in-fort-morgan-ends-after-88-days-as-union-approves-new-five-year-contract</originalLink><dc:creator>Óscar Contreras</dc:creator>
+			<description>                                                                        &lt;p&gt;FORT MORGAN, Colo.  The union representing nearly 2,000 workers at a meatpacking plant in Fort Morgan said workers will soon be able to return to their jobs after members overwhelmingly approved a new contract Monday.&lt;/p&gt;&lt;p&gt;The announcement from Teamsters Local 455 marks the end of an 88-day lockout that began back in May 20, when the &lt;a href="https://www.forbes.com/lists/top-private-companies/"&gt;largest private company in the U.S.&lt;/a&gt; and one of the &lt;a href="https://www.reuters.com/business/how-four-big-companies-control-us-beef-industry-2021-06-17/"&gt;largest meat processors in the country&lt;/a&gt; locked out 1,700 of its workers, citing safety and operational impacts if employees suddenly decided to walk off the job after contract negotiations stalled in February.&lt;/p&gt; top-stories.mp4&lt;p&gt;&lt;a href="https://www.facebook.com/TeamstersLocal455/posts/pfbid02sZ8RfH3HqqpmdLhyZuJmqZvzZNRcfVyDV6vQqiyKG8PzNyuqSH4nqdH3Tirms9N4l"&gt;In a social media post&lt;/a&gt;, union representatives said they would be in touch with workers about the return-to-work process, which they said will happen in phases over the next 30 days. They said they expected Cargill to do the same.&lt;/p&gt;&lt;p&gt;When Denver7 &lt;a href="https://www.denver7.com/news/local-news/they-have-to-treat-us-better-than-that-cargill-meat-solutions-workers-rally-after-company-initiates-lock-out"&gt;spoke to union representatives back in May&lt;/a&gt;, a representative said their beef with Cargill centered around working conditions for employees, which they alleged included working in 90-degree rooms with high humidity and without appropriate breaks.&lt;/p&gt;&lt;p&gt;The representative also said contract negotiations also included asking for fair compensation that reflects the work being done, and more hours offered to staff.&lt;/p&gt;&lt;p&gt;At the time, a Cargill spokesperson told Denver7 they believed their proposal was fair and competitive.&lt;/p&gt;&lt;p&gt;As the lockout continued, Denver7 &lt;a href="https://www.denver7.com/news/local-news/cargill-lockout-forces-fort-morgan-leaders-to-prepare-for-generational-budget-hit-potential-layoffs"&gt;once again traveled to Fort Morgan&lt;/a&gt; to speak directly to city officials, who were preparing for the possibility of budget cuts as they considered excluding Cargills revenue from next years budget.&lt;/p&gt;&lt;p&gt;"We're basically preparing the 2027 budgets as though Cargill will not be open in 2027," Fort Morgan City Manager Brent Nation told Denver7, explaining Cargill is the citys largest electric and water user. "From our best estimates, it's about a decrease of about $15 million to our budget."&lt;/p&gt;&lt;p&gt;A failed vote on a new contract earlier this month &lt;a href="https://www.denver7.com/news/local-news/cargill-lockout-in-fort-morgan-reaches-77-days-as-workers-reject-tentative-agreement"&gt;kept Nation and the rest of city council on edge&lt;/a&gt; as the financial toll of the lockout was becoming more apparent.&lt;/p&gt;&lt;p&gt;But Mondays announcement is likely to ease some of those concerns.&lt;/p&gt;&lt;p&gt;While this contract is not perfect, it is a legally binding agreement that provides security for the more than 1,700 men and women who keep Cargill running, a union representative wrote on social media. Teamsters Local 455 will continue to be on the ground in Fort Morgan to build strength and solidarity at Cargill and to enforce the terms and conditions of the new agreement."&lt;/p&gt;&lt;p&gt;In a statement, a spokesperson for Cargill said they were pleased that workers voted to overwhelmingly approve the new labor agreement, saying they will work closely with the union on a safe and phased return to operations.&lt;/p&gt;&lt;p&gt;Following an extended pause, employees will receive the training and support needed to return safely, while teams ensure the facility is ready to resume production, the statement from Cargill reads. Employee safety, food safety and operational readiness will guide every step of the process. We look forward to welcoming employees back and moving forward together.&lt;/p&gt;&lt;p&gt;Specific details of the new contract were not immediately released. Denver7 is working to get those details.&lt;/p&gt;    </description>
+			<excerpt>FORT MORGAN, Colo. The union representing nearly 2,000 workers at a meatpacking plant in Fort Morgan said workers will soon be able to return to their jobs after members overwhelmingly approved a new contract Monday. The announcement from Teamsters Local 455 marks the end of an 88-day lockout that began back in May 20, when the largest private company in the U.S. and one of the largest meat processors in the country locked out 1,700 of its workers, citing safety and operational impacts if employees suddenly decided to walk off the job after contract negotiations stalled in February. top-stories.mp4 In a social media post, union representatives said they would be in touch with workers about…</excerpt><pubDate>Mon, 17 Aug 2026 15:56:00 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065342</guid>
+		</item>
+		<item>
+			<title>Mesa County Coroner rules fatal wrong-way I-70 crash an intentional act</title>
+			<link>https://www.denver7.com/news/local-news/mesa-county-coroner-rules-fatal-wrong-way-i-70-crash-an-intentional-act</link>
+						<originalLink>https://www.denver7.com/news/local-news/mesa-county-coroner-rules-fatal-wrong-way-i-70-crash-an-intentional-act</originalLink><dc:creator>Robert Garrison</dc:creator>
+			<description>                                                                        &lt;p&gt;DENVER  The Colorado State Patrol said Monday that investigators determined a wrong-way crash on Interstate 70 last month that killed one person and seriously injured six others was intentional.&lt;/p&gt;&lt;p&gt;According to the Mesa County Coroner, the 32-year-old Colorado Springs woman who died in the crash had a blood alcohol content of 0.235, nearly three times the legal limit.&lt;/p&gt;&lt;p&gt;The crash happened July 20 on westbound I-70 in Mesa County near the Utah state line when a Subaru Outback traveling the wrong way in the eastbound lanes collided head-on with a Ford F-150.&lt;/p&gt;&lt;p&gt;The Subaru's 32-year-old driver was killed. Her manner of death was ruled an intentional act.&lt;/p&gt;&lt;p&gt;The driver of the F-150, a 40-year-old Thornton man, and five passengers  including a 13-year-old and a 10-year-old girl  were transported to hospitals with serious injuries.&lt;/p&gt;&lt;p&gt;Their current conditions are not known.&lt;/p&gt;&lt;p&gt;The impact sent the Subaru down an embankment, where it rolled onto its side and caught fire.&lt;/p&gt;&lt;p&gt;The Colorado State Patrol's Vehicular Crimes Unit investigated the crash, which shut down the interstate for several hours.&lt;/p&gt;&lt;p&gt;Officials also encouraged anyone experiencing a mental health crisis to call or text 988, the Suicide &amp;amp; Crisis Lifeline, for support.&lt;/p&gt;    </description>
+			<excerpt>DENVER The Colorado State Patrol said Monday that investigators determined a wrong-way crash on Interstate 70 last month that killed one person and seriously injured six others was intentional. According to the Mesa County Coroner, the 32-year-old Colorado Springs woman who died in the crash had a blood alcohol content of 0.235, nearly three times the legal limit. The crash happened July 20 on westbound I-70 in Mesa County near the Utah state line when a Subaru Outback traveling the wrong way in the eastbound lanes collided head-on with a Ford F-150. The Subaru's 32-year-old driver was killed. Her manner of death was ruled an intentional act. The driver of the F-150, a 40-year-old Thornton…</excerpt><pubDate>Mon, 17 Aug 2026 15:43:09 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065341</guid>
+		</item>
+		<item>
+			<title>matcha or authentic chinese recommendations?</title>
+			<link>https://www.reddit.com/r/denverfood/comments/1vr5dqp/matcha_or_authentic_chinese_recommendations/</link>
+						<originalLink>https://www.reddit.com/r/denverfood/comments/1vr5dqp/matcha_or_authentic_chinese_recommendations/</originalLink><dc:creator>/u/lunaliax</dc:creator>
+			<category>r/denverfood</category>
+			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;Hi, I will be in town Wednesday, and I’m hoping to find a good matcha spot and some authentic chinese preferably sichuan cuisine or soup dumplings?? any of that there??? &lt;/p&gt; &lt;p&gt;Thanks! &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/lunaliax"&gt; /u/lunaliax &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/denverfood/"&gt; r/denverfood &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/denverfood/comments/1vr5dqp/matcha_or_authentic_chinese_recommendations/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/denverfood/comments/1vr5dqp/matcha_or_authentic_chinese_recommendations/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+			<excerpt>Hi, I will be in town Wednesday, and I’m hoping to find a good matcha spot and some authentic chinese preferably sichuan cuisine or soup dumplings?? any of that there??? Thanks!</excerpt><pubDate>Mon, 17 Aug 2026 15:25:13 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065340</guid>
+		</item>
+		<item>
+			<title>Any of you guys participating in this year's One Book, One Denver book reading?</title>
+			<link>https://www.reddit.com/r/Denver/comments/1vr5d55/any_of_you_guys_participating_in_this_years_one/</link>
+						<originalLink>https://i.redd.it/d1dtapj160kh1.jpeg</originalLink><dc:creator>/u/RCsSnaps</dc:creator>
+			<category>r/Denver</category>
+			<media:thumbnail url="https://preview.redd.it/d1dtapj160kh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09f197d3ce1221a7116212e313d3cc9cf5586aa8" />
+			<media:content url="https://preview.redd.it/d1dtapj160kh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09f197d3ce1221a7116212e313d3cc9cf5586aa8" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/Denver/comments/1vr5d55/any_of_you_guys_participating_in_this_years_one/"&gt; &lt;img src="https://preview.redd.it/d1dtapj160kh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=09f197d3ce1221a7116212e313d3cc9cf5586aa8" alt="Any of you guys participating in this year's One Book, One Denver book reading?" title="Any of you guys participating in this year's One Book, One Denver book reading?"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;div data-sanitized-class="md"&gt;&lt;p&gt;I just started!&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.denverlibrary.org/library-lineup/obod"&gt;One Book, One Denver&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/RCsSnaps"&gt; /u/RCsSnaps &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Denver/"&gt; r/Denver &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/d1dtapj160kh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Denver/comments/1vr5d55/any_of_you_guys_participating_in_this_years_one/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>I just started! One Book, One Denver</excerpt><pubDate>Mon, 17 Aug 2026 15:24:33 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065339</guid>
+		</item>
+		<item>
+			<title>Former SpaceX engineers are building a robotic factory for making steel parts</title>
+			<link>https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/</link>
+						<originalLink>https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/</originalLink><dc:creator>Jeremy Hsu</dc:creator>
+			<category>AI</category>
+			<category>1872</category>
+			<category>factory robots</category>
+			<category>Industrial robots</category>
+			<category>metalworking</category>
+			<category>robotic factory</category>
+			<category>robots</category>
+			<category>spacex</category>
+			<category>steel fabrication</category>
+			<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-1152x648.jpeg" medium="image" type="image/jpeg" height="648" width="1152"><media:credit>1872</media:credit></media:content>
+			<description>&lt;p&gt;Three former SpaceX engineers have switched their attention from making rocket engines to manufacturing steel parts by using AI-driven software and robots. Their immediate goal involves establishing a prototype factory that can automate most of the steel fabrication process for crucial infrastructure components by 2027.&lt;/p&gt;
+&lt;p&gt;The startup, &lt;a href="https://1872.ai/"&gt;called 1872&lt;/a&gt;, officially launched on July 22 with a ribbon-cutting ceremony at its Factory One facility in Cincinnati, Ohio. The company is initially focused on automating the manufacturing of steel skids—rectangular steel frames that can provide a moveable foundation for modular buildings—with the goal of supplying customers who are developing AI data centers or small modular nuclear reactors.&lt;/p&gt;
+&lt;p&gt;“We're building towards autonomy, but we're not necessarily building in a dogmatic fashion towards full autonomy,” Dan Summers, CEO of 1872, told Ars. “We may achieve 80 percent autonomous operations, and we may decide that it makes sense to stop there because there's just diminishing returns to go to full 100 percent.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/"&gt;Read full article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/#comments"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
+			<excerpt>Three former SpaceX engineers have switched their attention from making rocket engines to manufacturing steel parts by using AI-driven software and robots. Their immediate goal involves establishing a prototype factory that can automate most of the steel fabrication process for crucial infrastructure components by 2027. The startup, called 1872, officially launched on July 22 with a ribbon-cutting ceremony at its Factory One facility in Cincinnati, Ohio. The company is initially focused on automating the manufacturing of steel skids—rectangular steel frames that can provide a moveable foundation for modular buildings—with the goal of supplying customers who are developing AI data centers…</excerpt><pubDate>Mon, 17 Aug 2026 15:18:49 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065338</guid>
+		</item>
+		<item>
+			<title>Election denier Tina Peters gets alarming new elections job in deep red California county</title>
+			<link>https://www.reddit.com/r/Colorado/comments/1vr4yik/election_denier_tina_peters_gets_alarming_new/</link>
+						<originalLink>https://www.democracydocket.com/news-alerts/election-denier-tina-peters-gets-alarming-new-elections-job-in-deep-red-california-county/</originalLink><dc:creator>/u/SpritelyGardenSprite</dc:creator>
+			<category>r/Colorado</category>
+			<media:thumbnail url="https://external-preview.redd.it/DPlkxp87wzoR-jOIjtgSmTM8OUl4ORJzDUnRu4drTIk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7bf865b55ca70061f2df655ebb8ac37f30c53124" />
+			<media:content url="https://external-preview.redd.it/DPlkxp87wzoR-jOIjtgSmTM8OUl4ORJzDUnRu4drTIk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7bf865b55ca70061f2df655ebb8ac37f30c53124" medium="image" />
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/Colorado/comments/1vr4yik/election_denier_tina_peters_gets_alarming_new/"&gt; &lt;img src="https://external-preview.redd.it/DPlkxp87wzoR-jOIjtgSmTM8OUl4ORJzDUnRu4drTIk.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7bf865b55ca70061f2df655ebb8ac37f30c53124" alt="Election denier Tina Peters gets alarming new elections job in deep red California county" title="Election denier Tina Peters gets alarming new elections job in deep red California county"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt;   submitted by   &lt;a href="https://www.reddit.com/user/SpritelyGardenSprite"&gt; /u/SpritelyGardenSprite &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Colorado/"&gt; r/Colorado &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.democracydocket.com/news-alerts/election-denier-tina-peters-gets-alarming-new-elections-job-in-deep-red-california-county/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Colorado/comments/1vr4yik/election_denier_tina_peters_gets_alarming_new/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>Election denier Tina Peters gets alarming new elections job in deep red California county</excerpt><pubDate>Mon, 17 Aug 2026 15:09:02 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065337</guid>
+		</item>
+		<item>
+			<title>How do functions like alloca allocate memory from the stack?</title>
+			<link>https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</link>
+						<originalLink>https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49337630"&gt;Comments&lt;/a&gt;</description>
+			<excerpt>How do functions like alloca allocate memory from the stack?</excerpt><pubDate>Mon, 17 Aug 2026 15:06:10 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065336</guid>
+		</item>
+		<item>
+			<title>SPC Day 2 Fire Weather Outlook</title>
+			<link>https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</link>
+						<originalLink>https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</originalLink><description>SPC Day 2 Fire Weather Outlook
+          &lt;br&gt;&lt;a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"&gt;&lt;img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center"&gt;&lt;/a&gt;&lt;pre&gt;
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0232 PM CDT Mon Aug 17 2026
+
+Valid 181200Z - 191200Z
+
+The Elevated area over the southern Plains was expanded farther
+south in agreement with the lowest afternoon RHs and strongest
+winds. Areas to the north over the OK and far northern TX Panhandles
+will likely experience similar, if not slightly stronger
+southwesterly winds. However, fuel conditions are less dry with ERCs
+falling below the 80th percentile, precluding expansion any further
+north. Across the Pacific Northwest and neighboring areas, winds are
+expected to remain below elevated thresholds over southeastern OR
+necessitating removal of Elevated risk in that area. Further
+northwest, from central OR through central WA, the Elevated fire
+weather threat remains east of the Cascades. In particular, the
+strongest westerly winds through the Columbia Gorge will provide the
+greatest fire weather threat.
+
+..Stearns.. 08/17/2026
+
+.PREV DISCUSSION... /ISSUED 0142 AM CDT Mon Aug 17 2026/
+
+...Synopsis...
+Heights with the western ridge will rise again on D2/Tuesday, with
+warming temperatures and dry conditions across much of the Pacific
+Northwest. Along the northern periphery of the ridge, shortwave
+passage will bring breezy conditions to the areas east of the
+Cascades. Dry and breezy conditions will also be possible south of a
+frontal boundary near and the surface trough across western Oklahoma
+into the Texas Panhandle.
+
+...Portions of the Columbia Basin...
+West-northwesterly to southwesterly flow across the Cascades will
+increase wind speeds across the Cascade Gaps. West-northwesterly
+winds around 10-15 mph will in compass a broad area of the Columbia
+Basin, with stronger winds around 20-30 mph within the gaps. This
+will overlap with afternoon relative humidity reductions to around
+15-20 percent. Broadly Elevated fire weather conditions are expected
+in the lee of the Cascades, with locally Critical conditions
+possible within the Cascade Gaps. Given the localized nature of
+Critical fire weather conditions, an Elevated was maintained with
+this outlook.
+
+...Southern Plains...
+Drought conditions are prominent across much of the region from the
+Texas Panhandle into western/central Oklahoma with critically dry
+fuels. Breezy and dry conditions are expected near the surface
+trough in the Texas Panhandle into western Oklahoma. Profiles will
+be deeply mixed, with temperatures approaching the 100s F again on
+Tuesday. This will support afternoon relative humidity reductions to
+around 10-15% amid southwest winds around 15-20 mph. An Elevated
+area was maintained with this update but overnight rainfall across
+the northern Texas Panhandle into western Oklahoma may lead to a
+re-evaluation of fuels and reduction of the Elevated area in
+subsequent outlook updates.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+&lt;/pre&gt;
+&lt;a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"&gt;Read more&lt;/a&gt;</description>
+			<excerpt>SPC Day 2 Fire Weather Outlook Day 2 Fire Weather Outlook NWS Storm Prediction Center Norman OK 0232 PM CDT Mon Aug 17 2026 Valid 181200Z - 191200Z The Elevated area over the southern Plains was expanded farther south in agreement with the lowest afternoon RHs and strongest winds. Areas to the north over the OK and far northern TX Panhandles will likely experience similar, if not slightly stronger southwesterly winds. However, fuel conditions are less dry with ERCs falling below the 80th percentile, precluding expansion any further north. Across the Pacific Northwest and neighboring areas, winds are expected to remain below elevated thresholds over southeastern OR necessitating removal of…</excerpt><pubDate>Mon, 17 Aug 2026 13:33:20 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065335</guid>
+		</item>
+		<item>
+			<title>Intriguing Stories in Computer Science</title>
+			<link>https://inventwithpython.com/blog/intriguing-stories-in-cs.html</link>
+						<originalLink>https://inventwithpython.com/blog/intriguing-stories-in-cs.html</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49279146"&gt;Comments&lt;/a&gt;</description>
+			<excerpt>Intriguing Stories in Computer Science</excerpt><pubDate>Wed, 12 Aug 2026 15:56:40 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 17:05:02 -0600</firstSeen><guid isPermaLink="false">1787005990065334</guid>
+		</item>
+		<item>
 			<title>First controlled 10k!!!</title>
 			<link>https://www.reddit.com/r/beginnerrunning/comments/1vr5per/first_controlled_10k/</link>
 						<originalLink>https://i.redd.it/vld50cs880kh1.jpeg</originalLink><dc:creator>/u/Think_Vanilla_8240</dc:creator>
@@ -742,7 +1011,7 @@ subsequent outlook updates.
 										&lt;span&gt;Article&lt;/span&gt;
 									&lt;/span&gt;
 									&lt;span data-sanitized-class=""&gt;
-										4 hours ago									&lt;/span&gt;
+										5 hours ago									&lt;/span&gt;
 								&lt;/div&gt;
 							&lt;/div&gt;
 						&lt;/a&gt;
@@ -763,7 +1032,7 @@ subsequent outlook updates.
 										&lt;span&gt;Article&lt;/span&gt;
 									&lt;/span&gt;
 									&lt;span data-sanitized-class=""&gt;
-										18 hours ago									&lt;/span&gt;
+										19 hours ago									&lt;/span&gt;
 								&lt;/div&gt;
 							&lt;/div&gt;
 						&lt;/a&gt;
@@ -1550,8 +1819,8 @@ possible, albeit low (5-10% chance).
 			<category>r/Denver</category>
 			<media:thumbnail url="https://preview.redd.it/cdn12pf0yyjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c073da548613cde1eed99d2d0b618222f3f32794" />
 			<media:content url="https://preview.redd.it/cdn12pf0yyjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c073da548613cde1eed99d2d0b618222f3f32794" medium="image" />
-			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/Denver/comments/1vqygj9/note_i_found_on_my_car_at_fox_hollow_villages_new/"&gt; &lt;img src="https://preview.redd.it/cdn12pf0yyjh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c073da548613cde1eed99d2d0b618222f3f32794" alt="Note I found on my car at Fox Hollow Villages. New level of suburban entitlement." title="Note I found on my car at Fox Hollow Villages. New level of suburban entitlement."&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;div data-sanitized-class="md"&gt;&lt;p&gt;They also have (non-official) signs all over the place telling people not to park on their public city streets. FYI there were no other cars parked on the street as far as the eye could see and every McMansion had a two car garage and driveway. This is a new level of snobbery lol.&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Gold_Telephone_7192"&gt; /u/Gold_Telephone_7192 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Denver/"&gt; r/Denver &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/cdn12pf0yyjh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Denver/comments/1vqygj9/note_i_found_on_my_car_at_fox_hollow_villages_new/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-			<excerpt>They also have (non-official) signs all over the place telling people not to park on their public city streets. FYI there were no other cars parked on the street as far as the eye could see and every McMansion had a two car garage and driveway. This is a new level of snobbery lol.</excerpt><pubDate>Mon, 17 Aug 2026 11:17:46 -0600</pubDate>
+			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/Denver/comments/1vqygj9/note_i_found_on_my_car_at_fox_hollow_villages_new/"&gt; &lt;img src="https://preview.redd.it/cdn12pf0yyjh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c073da548613cde1eed99d2d0b618222f3f32794" alt="Note I found on my car at Fox Hollow Villages. New level of suburban entitlement." title="Note I found on my car at Fox Hollow Villages. New level of suburban entitlement."&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;div data-sanitized-class="md"&gt;&lt;p&gt;They also have (non-official) signs all over the place telling people not to park on their public city streets. FYI there were no other cars parked on the street as far as the eye could see and every McMansion had a two car garage and driveway. This is a new level of snobbery lol.&lt;/p&gt; &lt;p&gt;Edit: just due to how popular this post is getting and some of the comments, I want to say I don’t think anyone should go be a dick to this neighborhood. Park there if you want to access the trail but be respectful and don’t drive or park crazy. &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Gold_Telephone_7192"&gt; /u/Gold_Telephone_7192 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Denver/"&gt; r/Denver &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/cdn12pf0yyjh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Denver/comments/1vqygj9/note_i_found_on_my_car_at_fox_hollow_villages_new/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+			<excerpt>They also have (non-official) signs all over the place telling people not to park on their public city streets. FYI there were no other cars parked on the street as far as the eye could see and every McMansion had a two car garage and driveway. This is a new level of snobbery lol. Edit: just due to how popular this post is getting and some of the comments, I want to say I don’t think anyone should go be a dick to this neighborhood. Park there if you want to access the trail but be respectful and don’t drive or park crazy.</excerpt><pubDate>Mon, 17 Aug 2026 11:17:46 -0600</pubDate>
 			<firstSeen>Mon, 17 Aug 2026 12:05:02 -0600</firstSeen><guid isPermaLink="false">1786989781891315</guid>
 		</item>
 		<item>
@@ -1698,224 +1967,6 @@ possible, albeit low (5-10% chance).
 			<description>  submitted by   &lt;a href="https://www.reddit.com/user/abby1l1"&gt; /u/abby1l1 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/beginnerrunning/"&gt; r/beginnerrunning &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8zx9yxye3yjh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/beginnerrunning/comments/1vqtuxb/ok_cool/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
 			<excerpt>Ok, cool!</excerpt><pubDate>Mon, 17 Aug 2026 08:26:16 -0600</pubDate>
 			<firstSeen>Mon, 17 Aug 2026 12:05:02 -0600</firstSeen><guid isPermaLink="false">1786987981731253</guid>
-		</item>
-		<item>
-			<title>First half marathon</title>
-			<link>https://www.reddit.com/r/beginnerrunning/comments/1vqtlcb/first_half_marathon/</link>
-						<originalLink>https://www.reddit.com/r/beginnerrunning/comments/1vqtlcb/first_half_marathon/</originalLink><dc:creator>/u/Midnight-Fly7659</dc:creator>
-			<category>r/beginnerrunning</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I have my first half marathon on Sunday and I’m honestly not sure if I’m prepared 😭 Should I just switch to a shorter distance?&lt;/p&gt; &lt;p&gt;Three weeks ago, I did my last long run, which was 18K. Then two weeks ago I only ran 7K, and last week I only ran 7K as well. I don’t have any injuries or anything—I was just super busy because I literally just got married!&lt;/p&gt; &lt;p&gt;Do you think I’m still in shape to run the half? I feel like because I’ve barely run in the last two weeks, I’ve lost all my fitness 😭&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/Midnight-Fly7659"&gt; /u/Midnight-Fly7659 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/beginnerrunning/"&gt; r/beginnerrunning &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/beginnerrunning/comments/1vqtlcb/first_half_marathon/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/beginnerrunning/comments/1vqtlcb/first_half_marathon/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>I have my first half marathon on Sunday and I’m honestly not sure if I’m prepared 😭 Should I just switch to a shorter distance? Three weeks ago, I did my last long run, which was 18K. Then two weeks ago I only ran 7K, and last week I only ran 7K as well. I don’t have any injuries or anything—I was just super busy because I literally just got married! Do you think I’m still in shape to run the half? I feel like because I’ve barely run in the last two weeks, I’ve lost all my fitness 😭</excerpt><pubDate>Mon, 17 Aug 2026 08:16:21 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 12:05:02 -0600</firstSeen><guid isPermaLink="false">1786987981731252</guid>
-		</item>
-		<item>
-			<title>Miscellaneous Monday Chit Chat</title>
-			<link>https://www.reddit.com/r/running/comments/1vqs63f/miscellaneous_monday_chit_chat/</link>
-						<originalLink>https://www.reddit.com/r/running/comments/1vqs63f/miscellaneous_monday_chit_chat/</originalLink><dc:creator>/u/fire_foot</dc:creator>
-			<category>r/running</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;Howdy ho runners! &lt;/p&gt; &lt;p&gt;How was the weekend? What's good this week? Who else is counting down the days til fall when the humidity *might* break?? Let's chat about it! &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/fire_foot"&gt; /u/fire_foot &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/running/"&gt; r/running &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/running/comments/1vqs63f/miscellaneous_monday_chit_chat/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/running/comments/1vqs63f/miscellaneous_monday_chit_chat/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>Howdy ho runners! How was the weekend? What's good this week? Who else is counting down the days til fall when the humidity *might* break?? Let's chat about it!</excerpt><pubDate>Mon, 17 Aug 2026 07:20:05 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 12:05:02 -0600</firstSeen><guid isPermaLink="false">1786987981731251</guid>
-		</item>
-		<item>
-			<title>The Weekly Rundown for August 17, 2026</title>
-			<link>https://www.reddit.com/r/AdvancedRunning/comments/1vqco7l/the_weekly_rundown_for_august_17_2026/</link>
-						<originalLink>https://www.reddit.com/r/AdvancedRunning/comments/1vqco7l/the_weekly_rundown_for_august_17_2026/</originalLink><dc:creator>/u/AutoModerator</dc:creator>
-			<category>r/AdvancedRunning</category>
-			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;The Weekly Rundown is the place to talk about your previous week of running! Let's hear all about it!&lt;/p&gt; &lt;p&gt;Post your Strava activities (or whichever platform you use) if you'd like!&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/AutoModerator"&gt; /u/AutoModerator &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/AdvancedRunning/"&gt; r/AdvancedRunning &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/AdvancedRunning/comments/1vqco7l/the_weekly_rundown_for_august_17_2026/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/AdvancedRunning/comments/1vqco7l/the_weekly_rundown_for_august_17_2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
-			<excerpt>The Weekly Rundown is the place to talk about your previous week of running! Let's hear all about it! Post your Strava activities (or whichever platform you use) if you'd like!</excerpt><pubDate>Sun, 16 Aug 2026 18:00:15 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 12:05:02 -0600</firstSeen><guid isPermaLink="false">1786987981731250</guid>
-		</item>
-		<item>
-			<title>I'm modding GTA 5 every day until it becomes GTA 6 or breaks, starting with a new vehicle and enough missiles to level a city block</title>
-			<link>https://www.pcgamer.com/games/grand-theft-auto/im-modding-gta-5-every-day-until-it-becomes-gta-6-or-breaks-starting-with-a-new-vehicle-and-enough-missiles-to-level-a-city-block/</link>
-						<originalLink>https://www.pcgamer.com/games/grand-theft-auto/im-modding-gta-5-every-day-until-it-becomes-gta-6-or-breaks-starting-with-a-new-vehicle-and-enough-missiles-to-level-a-city-block/</originalLink><dc:creator>joshua.wolens@futurenet.com (Joshua Wolens)</dc:creator>
-			<category>Grand Theft Auto</category>
-			<category>Games</category>
-			<category>Action</category>
-			<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/oPwTMv7XTnPKAvb5frZ4g4-1280-80.jpg" />
-			<media:content url="https://cdn.mos.cms.futurecdn.net/oPwTMv7XTnPKAvb5frZ4g4-1280-80.jpg" medium="image" />
-			<description>&lt;article&gt;
-                                &lt;p&gt;Well, we've been hornswoggled again. They did it. They're &lt;em&gt;doing&lt;/em&gt; it. Rockstar is, as we speak, putting the finishing touches on Grand Theft Auto 6, the Final Videogame, but icing you and me out entirely. No Xbox or PlayStation? Enjoy pressing your nose against the glass of your console-owning neighbours as they find themselves delighted and transformed by the world's first $500,000,000,000,000 entertainment product.&lt;/p&gt;&lt;p&gt;I say: no. Not today, Sam (or maybe Dan) Houser. Every day, I am going to add a new mod to Grand Theft Auto 5, until it either becomes GTA 6 or collapses under its own terrible weight. If the mountain won't come to Muhammad, Muhammad will slowly alter a separate, but nearer mountain until it's indistinguishable from the one he wanted. &lt;/p&gt;&lt;p&gt;Today, day one, is mostly about learning. I have plenty of experience modding, but only really in games designed for it. I get the impression Rockstar would prefer no one change its babies, and so modding GTA 5 feels iffy and ramshackle: a process of gathering .asi files and hacky tools and crowbarring your way into the game's guts. Also, all the mods' instructions consist of a .txt file that says 'put mods'. Great. Excellent. Thank you.&lt;/p&gt;&lt;p&gt;It's a learning experience. So, to learn, and to start slow, I figured I would begin with something simple: a new vehicle. A fresh set of wheels to cruise the hot tarmac of Los Santos. It needed to be fast, stylish, fashionable, and stand out at least a little from the usual bric-a-brac of sedans and sports cars that litter Rockstar's fake-LA.&lt;/p&gt;&lt;p&gt;I settled on the &lt;a href="https://www.gta5-mods.com/vehicles/hq-16-sam-china"&gt;HQ-16&lt;/a&gt; (simplified Chinese: 红旗-16; traditional Chinese: 紅旗-16; pinyin: Hóng Qí-16; lit. 'Red Banner-16'; NATO reporting name: CH-SA-16) Chinese medium-range surface-to-air missile (SAM), developed by the Shanghai Academy of Spaceflight Technology*. &lt;/p&gt;&lt;figure data-bordeaux-image-check data-sanitized-class="van-image-figure  inline-layout"&gt;&lt;div data-sanitized-class="image-full-width-wrapper"&gt;&lt;div data-sanitized-class="image-widthsetter"&gt;&lt;p data-sanitized-class="vanilla-image-block"&gt;&lt;img alt="SAM truck in Los Santos." src="https://cdn.mos.cms.futurecdn.net/KTbL82mrGwTt9NkRraw4BJ.png" align="middle" width="2560" height="1440" data-sanitized-id="KTbL82mrGwTt9NkRraw4BJ" data-sanitized-class="inline"&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;figcaption data-sanitized-class=" inline-layout"&gt;&lt;span data-sanitized-class="caption-text"&gt;This screenshot was taken a little after the adventures described here, so please interpret that blue health bar as a &lt;em&gt;sneak preview&lt;/em&gt;. &lt;/span&gt;&lt;span data-sanitized-class="credit"&gt;(Image credit: Rockstar)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;I mostly did this because I wanted to familiarise myself with tools like &lt;a href="https://openiv.com/"&gt;OpenIV&lt;/a&gt; and make sure I could configure a mod &lt;em&gt;and&lt;/em&gt; a few dependencies without everything blowing up in my face. I partly did it because I wanted to expose the people of Beverly Hills to the full might of the China Aerospace Science and Technology Corporation and the military of Pakistan. They've been coddled for too long.&lt;/p&gt;&lt;p&gt;Even more partly, I did it because a mod that was meant to change Franklin into Chester Bennington from Linkin Park kept making the game crash.&lt;/p&gt;&lt;p&gt;It worked. Before long, Los Santos was engulfed in waves of Shanghai Academic fire. Celebrity homes? Gone. Celebrity cars? Gone. Cops? Immolated. Their helicopters? Destroying those is literally what this vehicle is for. I was a one-man army in the truck of a regular several-men army, and the cops could do nothing to stop me. At least, until one of them attempted to pull me from my car—placing them right next to the driver's door when one of my many missiles found its way home to the small of his back.&lt;/p&gt;&lt;figure data-bordeaux-image-check data-sanitized-class="van-image-figure  inline-layout"&gt;&lt;div data-sanitized-class="image-full-width-wrapper"&gt;&lt;div data-sanitized-class="image-widthsetter"&gt;&lt;p data-sanitized-class="vanilla-image-block"&gt;&lt;img alt="SAM truck gets hit by own rocket." src="https://cdn.mos.cms.futurecdn.net/Xi4Vo2XsR6sTK8aefFfCYN.gif" align="middle" width="540" height="303" data-sanitized-id="Xi4Vo2XsR6sTK8aefFfCYN" data-sanitized-class="inline"&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;figcaption data-sanitized-class=" inline-layout"&gt;&lt;span data-sanitized-class="caption-text"&gt;Artist's recreation. &lt;/span&gt;&lt;span data-sanitized-class="credit"&gt;(Image credit: Rockstar)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;I bet this never happened when the Shanghai Academy of Spaceflight Technology and China Aerospace Science and Technology Corporation were testing this thing.&lt;/p&gt;&lt;p&gt;But my lessons are complete. I can mod GTA 5 without destroying anything. Today, a destructive truck. Tomorrow? Something more. Tune in to find out what.&lt;/p&gt;&lt;p&gt;*Thank you Wikipedia.&lt;/p&gt;&lt;div&gt;                                &lt;div data-sanitized-class="kwizly-quiz kwizly-exV5JO"&gt;&lt;/div&gt;                            &lt;/div&gt;                            &lt;div data-sanitized-class="product star-deal"&gt;&lt;a data-dimension112="c429bfc2-97f5-11f1-a447-131ca8e6d566" data-action="Star Deal Block" data-label="GTA 6 guide" data-dimension48="GTA 6 guide"&gt;&lt;figure data-sanitized-class="van-image-figure "&gt;&lt;div data-sanitized-class="image-full-width-wrapper"&gt;&lt;div data-sanitized-class="image-widthsetter"&gt;&lt;p data-sanitized-class="vanilla-image-block"&gt;&lt;img alt="" src="https://cdn.mos.cms.futurecdn.net/ZF5ZJsyvbhJRVSDmd9H3jA.jpg" align="middle" width="1238" height="1238" data-sanitized-id="ZF5ZJsyvbhJRVSDmd9H3jA" data-sanitized-class=""&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt;&lt;/a&gt;&lt;div&gt;&lt;span data-sanitized-class="product__star-deal-label"&gt;Grand Theft Auto 6&lt;/span&gt;&lt;p&gt;&lt;a href="https://www.pcgamer.com/grand-theft-auto/gta-6-guide/" data-dimension112="c429bfc2-97f5-11f1-a447-131ca8e6d566" data-action="Star Deal Block" data-label="GTA 6 guide" data-dimension48="GTA 6 guide" data-dimension25=""&gt;&lt;strong&gt;GTA 6 guide&lt;/strong&gt;&lt;/a&gt;: Everything we know&lt;br&gt;&lt;strong&gt;&lt;/strong&gt;&lt;a href="https://www.pcgamer.com/gta-6-cars-list/"&gt;&lt;strong&gt;GTA 6 cars&lt;/strong&gt;&lt;/a&gt;: The garage lineup&lt;br&gt;&lt;strong&gt;&lt;/strong&gt;&lt;a href="https://www.pcgamer.com/games/action/grand-theft-auto/gta6-characters/"&gt;&lt;strong&gt;GTA 6 characters&lt;/strong&gt;&lt;/a&gt;: Your anti-hero cast&lt;br&gt;&lt;strong&gt;&lt;/strong&gt;&lt;a href="https://www.pcgamer.com/games/grand-theft-auto/gta6-map/"&gt;&lt;strong&gt;GTA 6 map&lt;/strong&gt;:&lt;/a&gt; Confirmed Vice City locales&lt;br&gt;&lt;a href="https://www.pcgamer.com/games/grand-theft-auto/gta-6-pc-release-date/"&gt;&lt;strong&gt;GTA 6 PC release&lt;/strong&gt;&lt;/a&gt;: When's it going to happen?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
-                                                            &lt;/article&gt;</description>
-			<excerpt>Well, we've been hornswoggled again. They did it. They're doing it. Rockstar is, as we speak, putting the finishing touches on Grand Theft Auto 6, the Final Videogame, but icing you and me out entirely. No Xbox or PlayStation? Enjoy pressing your nose against the glass of your console-owning neighbours as they find themselves delighted and transformed by the world's first $500,000,000,000,000 entertainment product. I say: no. Not today, Sam (or maybe Dan) Houser. Every day, I am going to add a new mod to Grand Theft Auto 5, until it either becomes GTA 6 or collapses under its own terrible weight. If the mountain won't come to Muhammad, Muhammad will slowly alter a separate, but nearer…</excerpt><pubDate>Mon, 17 Aug 2026 11:00:00 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444770</guid>
-		</item>
-		<item>
-			<title>Resident Evil Requiem's Angela Sant'Albano reportedly joins Tides of Annihilation, replacing Jennifer English as the new voice of its protagonist</title>
-			<link>https://www.pcgamer.com/games/action/resident-evil-requiems-angela-santalbano-reportedly-joins-tides-of-annihilation-replacing-jennifer-english-as-the-new-voice-of-its-protagonist/</link>
-						<originalLink>https://www.pcgamer.com/games/action/resident-evil-requiems-angela-santalbano-reportedly-joins-tides-of-annihilation-replacing-jennifer-english-as-the-new-voice-of-its-protagonist/</originalLink><category>Action</category>
-			<category>Games</category>
-			<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/N9ci7TJ3rSu3sJxiz9tf2D-1280-80.jpg" />
-			<media:content url="https://cdn.mos.cms.futurecdn.net/N9ci7TJ3rSu3sJxiz9tf2D-1280-80.jpg" medium="image" />
-			<description>&lt;article&gt;
-                                &lt;p&gt;Last month we got word that Jennifer English, star of Baldur's Gate 3 and Clair Obscur: Expedition 33, would be &lt;a href="https://www.pcgamer.com/games/jennifer-english-star-of-baldurs-gate-3-and-clair-obscur-expedition-33-leaves-tides-of-annihilation-lead-role/"&gt;stepping down from her lead role&lt;/a&gt; in the upcoming Tides of Annihilation. Now, fans think they've figured out who her replacement is: Angela Sant'Albano, known for playing Grace Ashcroft in &lt;a href="https://www.pcgamer.com/uk/resident-evil-requiem/"&gt;Resident Evil Requiem&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;This is mostly thanks to a demo shown at an event in Shanghai, as fans claimed the protagonist had a redesigned appearance and sound, one that resembled Sant'Albano. "So Grace Ashcroft is the new voice  of Gwendolyn," one &lt;a href="https://www.youtube.com/watch?v=Ae7SagEfDtc"&gt;fan says&lt;/a&gt;. "Honestly, I'm impressed." &lt;/p&gt;&lt;figure data-bordeaux-image-check data-sanitized-class="van-image-figure  inline-layout"&gt;&lt;div data-sanitized-class="image-full-width-wrapper"&gt;&lt;div data-sanitized-class="image-widthsetter"&gt;&lt;p data-sanitized-class="vanilla-image-block"&gt;&lt;img alt="Tides of Annihilation screenshot - huge dude with a huge axe on a huge horse" src="https://cdn.mos.cms.futurecdn.net/h88HktayFGroL7fLQLmrPP.jpg" align="middle" width="3801" height="2110" data-sanitized-id="h88HktayFGroL7fLQLmrPP" data-sanitized-class="inline"&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;figcaption data-sanitized-class=" inline-layout"&gt;&lt;span data-sanitized-class="credit"&gt;(Image credit: Eclipse Glow Games)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;While there's been no official confirmation from either Sant'Albano or Tides of Annihilation studio Eclipse Glow Games, players do have more to go off of than just this demo. In fact, Gwendolyn's mocap actor Jennifer Prime seemingly confirmed it via &lt;a href="https://x.com/PremiumHeart88/status/2089106758958830033"&gt;social media&lt;/a&gt; (via &lt;a href="https://www.gamesradar.com/games/rpg/tides-of-annihilation-seemingly-casts-resident-evil-requiems-grace-actor-as-its-new-lead-after-baldurs-gate-3-and-clair-obscur-expedition-33-star-jennifer-english-left-the-role/"&gt;GamesRadar&lt;/a&gt;), replying "Yep!!! But this time, no more screaming 'Leon!!!!'" to a fan who claimed that "Grace Ashcroft is her new VA". &lt;/p&gt;&lt;p&gt;Prime may have gotten her Resident Evil characters slightly confused, as another fan pointed out that yelling "Leon" is more of an Ashley Graham gig, to which Prime responded, "Yeah, I'm slowly getting through the RE games". I'd like to note, however, that Grace also yells "Leon" quite a few times during Requiem, so she's not exactly wrong. Nitpicking aside, this seems like a pretty reliable report that Sant'Albano as the new protagonist of Tides of Annihilation. &lt;/p&gt;&lt;p&gt;But regardless of who'll take over the mantle of Gwendolyn, &lt;a href="https://x.com/play_toa/status/2078311862169686026"&gt;Eclipse Glow Games seems confident&lt;/a&gt; it'll work out, mostly thanks to English sticking around to help out with the recruitment process: "During this transition, Jennifer remained incredibly supportive and, together with other members of our voice cast, helped us identify and connect with talented performers who could carry Gwendolyn forward while staying true to the character." &lt;/p&gt;&lt;p&gt;The studio also shared that the newfound replacement "left a strong impression on both Jennifer and our team" with her "recent work in videogames". Could this be a nod to Sant'Albano's acclaimed role in Resident Evil Requiem? With all things considered it'd be a good bet. &lt;/p&gt;&lt;div&gt;                                &lt;div data-sanitized-class="kwizly-quiz kwizly-WQw9nX"&gt;&lt;/div&gt;                            &lt;/div&gt;                            &lt;div data-sanitized-class="product"&gt;&lt;a data-dimension112="3d8028ea-9a5b-11f1-bf35-4debf2ac7a7b" data-action="Deal Block" data-label="2026 games" data-dimension48="2026 games"&gt;&lt;figure data-sanitized-class="van-image-figure "&gt;&lt;div data-sanitized-class="image-full-width-wrapper"&gt;&lt;div data-sanitized-class="image-widthsetter"&gt;&lt;p data-sanitized-class="vanilla-image-block"&gt;&lt;img alt="" src="https://cdn.mos.cms.futurecdn.net/6offQUY4CXebir2TC27dMd.jpg" align="middle" width="661" height="654" data-sanitized-id="6offQUY4CXebir2TC27dMd" data-sanitized-class=""&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt;&lt;/a&gt;&lt;p&gt;&lt;a href="https://www.pcgamer.com/games/new-pc-games-2026/" data-dimension112="3d8028ea-9a5b-11f1-bf35-4debf2ac7a7b" data-action="Deal Block" data-label="2026 games" data-dimension48="2026 games" data-dimension25=""&gt;&lt;strong&gt;2026 games&lt;/strong&gt;&lt;/a&gt;: All the upcoming games&lt;br&gt;&lt;a href="https://www.pcgamer.com/the-best-pc-games/"&gt;&lt;strong&gt;Best PC games&lt;/strong&gt;&lt;/a&gt;: Our all-time favorites&lt;br&gt;&lt;a href="https://www.pcgamer.com/the-50-best-free-pc-games/"&gt;&lt;strong&gt;Free PC games&lt;/strong&gt;&lt;/a&gt;: Freebie fest&lt;br&gt;&lt;a href="https://www.pcgamer.com/best-fps-games/"&gt;&lt;strong&gt;Best FPS games&lt;/strong&gt;&lt;/a&gt;: Finest gunplay&lt;br&gt;&lt;a href="https://www.pcgamer.com/best-rpgs-of-all-time/"&gt;&lt;strong&gt;Best RPGs&lt;/strong&gt;&lt;/a&gt;: Grand adventures&lt;br&gt;&lt;a href="https://www.pcgamer.com/the-best-co-op-games/"&gt;&lt;strong&gt;Best co-op games&lt;/strong&gt;&lt;/a&gt;: Better together&lt;/p&gt;&lt;/div&gt;
-                                                            &lt;/article&gt;</description>
-			<excerpt>Last month we got word that Jennifer English, star of Baldur's Gate 3 and Clair Obscur: Expedition 33, would be stepping down from her lead role in the upcoming Tides of Annihilation. Now, fans think they've figured out who her replacement is: Angela Sant'Albano, known for playing Grace Ashcroft in Resident Evil Requiem. This is mostly thanks to a demo shown at an event in Shanghai, as fans claimed the protagonist had a redesigned appearance and sound, one that resembled Sant'Albano. "So Grace Ashcroft is the new voice of Gwendolyn," one fan says. "Honestly, I'm impressed." (Image credit: Eclipse Glow Games) While there's been no official confirmation from either Sant'Albano or Tides of…</excerpt><pubDate>Mon, 17 Aug 2026 10:52:11 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444769</guid>
-		</item>
-		<item>
-			<title>World of Warcraft Reward from McDonalds x Xbox Promotion According to IGN</title>
-			<link>https://www.wowhead.com/news=382482/world-of-warcraft-reward-from-mcdonalds-x-xbox-promotion-according-to-ign</link>
-						<originalLink>https://www.wowhead.com/news=382482/world-of-warcraft-reward-from-mcdonalds-x-xbox-promotion-according-to-ign</originalLink><category>Live</category>
-			<media:content url="https://wow.zamimg.com/uploads/blog/images/54828-world-of-warcraft-reward-from-mcdonalds-x-xbox-promotion-according-to-ign.png" medium="image" type="image/jpeg" height="697" width="1300" />
-			<description>According to IGN, players will be able to get a World of Warcraft in-game reward from a McDonalds promotion with Xbox soon!&lt;p&gt;Xbox x McDonalds Article by IGN&lt;/p&gt;&lt;p&gt;IGN reported earlier this morning that McDonalds is partnering with Xbox to provide in-game rewards for some of their popular games, including Halo, Fallout, and of course World of Warcraft. IGN reports that the reward for World of Warcraft is the Red Hot Portable Bakery. &lt;/p&gt;&lt;p&gt;As of right now, the method of obtaining this from McDonalds has not been announced.&lt;/p&gt;</description>
-			<excerpt>According to IGN, players will be able to get a World of Warcraft in-game reward from a McDonalds promotion with Xbox soon! Xbox x McDonalds Article by IGN IGN reported earlier this morning that McDonalds is partnering with Xbox to provide in-game rewards for some of their popular games, including Halo, Fallout, and of course World of Warcraft. IGN reports that the reward for World of Warcraft is the Red Hot Portable Bakery. As of right now, the method of obtaining this from McDonalds has not been announced.</excerpt><pubDate>Mon, 17 Aug 2026 10:50:10 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444768</guid>
-		</item>
-		<item>
-			<title>Buy Your Friends Batteries</title>
-			<link>https://domenkozar.com/2026/08/17/buy-your-friends-batteries/</link>
-						<originalLink>https://domenkozar.com/2026/08/17/buy-your-friends-batteries/</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49333932"&gt;Comments&lt;/a&gt;</description>
-			<excerpt>Buy Your Friends Batteries</excerpt><pubDate>Mon, 17 Aug 2026 10:45:11 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444767</guid>
-		</item>
-		<item>
-			<title>Headbanger Boogie - Tical</title>
-			<link>https://www.reddit.com/r/COents/comments/1vqxelk/headbanger_boogie_tical/</link>
-						<originalLink>https://www.reddit.com/gallery/1vqxelk</originalLink><dc:creator>/u/frozen_teddy</dc:creator>
-			<category>r/COents</category>
-			<media:thumbnail url="https://preview.redd.it/uph7il9lryjh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=55eb5ccf4b21664f438ff464090e4ed9a5112562" />
-			<media:content url="https://preview.redd.it/uph7il9lryjh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=55eb5ccf4b21664f438ff464090e4ed9a5112562" medium="image" />
-			<description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/COents/comments/1vqxelk/headbanger_boogie_tical/"&gt; &lt;img src="https://preview.redd.it/uph7il9lryjh1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=55eb5ccf4b21664f438ff464090e4ed9a5112562" alt="Headbanger Boogie - Tical" title="Headbanger Boogie - Tical"&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;div data-sanitized-class="md"&gt;&lt;p&gt;Going to start doing some flower reviews for some Colorado brands. Here’s the first one of hopefully many more. &lt;/p&gt; &lt;p&gt;Headbanger Boogie from Tical (purchased at Natures Herb in Garden City)&lt;/p&gt; &lt;p&gt;Genetics - OG Kush x Sour Diesel (according to Tical website)&lt;/p&gt; &lt;p&gt;Jar smells - Subtle kush. Nothing standout. &lt;/p&gt; &lt;p&gt;Ground smells - Terpinolene + Basement Funk&lt;/p&gt; &lt;p&gt;Taste - Sweeter terpinolene terps, almost berry like. Earthy kush on the exhale. &lt;/p&gt; &lt;p&gt;Effect - Motivational. Productive. Racey. Head pressure. &lt;/p&gt; &lt;p&gt;Rating - One &amp;amp; done.&lt;br&gt; Nice smoke honestly but lacks the standout terp profile that I look for in my sativas personally. I feel like most Sour Diesel crosses in CO are naturally a let down in the taste department. &lt;/p&gt; &lt;p&gt;Rating system will be one of the following - Disappointed (not worth the money and wouldn’t recommend purchasing), One &amp;amp; done (wouldn’t purchase again but worth trying out), Repeat Eighth (would purchase again), or Quarter Please (well worth the money, would consider having it in my rotation of flower) &lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/frozen_teddy"&gt; /u/frozen_teddy &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1vqxelk"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/COents/comments/1vqxelk/headbanger_boogie_tical/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
-			<excerpt>Going to start doing some flower reviews for some Colorado brands. Here’s the first one of hopefully many more. Headbanger Boogie from Tical (purchased at Natures Herb in Garden City) Genetics - OG Kush x Sour Diesel (according to Tical website) Jar smells - Subtle kush. Nothing standout. Ground smells - Terpinolene + Basement Funk Taste - Sweeter terpinolene terps, almost berry like. Earthy kush on the exhale. Effect - Motivational. Productive. Racey. Head pressure. Rating - One &amp; done. Nice smoke honestly but lacks the standout terp profile that I look for in my sativas personally. I feel like most Sour Diesel crosses in CO are naturally a let down in the taste department. Rating system…</excerpt><pubDate>Mon, 17 Aug 2026 10:41:46 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444766</guid>
-		</item>
-		<item>
-			<title>Beastfolk Barber is an adorable hairdressing sim that offers up more than just shop talk</title>
-			<link>https://www.pcgamer.com/games/sim/beastfolk-barber-is-an-adorable-hairdressing-sim-that-offers-up-more-than-just-shop-talk/</link>
-						<originalLink>https://www.pcgamer.com/games/sim/beastfolk-barber-is-an-adorable-hairdressing-sim-that-offers-up-more-than-just-shop-talk/</originalLink><category>Sim</category>
-			<category>Games</category>
-			<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/WuERBKdW24bmcKq68qZeE5-1280-80.jpg" />
-			<media:content url="https://cdn.mos.cms.futurecdn.net/WuERBKdW24bmcKq68qZeE5-1280-80.jpg" medium="image" />
-			<description>&lt;article&gt;
-                                &lt;p&gt;Of all the other professions I never quite saw myself as a hairdresser, I'm simply not creative enough and my small talk leaves a lot to be desired. But I was still willing to give it a go (within the safe confines of a game) because &lt;a href="https://store.steampowered.com/app/4093320/Beastfolk_Barber/"&gt;Beastfolk Barber&lt;/a&gt; just looked too cute to pass up on. &lt;/p&gt;&lt;p&gt;The premise is simple: you play as Freddie, the owner of a small hair salon in Starfish City, where beastfolk now outnumber humans. So to keep up with the changing clientele Freddie rebrands her shop for beastfolk and snags herself a magical mirror in hopes to beat out the competition who have more money and employees at their disposal.&lt;/p&gt;&lt;figure data-bordeaux-image-check data-sanitized-class="van-image-figure  inline-layout"&gt;&lt;div data-sanitized-class="image-full-width-wrapper"&gt;&lt;div data-sanitized-class="image-widthsetter"&gt;&lt;p data-sanitized-class="vanilla-image-block"&gt;&lt;img alt="Beastfolk Barber screenshots" src="https://cdn.mos.cms.futurecdn.net/8U8aYp4f3jRwix4TMLoty4.jpg" align="middle" width="1920" height="1080" data-sanitized-id="8U8aYp4f3jRwix4TMLoty4" data-sanitized-class="inline"&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;figcaption data-sanitized-class=" inline-layout"&gt;&lt;span data-sanitized-class="credit"&gt;(Image credit: SIGONO INC. )&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Any time a client sits down ready to get their haircut you can use the mirror to show them up to three hairstyles they might like. This way they can get a feel for a hairdo before any hair is chopped off. But the catch is that they won't always tell you out right which one they prefer. &lt;/p&gt;&lt;p&gt;It's up to you to keep track of the options you present them with and their reactions to them and come to a decision of which one is best for them all on your own. You are a professional hairdresser after all. &lt;/p&gt;&lt;p&gt;Luckily, it's not too hard to suss people out, I managed to please every customer who walked through my doors, except for the owl. But he was really grumpy to begin with, and looking back on our interaction I think he may have been a really shady criminal. You see Beastfolk Barber has more going on than just cutting people's hair with little minigames, there's actually more to these beastfolk than just looks. &lt;/p&gt;&lt;figure role="gallery"&gt;&lt;figure&gt;&lt;img src="https://cdn.mos.cms.futurecdn.net/uHkXu7o6VJUMRko3Vi6m45.jpg" alt="Beastfolk Barber screenshots"&gt;&lt;figcaption&gt;&lt;small role="credit"&gt;SIGONO INC. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src="https://cdn.mos.cms.futurecdn.net/55PxFPADwKGeUjgXvmQdt4.jpg" alt="Beastfolk Barber screenshots"&gt;&lt;figcaption&gt;&lt;small role="credit"&gt;SIGONO INC. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src="https://cdn.mos.cms.futurecdn.net/u9EeiS8c8jLLzbGFzNpqF5.jpg" alt="Beastfolk Barber screenshots"&gt;&lt;figcaption&gt;&lt;small role="credit"&gt;SIGONO INC. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/figure&gt;&lt;p&gt;Everyone who sits in your chair has something going on in their personal life and they really want to talk to you about it. Whether it be chasing the guy of their dreams, getting ready for a tough family reunion, or trying to push legislation through the senate to try and adjust age limits for various beastfolk. &lt;/p&gt;&lt;p&gt;It was the two headed dragon, Luca and Varo, who brought this issue to my attention. Apparently every beastfolk has to go by human rules and regulations. For example, bees don't live long enough to access their government pension (which is 65 in this world; we should all be so lucky) and mice have to wait over half their lifespan for a chance to vote. But Luca and Varo are trying to change this, and apparently needed the help of a good haircut to get their confidence up to do so. &lt;/p&gt;&lt;p&gt;On top of all the civil unrest and shady business Freddie also has to deal with a demonic presence called Edi who's also in need of a haircut. But being a demon, their request is not exactly straight forward. First off, they won't pay in cash, instead opting to grant you one re-do, magically erasing or changing whatever thing you wish for. Secondly, in order to get a chance to cut your hair you need to prove your skill by acquiring 10 regulars. &lt;/p&gt;&lt;p&gt;Sadly, the demo ended before I could make any real headway with the task, but I think I did a good enough job for at least three clients to return to my salon. I guess the proof will be in the pudding once the full game releases in the future, hopefully we won't have to wait too long. &lt;/p&gt;&lt;div&gt;                                &lt;div data-sanitized-class="kwizly-quiz kwizly-WQw9nX"&gt;&lt;/div&gt;                            &lt;/div&gt;                            &lt;div data-sanitized-class="product"&gt;&lt;a data-dimension112="2ea7607a-9a58-11f1-96d5-cd05986b0f85" data-action="Deal Block" data-label="Steam sale dates" data-dimension48="Steam sale dates"&gt;&lt;figure data-sanitized-class="van-image-figure "&gt;&lt;div data-sanitized-class="image-full-width-wrapper"&gt;&lt;div data-sanitized-class="image-widthsetter"&gt;&lt;p data-sanitized-class="vanilla-image-block"&gt;&lt;img alt="" src="https://cdn.mos.cms.futurecdn.net/dmLfcTEceHMYUpsciYxiDT.jpg" align="middle" width="550" height="550" data-sanitized-id="dmLfcTEceHMYUpsciYxiDT" data-sanitized-class=""&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/figure&gt;&lt;/a&gt;&lt;p&gt;&lt;a href="https://www.pcgamer.com/steam-sale-dates/" data-dimension112="2ea7607a-9a58-11f1-96d5-cd05986b0f85" data-action="Deal Block" data-label="Steam sale dates" data-dimension48="Steam sale dates" data-dimension25=""&gt;&lt;strong&gt;Steam sale dates&lt;/strong&gt;&lt;/a&gt;: When's the next event?&lt;br&gt;&lt;a href="https://www.pcgamer.com/epic-games-store-free-games-list/"&gt;&lt;strong&gt;Epic Store free games&lt;/strong&gt;&lt;/a&gt;: What's free right now?&lt;br&gt;&lt;a href="https://www.pcgamer.com/the-50-best-free-pc-games/"&gt;&lt;strong&gt;Free PC games&lt;/strong&gt;&lt;/a&gt;: The best freebies you can grab&lt;br&gt;&lt;a href="https://www.pcgamer.com/games/new-pc-games-2026/"&gt;&lt;strong&gt;2026 games&lt;/strong&gt;&lt;/a&gt;: This year's upcoming releases&lt;br&gt;&lt;a href="https://www.pcgamer.com/the-best-free-games-on-steam/"&gt;&lt;strong&gt;Free Steam games&lt;/strong&gt;&lt;/a&gt;: No purchase necessary&lt;/p&gt;&lt;/div&gt;
-                                                            &lt;/article&gt;</description>
-			<excerpt>Of all the other professions I never quite saw myself as a hairdresser, I'm simply not creative enough and my small talk leaves a lot to be desired. But I was still willing to give it a go (within the safe confines of a game) because Beastfolk Barber just looked too cute to pass up on. The premise is simple: you play as Freddie, the owner of a small hair salon in Starfish City, where beastfolk now outnumber humans. So to keep up with the changing clientele Freddie rebrands her shop for beastfolk and snags herself a magical mirror in hopes to beat out the competition who have more money and employees at their disposal. (Image credit: SIGONO INC. ) Any time a client sits down ready to get…</excerpt><pubDate>Mon, 17 Aug 2026 10:37:59 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444765</guid>
-		</item>
-		<item>
-			<title>GitHub Has an Availability Problem. Is It Time to Look Elsewhere?</title>
-			<link>https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/</link>
-						<originalLink>https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49333728"&gt;Comments&lt;/a&gt;</description>
-			<excerpt>GitHub Has an Availability Problem. Is It Time to Look Elsewhere?</excerpt><pubDate>Mon, 17 Aug 2026 10:31:17 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444764</guid>
-		</item>
-		<item>
-			<title>Intel is keeping Raptor Lake CPUs around for 'years to come' as a cheaper alternative to DDR5-compatible chips</title>
-			<link>https://www.pcgamer.com/hardware/processors/intel-is-keeping-raptor-lake-cpus-around-for-years-to-come-as-a-cheaper-alternative-to-ddr5-compatible-chips/</link>
-						<originalLink>https://www.pcgamer.com/hardware/processors/intel-is-keeping-raptor-lake-cpus-around-for-years-to-come-as-a-cheaper-alternative-to-ddr5-compatible-chips/</originalLink><category>Processors</category>
-			<category>Hardware</category>
-			<media:thumbnail url="https://cdn.mos.cms.futurecdn.net/VnU3rqZ7rCM8hEswZ9fcv9-1280-80.jpg" />
-			<media:content url="https://cdn.mos.cms.futurecdn.net/VnU3rqZ7rCM8hEswZ9fcv9-1280-80.jpg" medium="image" />
-			<description>&lt;article&gt;
-                                &lt;p&gt;If you're running a Raptor Lake-chipped system, congratulations—it seems you're ahead of the curve. &lt;a href="https://www.tomshardware.com/pc-components/cpus/raptor-lake-is-a-core-part-of-the-portfolio-for-years-to-come-says-intel-theres-been-a-sudden-inrush-of-demand-for-lga-1700-chips-due-to-ddr5-prices"&gt;Speaking to Tom's Hardware&lt;/a&gt;, Intel's vice president and general manager of its enthusiast channel business, Robert Hallock, says that far from putting the 10 nm chips out to pasture, Intel is doubling-down:&lt;/p&gt;&lt;p&gt;"Going forward, 10 nm products like Raptor Lake; that is a core part of the portfolio that I want to offer to people for years to come,"  said the Intel chief.  &lt;/p&gt;&lt;p&gt;"LGA 1700 is still a good socket. Lots of people [are] still interested in DDR4, so [we’ll] keep offering, and you'll see [pricing] smooth out over time. It'll come back to normal. That's the plan."&lt;/p&gt;&lt;div&gt;                                &lt;div data-sanitized-class="kwizly-quiz kwizly-XkwrzX"&gt;&lt;/div&gt;                            &lt;/div&gt;                            &lt;p&gt;And it's not difficult to imagine why. While both DDR5 and DDR4 prices have &lt;a href="https://www.pcgamer.com/hardware/memory/this-is-the-first-time-where-im-seeing-no-light-at-the-end-of-the-tunnel-how-the-memory-crisis-is-hitting-pc-builders/"&gt;shot to the moon&lt;/a&gt; over the past year, it's still possible to pick up &lt;a href="https://www.amazon.com/TEAMGROUP-3200MHz-PC4-25600-Unbuffered-Computer/dp/B086X2KM1V"&gt;a good 32 GB DDR4 kit for around $200&lt;/a&gt;. Not to mention those who want to upgrade their machine while hanging on to their old DDR4 sticks, or pick up a still-very-capable prebuilt PC for less. &lt;/p&gt;&lt;p&gt;If pricing and supply can be stabilised, Raptor Lake CPUs may end up being a compelling option once more. They have a tendency to run hot, but in terms of gaming and productivity performance, many would make for great CPUs in a high-performance rig in 2026. And you can still get hold of the odd &lt;a href="https://www.newegg.com/p/pl?d=LGA+1700+DDR4"&gt;DDR4-supporting mobo&lt;/a&gt; for semi-reasonable money, too.&lt;/p&gt;&lt;figure data-bordeaux-image-check data-sanitized-class="van-image-figure  inline-layout"&gt;&lt;div data-sanitized-class="image-full-width-wrapper"&gt;&lt;div data-sanitized-class="image-widthsetter"&gt;&lt;p data-sanitized-class="vanilla-image-block"&gt;&lt;img alt="Intel Core i5 13400F CPU in a motherboard socket" src="https://cdn.mos.cms.futurecdn.net/DKrBF5SxfH9BXhHNvdaYi9.jpg" align="middle" width="1920" height="1080" data-sanitized-id="DKrBF5SxfH9BXhHNvdaYi9" data-sanitized-class="inline"&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;figcaption data-sanitized-class=" inline-layout"&gt;&lt;span data-sanitized-class="credit"&gt;(Image credit: Future)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Despite all this, the second life of these products seems to have caught Intel somewhat by surprise. "If people are going to go to more affordable hardware, they still want the fastest available for their money, and that happened to be Alder Lake and Raptor Lake," said Hallock.&lt;/p&gt;&lt;p&gt;"So there was a sudden inrush of demand into these parts—certainly not anticipated when you start your wafers, and your builds, long before that moment ever happens. So it's very hard to predict."&lt;/p&gt;&lt;p&gt;Still, if consumers want older hardware for more reasonable prices, it makes sense that Intel is capitalising on the demand. Rumbles around a "&lt;a href="https://www.tomshardware.com/pc-components/cpus/intels-upcoming-raptor-lake-next-will-reportedly-top-out-at-20-cores-and-retain-core-200-branding-lineup-may-include-a-special-10-core-sku-with-24mb-of-l3-cache"&gt;Raptor Lake Next&lt;/a&gt;" 2027 refresh continue apace, and there's also talk of increased chip supply &lt;a href="https://www.pcgamer.com/hardware/processors/rumours-suggest-intel-may-be-planning-to-join-the-club-of-hardware-manufacturers-reviving-old-product-lines-all-the-way-back-to-comet-lake/"&gt;going all the way back to 2020's Comet Lake&lt;/a&gt;. AMD, meanwhile, has &lt;a href="https://www.pcgamer.com/hardware/processors/return-of-the-king-amd-is-bringing-back-the-ryzen-7-5800x3d-for-ddr4-platforms-launching-it-alongside-the-mid-range-am5-ryzen-7-7700x3d/"&gt;brought back the Ryzen 7 5800X3D&lt;/a&gt;, an AM4 chip with DDR4 support.&lt;/p&gt;&lt;figure data-bordeaux-image-check data-sanitized-class="van-image-figure  inline-layout"&gt;&lt;div data-sanitized-class="image-full-width-wrapper"&gt;&lt;div data-sanitized-class="image-widthsetter"&gt;&lt;p data-sanitized-class="vanilla-image-block"&gt;&lt;img alt="AMD Ryzen 7 5800X3D processor" src="https://cdn.mos.cms.futurecdn.net/94RkNNoBUmy3PmPVpQQR2d.jpg" align="middle" width="1920" height="1080" data-sanitized-id="94RkNNoBUmy3PmPVpQQR2d" data-sanitized-class="inline"&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;figcaption data-sanitized-class=" inline-layout"&gt;&lt;span data-sanitized-class="credit"&gt;(Image credit: Future)&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;It seems like we're experiencing a resurgence of older CPU and memory hardware, as buyers look towards cheaper silicon that can still deliver excellent performance in 2026. Which is definitely a sign of a healthy consumer market, and not that we're making the best of a very bad situation. What's next, &lt;a href="https://www.pcgamer.com/hardware/graphics-cards/new-production-runs-of-nvidias-much-loved-rtx-3060-finally-hit-the-shelves-in-europe-but-the-price-just-aint-right/"&gt;new production runs of the RTX 3060&lt;/a&gt;?&lt;/p&gt;&lt;p&gt;Oh. Never mind. We really are going backwards before we move into the future, huh?&lt;/p&gt;
-                                                            &lt;/article&gt;</description>
-			<excerpt>If you're running a Raptor Lake-chipped system, congratulations—it seems you're ahead of the curve. Speaking to Tom's Hardware, Intel's vice president and general manager of its enthusiast channel business, Robert Hallock, says that far from putting the 10 nm chips out to pasture, Intel is doubling-down: "Going forward, 10 nm products like Raptor Lake; that is a core part of the portfolio that I want to offer to people for years to come," said the Intel chief. "LGA 1700 is still a good socket. Lots of people [are] still interested in DDR4, so [we’ll] keep offering, and you'll see [pricing] smooth out over time. It'll come back to normal. That's the plan." And it's not difficult to imagine…</excerpt><pubDate>Mon, 17 Aug 2026 10:15:42 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444763</guid>
-		</item>
-		<item>
-			<title>Colorful Collage of Tarantula Nebula</title>
-			<link>https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/</link>
-						<originalLink>https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/</originalLink><dc:creator>HQ Web Team</dc:creator>
-			<category>Nebulae</category>
-			<description>&lt;div data-sanitized-id="" data-sanitized-class="hds-media hds-module wp-block-image"&gt;&lt;div data-sanitized-class="margin-left-auto margin-right-auto nasa-block-align-inline"&gt;&lt;div data-sanitized-class="hds-media-wrapper margin-left-auto margin-right-auto"&gt;&lt;figure data-sanitized-class="hds-media-inner hds-cover-wrapper hds-media-ratio-none "&gt;&lt;a href="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg"&gt;&lt;img width="1280" height="1129" src="https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg?w=1280" alt="This multiwavelength image of the Tarantula Nebula, one of the brightest and largest regions of star formation to Earth, shows X-rays from Chandra that reveal gas that has been blown away in winds from the surfaces of young, massive stars and heated to millions of degrees by shock waves, like sonic booms from supersonic jets. The infrared data from Webb shows thousands of young stars, plus swaths of cool dust that will provide the ingredients to one day form new stars and planets. Hubble optical data uncovers hydrogen gas that is warmer than seen with Webb, as well as some individual stars through the nebula." data-sanitized-class="attachment-2048x2048 size-2048x2048"&gt;&lt;/a&gt;&lt;/figure&gt;&lt;figcaption data-sanitized-class="hds-caption padding-y-2"&gt;&lt;div data-sanitized-class="hds-credits"&gt;X-ray: NASA/CXC/Ohio State Univ./J. Rodriguez et al; Infrared: NASA/ESA/CSA/STScI; Optical: NASA/ESA/STScI; Image Processing: NASA/CXC/SAO/P. Edmonds&lt;/div&gt;&lt;/figcaption&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
-
-
-&lt;p data-sanitized-class="wp-block-paragraph"&gt;Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image. Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the Tarantula has thousands of young stars embedded in a vibrant honeycomb-like structure of gas and dust.&lt;/p&gt;
-
-
-
-&lt;p data-sanitized-class="wp-block-paragraph"&gt;By studying the data from Chandra, Hubble, and Webb, combined with data from the agency’s retired Spitzer Space Telescope, astronomers determined that the Tarantula may be losing energy from several sources, including hot gas escaping from the nebula.&lt;/p&gt;
-
-
-
-&lt;p data-sanitized-class="wp-block-paragraph"&gt;&lt;a href="https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/"&gt;Learn more about this image.&lt;/a&gt;&lt;/p&gt;
-
-
-
-&lt;p data-sanitized-class="wp-block-paragraph"&gt;&lt;em&gt;Image credit: X-ray: NASA/CXC/Ohio State Univ./J. Rodriguez et al; Infrared: NASA/ESA/CSA/STScI; Optical: NASA/ESA/STScI; Image Processing: NASA/CXC/SAO/P. Edmonds&lt;/em&gt;&lt;/p&gt;</description>
-			<excerpt>X-ray: NASA/CXC/Ohio State Univ./J. Rodriguez et al; Infrared: NASA/ESA/CSA/STScI; Optical: NASA/ESA/STScI; Image Processing: NASA/CXC/SAO/P. Edmonds Data from NASA’s Chandra X-ray Observatory, NASA’s James Webb Space Telescope, and NASA’s Hubble Space Telescope combine to reveal a vibrant view of 30 Doradus, or the Tarantula Nebula, in this Aug. 11, 2026, image. Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way about 160,000 light-years from Earth, the Tarantula has thousands of young stars embedded in a vibrant honeycomb-like structure of gas and dust. By studying the data from Chandra, Hubble, and Webb, combined with data from the agency’s retired Spitzer…</excerpt><pubDate>Mon, 17 Aug 2026 10:00:09 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444762</guid>
-		</item>
-		<item>
-			<title>Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study</title>
-			<link>https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/</link>
-						<originalLink>https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49332981"&gt;Comments&lt;/a&gt;</description>
-			<excerpt>Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study</excerpt><pubDate>Mon, 17 Aug 2026 09:49:57 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444761</guid>
-		</item>
-		<item>
-			<title>SPC Day 1 Fire Weather Outlook</title>
-			<link>https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</link>
-						<originalLink>https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</originalLink><description>SPC Day 1 Fire Weather Outlook
-          &lt;br&gt;&lt;a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"&gt;&lt;img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center"&gt;&lt;/a&gt;&lt;pre&gt;
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1047 AM CDT Mon Aug 17 2026
-
-Valid 171700Z - 181200Z
-
-Minor changes were made to existing Elevated fire weather risk area
-in agreement with the latest forecast guidance showing strongest
-winds slightly farther east. As was previously mentioned, afternoon
-RHs in the mid teens will combine with breezy, terrain-influenced
-westerly winds up to 10-15 mph. These weather conditions will
-combine with critically dry fuels exceeding the 95th percentile ERCs
-across far northeastern CA, southeastern OR, and northwestern NV.
-Regarding the dry thunderstorm potential over the northern Rockies
-and surrounding areas, recent precipitation and less than severely
-dry fuels have moderated receptivity and spread potential. While
-lightning ignitions cannot be totally ruled out, a widespread dry
-thunderstorm threat is not anticipated.
-
-..Stearns.. 08/17/2026
-
-.PREV DISCUSSION... /ISSUED 0140 AM CDT Mon Aug 17 2026/
-
-...Synopsis...
-Upper-level ridging across the western US will weaken as a trough
-deepens across the Canadian Prairies. Increasing westerly flow
-across the northern periphery of the ridge will bring an increase in
-surface winds across portions of northern California and the Great
-Basin with dry and breezy conditions possible.
-
-...Northern Great Basin and Northeast California...
-Warm afternoon temperatures are forecast to overlap with breezy
-southwesterly surface winds across portions of northeastern
-California into northern Nevada this afternoon. Relative humidity
-reductions to 15-20% will overlap with sustained westerly winds
-around 10-15 mph to support a few hours of Elevated fire weather
-conditions. Fuels in this region remain critically dry, with little
-to no recent rainfall.
-
-...Northern Rockies...
-Ascent from the trough sweeping across the northern Rockies into the
-northern Plains will bring widely scattered thunderstorm activity
-across portions of the northern Rockies this afternoon. Moisture
-will be shallow and limited, with precipitable water values around
-0.50-0.90". This in combination with faster storm motions may lead
-to little in the way of wetting rainfall. However, several days of
-wetting rainfall have tempered fuels such that dry storms and
-lightning ignitions are expected to be sporadic. Several new starts
-have been noted across southwestern ID and eastern OR. Depending on
-the timing and location of the approaching shortwave trough, an
-isolated thunderstorm over dry fuels further south into Idaho is
-possible, albeit low (5-10% chance).
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-&lt;/pre&gt;
-&lt;a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"&gt;Read more&lt;/a&gt;</description>
-			<excerpt>SPC Day 1 Fire Weather Outlook Day 1 Fire Weather Outlook NWS Storm Prediction Center Norman OK 1047 AM CDT Mon Aug 17 2026 Valid 171700Z - 181200Z Minor changes were made to existing Elevated fire weather risk area in agreement with the latest forecast guidance showing strongest winds slightly farther east. As was previously mentioned, afternoon RHs in the mid teens will combine with breezy, terrain-influenced westerly winds up to 10-15 mph. These weather conditions will combine with critically dry fuels exceeding the 95th percentile ERCs across far northeastern CA, southeastern OR, and northwestern NV. Regarding the dry thunderstorm potential over the northern Rockies and surrounding…</excerpt><pubDate>Mon, 17 Aug 2026 09:49:30 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444760</guid>
-		</item>
-		<item>
-			<title>Launch HN: Speko (YC S26) – OpenRouter for Voice AI</title>
-			<link>https://speko.ai/</link>
-						<originalLink>https://speko.ai/</originalLink><description>&lt;a href="https://news.ycombinator.com/item?id=49332751"&gt;Comments&lt;/a&gt;</description>
-			<excerpt>Launch HN: Speko (YC S26) – OpenRouter for Voice AI</excerpt><pubDate>Mon, 17 Aug 2026 09:36:18 -0600</pubDate>
-			<firstSeen>Mon, 17 Aug 2026 11:05:02 -0600</firstSeen><guid isPermaLink="false">1786986195444759</guid>
 		</item>
 
 	</channel>
