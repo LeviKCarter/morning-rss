@@ -4,10 +4,19 @@
 		<title>ChatGPT Morning RSS</title>
 		<link>http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=html</link>
 		<description>Read-only recent article feed for the morning summary.</description>
-		<pubDate>Mon, 17 Aug 2026 05:05:01 -0600</pubDate>
-		<lastBuildDate>Mon, 17 Aug 2026 11:05:01 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Aug 2026 06:05:01 -0600</pubDate>
+		<lastBuildDate>Mon, 17 Aug 2026 12:05:01 GMT</lastBuildDate>
 		<atom:link href="http://localhost:8080/api/query.php?user=Levi&amp;t=2sSRpWja3geZw10ojvWltp&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>Rent a car vs uber during a 7 hour airport connection?</title>
+			<link>https://www.reddit.com/r/Denver/comments/1vqjfz5/rent_a_car_vs_uber_during_a_7_hour_airport/</link>
+						<originalLink>https://www.reddit.com/r/Denver/comments/1vqjfz5/rent_a_car_vs_uber_during_a_7_hour_airport/</originalLink><dc:creator>/u/chris_warrior1</dc:creator>
+			<category>r/Denver</category>
+			<description>&lt;div data-sanitized-class="md"&gt;&lt;p&gt;I’ll be having a layover in Denver next month which will be 7 hours long. My itinerary is DCA-DEN-FAR. I’ve been to Colorado before, but it will be my dad’s first time. I want him to try in n out and also get a view of the Rockies from a distance. If my connecting flight leaves at 4, I’ll probably need to be back in the terminal by 2. I’d rent through Turo. What would you do?&lt;/p&gt; &lt;/div&gt;   submitted by   &lt;a href="https://www.reddit.com/user/chris_warrior1"&gt; /u/chris_warrior1 &lt;/a&gt;   to   &lt;a href="https://www.reddit.com/r/Denver/"&gt; r/Denver &lt;/a&gt; &lt;br&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/Denver/comments/1vqjfz5/rent_a_car_vs_uber_during_a_7_hour_airport/"&gt;[link]&lt;/a&gt;&lt;/span&gt;   &lt;span&gt;&lt;a href="https://www.reddit.com/r/Denver/comments/1vqjfz5/rent_a_car_vs_uber_during_a_7_hour_airport/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</description>
+			<excerpt>I’ll be having a layover in Denver next month which will be 7 hours long. My itinerary is DCA-DEN-FAR. I’ve been to Colorado before, but it will be my dad’s first time. I want him to try in n out and also get a view of the Rockies from a distance. If my connecting flight leaves at 4, I’ll probably need to be back in the terminal by 2. I’d rent through Turo. What would you do?</excerpt><pubDate>Sun, 16 Aug 2026 23:34:07 -0600</pubDate>
+			<firstSeen>Mon, 17 Aug 2026 06:05:01 -0600</firstSeen><guid isPermaLink="false">1786966381658746</guid>
+		</item>
+		<item>
 			<title>Kingdom Hearts and Until Dawn actress Hayden Panettiere has died at 36</title>
 			<link>https://www.pcgamer.com/gaming-industry/kingdom-hearts-and-until-dawn-actress-hayden-panettiere-has-died-at-36/</link>
 						<originalLink>https://www.pcgamer.com/gaming-industry/kingdom-hearts-and-until-dawn-actress-hayden-panettiere-has-died-at-36/</originalLink><category>Gaming Industry</category>
@@ -2029,23 +2038,6 @@ Abstract: Skills have emerged as a practical and effective approach for enhancin
 Abstract: Machine learning is rapidly reshaping constitutive modeling, offers new ways to learn material behavior directly from experimental data, and challenges long-established modeling paradigms. But with a growing number of machine-learning-based approaches available, how do they compare in practice? In this paper, we use the classic experimental data of Treloar to benchmark popular frameworks for hyperelasticity: (Generalized-Invariant) Constitutive Artificial Neural Networks, Physics-Augmented Neural Networks, (Adaptive) Material Fingerprinting, and Efficient Unsupervised Constitutive Law Identification &amp;amp; Discovery. We compare their fitting performance, computational cost, hyperparameter sensitivity, and ease of implementation. Furthermore, we discuss the trade-offs between predictive accuracy and model complexity. The latter is assessed by quantifying both the number of material parameters in the discovered models and the computational time required to evaluate the constitutive model and its derivatives. The results show that all methods can reproduce the benchmark data remarkably well. Rather than identifying a single winner, we highlight the strengths and limitations of each approach and provide practical guidance for their use. The source code for all six methods, including the training and comparison scripts, as well as all results and data used in this study, is publicly available via https://doi.org/10.5281/zenodo.21915635.</description>
 			<excerpt>arXiv:2608.14063v1 Announce Type: new Abstract: Machine learning is rapidly reshaping constitutive modeling, offers new ways to learn material behavior directly from experimental data, and challenges long-established modeling paradigms. But with a growing number of machine-learning-based approaches available, how do they compare in practice? In this paper, we use the classic experimental data of Treloar to benchmark popular frameworks for hyperelasticity: (Generalized-Invariant) Constitutive Artificial Neural Networks, Physics-Augmented Neural Networks, (Adaptive) Material Fingerprinting, and Efficient Unsupervised Constitutive Law Identification &amp; Discovery. We compare their fitting…</excerpt><pubDate>Sun, 16 Aug 2026 22:00:00 -0600</pubDate>
 			<firstSeen>Sun, 16 Aug 2026 22:05:02 -0600</firstSeen><guid isPermaLink="false">1786939389040643</guid>
-		</item>
-		<item>
-			<title>Scaling Domain Data Repetition in LLM Pretraining</title>
-			<link>https://arxiv.org/abs/2608.14071</link>
-						<originalLink>https://arxiv.org/abs/2608.14071</originalLink><dc:creator>Jingwei Li</dc:creator>
-			<dc:creator>Xinran Gu</dc:creator>
-			<dc:creator>Rui Dai</dc:creator>
-			<dc:creator>Xintong Hao</dc:creator>
-			<dc:creator>Chengyin Xu</dc:creator>
-			<dc:creator>Yan Wu</dc:creator>
-			<dc:creator>Shuran Zheng</dc:creator>
-			<dc:creator>Jingzhao Zhang</dc:creator>
-			<category>cs.AI</category>
-			<description>arXiv:2608.14071v1 Announce Type: new 
-Abstract: As large language models scale, their training-token budgets must also increase to maintain an appropriate tokens-per-parameter ratio (\(\mathrm{TPP}\)). However, high-quality domain data is much harder to scale than general web data. As model size and the training-token budget increase, its fraction in the training mixture tends to decrease. Repeating the available high-quality data provides an effective way to counteract this dilution, but excessive repetition may lead to overfitting. We study this trade-off under practical LLM scaling, where the training-token budget grows proportionally with model size. For a fixed domain, we first find that, surprisingly at a fixed \(\mathrm{TPP}\), the optimal repetition count mildly increases with model size. Across different domains, we find that the optimal repetition count is strongly negatively correlated with the final validation loss of a domain: domains with lower loss can generally benefit from more repetitions. In contrast, the amount of unique domain data is only weakly related to the optimal repetition count. These findings suggest that repetition counts tuned on smaller proxy models with the same \(\mathrm{TPP}\) can provide a practical estimate for larger models.</description>
-			<excerpt>arXiv:2608.14071v1 Announce Type: new Abstract: As large language models scale, their training-token budgets must also increase to maintain an appropriate tokens-per-parameter ratio (\(\mathrm{TPP}\)). However, high-quality domain data is much harder to scale than general web data. As model size and the training-token budget increase, its fraction in the training mixture tends to decrease. Repeating the available high-quality data provides an effective way to counteract this dilution, but excessive repetition may lead to overfitting. We study this trade-off under practical LLM scaling, where the training-token budget grows proportionally with model size. For a fixed domain, we first find…</excerpt><pubDate>Sun, 16 Aug 2026 22:00:00 -0600</pubDate>
-			<firstSeen>Sun, 16 Aug 2026 22:05:02 -0600</firstSeen><guid isPermaLink="false">1786939389040642</guid>
 		</item>
 
 	</channel>
